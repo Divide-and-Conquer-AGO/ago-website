@@ -10,17 +10,24 @@
   </h1>
 
   <div class="content-body">
-    <ul class="content-body-list">
-      {{ range .Data.Pages -}}
-        <li>
-          <table>
-            <tr>
-              <span><a class="list-item" href="{{ .Permalink }}">{{ .Title }}</a></span>
-            </tr>
-          </table>
-        </li>
-      {{- end }}
-      </ul>
+    <table class="content-body-list">
+      <thead>
+        <!-- <th>Faction</th> -->
+        <!-- <th>Icon</th> -->
+      </thead>
+      <tbody>
+        {{ range .Data.Pages -}}
+        <tr>
+          <td class="list-item">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </td>
+          <td class="list-image">
+            <img src="https://cdn.discordapp.com/attachments/759414542240972845/1346599793320787998/image.png?ex=67c96f09&is=67c81d89&hm=132e54eadaa18eb00096bb543cf524d18e315db31625ef1167ce5352ff1c489b&">
+          </td>
+        </tr>
+        {{- end }}
+      </tbody>
+    </table>
   </div>
 </div>
 {{- end }}

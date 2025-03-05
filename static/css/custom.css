@@ -239,12 +239,6 @@ hr {
   font-size: 25px;
 }
 
-.content-body-list {
-  list-style: none;
-  text-align: center;
-  padding: 0;
-}
-
 /* Code */
 code {
   font-size: 20px;
@@ -635,4 +629,58 @@ body .testimonials .speechbubble .username:before {
 .attribute-table td {
   text-align: right;
   background-color: #151515;
+}
+
+/* Content List */
+.content-body-list {
+  width: 100%;
+  border: #633a00;
+  border-style: solid;
+  background: #1e1e1e8c;
+  box-shadow: inset 0 0 5px #000000;
+
+}
+
+.list-item {
+  text-align: center;
+  font-size: px !important;
+  padding: 5px;
+  border: #633a00;
+  border-style: solid;
+  width: 80vw;
+  height: 2vh;
+  box-shadow: inset 0 0 5px #000000;
+  text-shadow: 5px 5px #000000;
+}
+
+.list-image {
+  border: #633a00;
+  border-style: solid;
+  height: 2vh;
+}
+
+.list-image img {
+  padding: 5px;
+  filter: drop-shadow(10px 10px 10px #000000);
+}
+
+.content-body-list thead {
+}
+
+.content-body-list th {
+}
+
+.content-body-list tr {
+}
+
+.content-body-list tr:hover {
+}
+
+.content-body-list td {
+}
+
+.list-item {
+}
+
+.list-item:hover {
 }
