@@ -182,7 +182,7 @@ hr {
   font-weight: bold;
 }
 .sidebar-nav a {
-  font-size: 42px;
+  font-size: 38px;
   background-image: linear-gradient(180deg,#ffb144, #ec900d);
   background-clip: text;
   -webkit-background-clip: text;
@@ -257,7 +257,7 @@ code {
 }
 
 audio::-webkit-media-controls-panel {
-  background-color: #ffb245;
+  background-color: #ca7601;
 }
 
 audio::-webkit-media-controls-mute-button {
@@ -286,7 +286,7 @@ audio::-webkit-media-controls-timeline {
 }
 
 audio::-webkit-media-controls-volume-slider {
-  background-color: rgba(255, 179, 0, 0.7);
+  background-color: #ca760179;
   border-radius: 25px;
   padding-left: 8px;
   padding-right: 8px;
