@@ -9,8 +9,6 @@ subtitle: ""
 
 ### Campaign Features
 
-### Rare Units
-
 ### Gallery
 
 {{< gallery

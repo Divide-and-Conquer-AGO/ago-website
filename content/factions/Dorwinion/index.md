@@ -7,6 +7,10 @@ internalTitle: "byzantium"
 
 {{< audio "dorwinion_stratmap_01.mp3" >}}
 
+<div class="starting-location">
+    <img src="/images/faction_locations/byzantium.png" alt="{{ .Title }}"/>
+</div>
+
 ### Starting Location
 Dorwinion is located in the eastern reaches of Rhovanion, bordered by the mountains and sea of Rhûn. Both of these natural features provide Dorwinion some protection from their Easterling neighbours. They begin with their capital; The Garden City (Caras Sant), the castle of the Western Gardens (Sant Annui) and the City of the Coastal Folk (Strondost).
 
@@ -39,12 +43,6 @@ Dorwinion have a unique military that depends upon the choices their ruling coun
 #### Rouadengi
 
 - Dwellers of the trading towns of Dorwinion, a people related to both old Rhovanion, Dale and even Gondor. Make up the urban elite of the society, are the richest, upper class has extensive and wide ranging vineyards. Capitol houses the Vintner Court.
-
-### Rare Units
-
-- Kugathi Ratha
-- Regents Redwood-Bows
-- Rouadengi Citizen-Guard
 
 ### Gallery
 

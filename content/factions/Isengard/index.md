@@ -6,11 +6,13 @@ internalTitle: "france"
 
 {{< audio ".mp3" >}}
 
+<div class="starting-location">
+    <img src="/images/faction_locations/france.png" alt="{{ .Title }}"/>
+</div>
+
 ### Description
 
 ### Campaign Features
-
-### Rare Units
 
 ### Gallery
 

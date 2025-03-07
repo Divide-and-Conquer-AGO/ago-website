@@ -6,11 +6,13 @@ internalTitle: "teutonic_order"
 
 {{< audio ".mp3" >}}
 
+<div class="starting-location">
+    <img src="/images/faction_locations/teutonic_order.png" alt="{{ .Title }}"/>
+</div>
+
 ### Description
 
 ### Campaign Features
-
-### Rare Units
 
 ### Gallery
 

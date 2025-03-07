@@ -6,11 +6,13 @@ internalTitle: "khand"
 
 {{< audio ".mp3" >}}
 
+<div class="starting-location">
+    <img src="/images/faction_locations/khand.png" alt="{{ .Title }}"/>
+</div>
+
 ### Description
 
 ### Campaign Features
-
-### Rare Units
 
 ### Gallery
 

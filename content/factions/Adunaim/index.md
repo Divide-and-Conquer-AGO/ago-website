@@ -6,11 +6,13 @@ internalTitle: "russia"
 
 {{< audio ".mp3" >}}
 
+<div class="starting-location">
+    <img src="/images/faction_locations/russia.png" alt="{{ .Title }}"/>
+</div>
+
 ### Description
 
 ### Campaign Features
-
-### Rare Units
 
 ### Gallery
 

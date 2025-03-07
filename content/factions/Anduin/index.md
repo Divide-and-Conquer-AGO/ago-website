@@ -6,11 +6,13 @@ internalTitle: "timurids"
 
 {{< audio ".mp3" >}}
 
+<div class="starting-location">
+    <img src="/images/faction_locations/timurids.png" alt="{{ .Title }}"/>
+</div>
+
 ### Description
 
 ### Campaign Features
-
-### Rare Units
 
 ### Gallery
 

@@ -6,6 +6,10 @@ internalTitle: "aztecs"
 
 {{< audio ".mp3" >}}
 
+<div class="starting-location">
+    <img src="/images/faction_locations/aztecs.png" alt="{{ .Title }}"/>
+</div>
+
 ### Description
 In times long past and ill-remembered, shrouded in legend and mystery, the black tower was ruled by the Númenóreans. Today, it is held by the Wise One. Saruman. He sends us greetings, and gifts of blade and shield to our Gurach's hall.
 He wishes to be our friend, so his emissaries claim, and sees the great injustices done to us by the Forgoil as debt in dire need of repayment.
@@ -25,8 +29,6 @@ The Brehins rejoice at this. It is what our men would do anyway, so why not take
   - Advance beyond your tribal ways and set a course for the Dunland of the future and beyond
 - **Kin/Raiding Lands (V3)**
   - Incorporate the lands of the Free People's into your own or designate them as nothing more than a source of gold and loot for your armies
-
-### Rare Units
 - Huntmasters
 - Isendraich Towersworn
 - Horse-fellers

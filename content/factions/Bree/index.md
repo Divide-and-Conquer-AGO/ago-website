@@ -7,6 +7,10 @@ internalTitle: "normans"
 
 {{< audio "bree_stratmap_new_3.mp3" >}}
 
+<div class="starting-location">
+    <img src="/images/faction_locations/normans.png" alt="{{ .Title }}"/>
+</div>
+
 ### Description
 Some will tell you that Bree is old.
 
@@ -27,16 +31,10 @@ Of course, if you ask a Bree-lander most of the above is just pointless chatter.
   - The Bree-land needs an experience commander to lead it's armies in the coming wars. Create your own custom general from a variety of cultures and backgrounds to serve as your faction leader.
 
 <div class="previews-embed-homepage">
-    <iframe allow="fullscreen;" frameborder="0" width="1200" height="500"
+    <iframe allow="fullscreen;" frameborder="0" width="100%" height="100%"
         src="https://www.youtube.com/embed/IQzjLlk6Kto?si=MoFm15Zr0OVhrTei">
     </iframe>
 </div>
-
-### Rare Units
-
-- Greenway Riders
-- Merchant Infantry
-- Watch Shirriffs
 
 ### Gallery
 

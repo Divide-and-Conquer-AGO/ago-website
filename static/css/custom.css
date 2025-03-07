@@ -684,3 +684,25 @@ body .testimonials .speechbubble .username:before {
 
 .list-item:hover {
 }
+
+.previews-embed-homepage {
+  width: 75vw;
+  height: 50vh;
+  margin: 5%;
+  margin-left:-3%;
+  text-align: center;
+}
+
+.content-body h3 {
+  text-align: center;
+}
+
+.starting-location {
+  text-align: center;
+}
+
+.starting-location img {
+  width: 50vw;
+  height: 70vh;
+  text-shadow: 5px 5px #000000;
+}
