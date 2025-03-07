@@ -1,6 +1,7 @@
 ---
 title: "Realm of Lothlórien"
 subtitle: ""
+internalTitle: "ireland"
 ---
 
 {{< audio ".mp3" >}}

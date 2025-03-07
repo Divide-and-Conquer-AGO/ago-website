@@ -1,6 +1,7 @@
 ---
 title: "Principality of Dol Amroth"
 subtitle: ""
+internalTitle: "denmark"
 ---
 
 {{< audio ".mp3" >}}

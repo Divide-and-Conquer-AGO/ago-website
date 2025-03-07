@@ -1,6 +1,7 @@
 ---
 title: "Dwarves of Erebor"
 subtitle: ""
+internalTitle: "moors"
 ---
 
 {{< audio ".mp3" >}}

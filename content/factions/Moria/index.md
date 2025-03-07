@@ -1,6 +1,7 @@
 ---
 title: "Goblins of Moria"
 subtitle: ""
+internalTitle: "hre"
 ---
 
 {{< audio ".mp3" >}}

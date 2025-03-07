@@ -1,6 +1,7 @@
 ---
 title: "Variags of Khand"
 subtitle: ""
+internalTitle: "khand"
 ---
 
 {{< audio ".mp3" >}}

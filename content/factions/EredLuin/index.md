@@ -1,6 +1,7 @@
 ---
 title: "Dwarves of Ered Luin"
 subtitle: ""
+internalTitle: "hungary"
 ---
 
 {{< audio ".mp3" >}}

@@ -1,6 +1,7 @@
 ---
 title: "Orcs of Gundabad"
 subtitle: ""
+internalTitle: "gundabad"
 ---
 
 {{< audio ".mp3" >}}

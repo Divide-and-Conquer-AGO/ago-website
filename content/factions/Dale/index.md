@@ -1,6 +1,7 @@
 ---
 title: "Kingdom of Dale"
 subtitle: ""
+internalTitle: "scotland"
 ---
 
 {{< audio ".mp3" >}}
