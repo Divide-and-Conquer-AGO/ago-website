@@ -11,6 +11,7 @@ internalTitle: "england"
 </div>
 
 ### Description
+"Ash nazg durbatulûk, ash nazg gimbatul, Ash nazg thrakatulûk! agh burzum-ishi krimpatul." - Ring inscription
 
 ### Campaign Features
 

@@ -11,8 +11,11 @@ internalTitle: "gundabad"
 </div>
 
 ### Description
+"In the Dwarvish traditions of the Third Age the names of the places where each of the Seven Ancestors had 'awakened' were remembered ... that of the ancestor of the Longbeards [Durin's Folk] ... had been Mount Gundabad (in origin a Khuzdul name), which was therefore revered by the Dwarves, and its occupation in the Third Age by the Orcs of Sauron was one of the chief reasons for their great hatred of the Orcs. ... Though these [places of awakening] were far sundered the Dwarves of different kindreds were in communication, and in the early ages often held assemblies of delegates at Mount Gundabad." - Description of Mount Gundabad
 
 ### Campaign Features
+- **Orc Enslavement**
+  - Recruit other factions orc units from other factions upon capturing their core settlements
 
 ### Gallery
 

@@ -11,6 +11,7 @@ internalTitle: "hre"
 </div>
 
 ### Description
+"Clap! Snap! the black crack! Grip, grab! Pinch, nab! And down, down to Goblin-town You go, my lad! Clash, crash! Crush, smash! Hammer and tongs! Knocker and gongs! Pound, pound, far underground! Ho, ho! my lad! Swish, smack! Whip crack! Batter and beat! Yammer and bleat! Work, work! Nor dare to shirk, While Goblins quaff, and Goblins laugh, Round and round far underground Below, my lad!" - Goblin prisoner song 
 
 ### Campaign Features
 

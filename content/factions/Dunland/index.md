@@ -29,9 +29,6 @@ The Brehins rejoice at this. It is what our men would do anyway, so why not take
   - Advance beyond your tribal ways and set a course for the Dunland of the future and beyond
 - **Kin/Raiding Lands (V3)**
   - Incorporate the lands of the Free People's into your own or designate them as nothing more than a source of gold and loot for your armies
-- Huntmasters
-- Isendraich Towersworn
-- Horse-fellers
 
 ### Gallery
 

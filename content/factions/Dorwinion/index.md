@@ -11,8 +11,8 @@ internalTitle: "byzantium"
     <img src="/images/faction_locations/byzantium.png" alt="{{ .Title }}"/>
 </div>
 
-### Starting Location
-Dorwinion is located in the eastern reaches of Rhovanion, bordered by the mountains and sea of Rhûn. Both of these natural features provide Dorwinion some protection from their Easterling neighbours. They begin with their capital; The Garden City (Caras Sant), the castle of the Western Gardens (Sant Annui) and the City of the Coastal Folk (Strondost).
+### Description
+"The heady vintage of the great gardens of Dorwinion... a land of vines in 'the burning South.'" - Little known information on Dorwinion
 
 ### Campaign Events
 - **Encircle the Sea of Rhun (V3)**
