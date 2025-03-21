@@ -36,9 +36,12 @@
   {{ end }}
 {{ end }}
 
-{{ if gt (len $filteredUnits) 0 }}
+<!-- Sort the filtered units -->
+{{ $sortedUnits := sort $filteredUnits "SoldierCount" "desc" }}
+
+{{ if gt (len $sortedUnits) 0 }}
   <!-- <h3>Units owned by {{ $faction }} ({{ len $filteredUnits }} found)</h3> -->
-  {{ range $unitKey, $unitData := $filteredUnits }}
+  {{ range $unitKey, $unitData := $sortedUnits }}
 
   <table id="{{ $unitKey }}" class="units-table">
     <h3 class="unit-title">
