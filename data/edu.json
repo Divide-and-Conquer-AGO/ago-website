@@ -299,6 +299,7 @@
     "ArmourModelThree": "",
     "Ownership": [
       "sicily",
+      "turks",
       "slave"
     ],
     "EraZero": [
@@ -2510,7 +2511,8 @@
     "Ownership": [
       "sicily",
       "slave",
-      "turks"
+      "turks",
+      "denmark"
     ],
     "EraZero": [
       "sicily"
@@ -5357,6 +5359,8 @@
     "ArmourModelThree": "",
     "Ownership": [
       "denmark",
+      "turks",
+      "sicily",
       "slave"
     ],
     "EraZero": [
@@ -8115,8 +8119,7 @@
       "aztecs"
     ],
     "EraZero": [
-      "milan",
-      "aztecs"
+      "milan"
     ],
     "EraOne": [
       "milan"
@@ -28827,7 +28830,7 @@
     "SecFireType": "",
     "TerFireType": "",
     "Descr": "This unit consists mostly of the more experienced and elder Dwarves, who have seen many battles. They are very brave and motivated warriors, willing to fight for their lords and dedicated to protect their chief cities and mines in the Ered Luin. They are a deadly force to be reckoned with; for as with all Dwarves, they have excellent morale, ensuring that they will only retreat from battle when all hope of victory is gone. Armed with a sharp spear -a weapon both useful and deadly, especially when handled by the skilful hands of the Dwarves- and a round wooden shield of good quality, they will bring swift death to their foes. They wear finely crafted armour and form the basis of the medium tier troops from the Blue Mountains. Their blue-coloured clothes and garments clearly show from which mountain range they come and where their allegiance lies.",
-    "DescrShort": "Dependable front line troops armed with sturdy shields and swords.",
+    "DescrShort": "Dependable front line troops armed with sturdy shields and spears.",
     "Card": "E:\\Steam\\steamapps\\common\\Medieval II Total War\\mods\\ago_beta\\data\\ui\\units\\mercs\\#Longbeard_Swordsmen.tga",
     "MercenaryUnit": false,
     "IsEopUnit": false,
@@ -34703,6 +34706,8 @@
     "ArmourModelThree": "",
     "Ownership": [
       "mongols",
+      "mongols",
+      "ireland",
       "slave"
     ],
     "EraZero": [
@@ -36786,6 +36791,7 @@
     "ArmourModelThree": "",
     "Ownership": [
       "ireland",
+      "mongols",
       "slave"
     ],
     "EraZero": [
@@ -38711,7 +38717,8 @@
     "ArmourModelThree": "dw_civguard_upg",
     "Ownership": [
       "byzantium",
-      "slave"
+      "slave",
+      "russia"
     ],
     "EraZero": [
       "byzantium"
@@ -39430,7 +39437,7 @@
     "HitPoints": 1,
     "MountHitPoints": 2,
     "PriAttack": 7,
-    "PriCharge": 3,
+    "PriCharge": 5,
     "PriProjectile": "medium_arrow",
     "PriRange": 180,
     "PriAmmunition": 24,
@@ -39469,10 +39476,10 @@
     "TerAttDelay": 0,
     "TerSkelFactor": 0.0,
     "TerAttr": [],
-    "PriArmour": 4,
+    "PriArmour": 5,
     "FormationStyle": "square",
-    "PriDefense": 2,
-    "PriShield": 0,
+    "PriDefense": 3,
+    "PriShield": 3,
     "PriDefSound": "leather",
     "SecArmour": 0,
     "SecDefense": 0,
@@ -39537,9 +39544,9 @@
     "IsEopUnit": false,
     "FilePath": "",
     "EduIndex": 244,
-    "AiUnitValue": 640.0,
-    "ValuePerCost": 0.96,
-    "ValuePerUpkeep": 2.72,
+    "AiUnitValue": 853.0,
+    "ValuePerCost": 1.27,
+    "ValuePerUpkeep": 3.63,
     "CardInfo": "E:\\Steam\\steamapps\\common\\Medieval II Total War\\mods\\ago_beta\\data\\ui\\unit_info\\merc\\Regent_Bowguard_info.tga",
     "FactionSymbol": "E:\\Steam\\steamapps\\common\\Medieval II Total War\\mods\\ago_beta\\data\\ui\\faction_symbols\\byzantium.tga"
   },
@@ -43384,7 +43391,8 @@
     "ArmourModelThree": "",
     "Ownership": [
       "teutonic_order",
-      "slave"
+      "slave",
+      "aztecs"
     ],
     "EraZero": [
       "teutonic_order"
@@ -45635,7 +45643,9 @@
       "aztecs",
       "slave",
       "france",
-      "milan"
+      "milan",
+      "normans",
+      "russia"
     ],
     "EraZero": [
       "aztecs"
@@ -48546,7 +48556,8 @@
       "england",
       "khand",
       "slave",
-      "byzantium"
+      "byzantium",
+      "spain"
     ],
     "EraZero": [
       "england"
@@ -49041,7 +49052,8 @@
       "england",
       "slave",
       "khand",
-      "byzantium"
+      "byzantium",
+      "spain"
     ],
     "EraZero": [
       "england"
@@ -49204,7 +49216,9 @@
     "Ownership": [
       "england",
       "slave",
-      "khand"
+      "khand",
+      "spain",
+      "byzantium"
     ],
     "EraZero": [
       "england"
@@ -59063,13 +59077,11 @@
     ],
     "EraZero": [
       "slave",
-      "hre",
-      "aztecs"
+      "hre"
     ],
     "EraOne": [
       "slave",
-      "hre",
-      "aztecs"
+      "hre"
     ],
     "EraTwo": [
       "slave",
@@ -74609,9 +74621,7 @@
     "ArmourModelTwo": "",
     "ArmourModelThree": "",
     "Ownership": [
-      "slave",
-      "normans",
-      "aztecs"
+      "all"
     ],
     "EraZero": [
       "slave",
@@ -74645,7 +74655,7 @@
     "ValuePerCost": 1.4,
     "ValuePerUpkeep": 4.21,
     "CardInfo": "E:\\Steam\\steamapps\\common\\Medieval II Total War\\mods\\ago_beta\\data\\ui\\unit_info\\merc\\Bandits_info.tga",
-    "FactionSymbol": "E:\\Steam\\steamapps\\common\\Medieval II Total War\\mods\\ago_beta\\data\\ui\\faction_symbols\\normans.tga"
+    "FactionSymbol": ""
   },
   "Oathbreakers": {
     "LocalizedName": "Oathbreakers",
@@ -75774,20 +75784,10 @@
       "england"
     ],
     "EraZero": [
-      "slave",
-      "khand",
-      "russia",
-      "spain",
-      "venice",
-      "england"
+      "slave"
     ],
     "EraOne": [
-      "slave",
-      "khand",
-      "russia",
-      "spain",
-      "venice",
-      "england"
+      "slave"
     ],
     "EraTwo": [
       "slave",
@@ -76595,13 +76595,9 @@
       "russia"
     ],
     "EraZero": [
-      "aztecs",
-      "teutonic_order",
       "slave"
     ],
     "EraOne": [
-      "aztecs",
-      "teutonic_order",
       "slave"
     ],
     "EraTwo": [
@@ -76763,18 +76759,12 @@
       "slave"
     ],
     "EraZero": [
-      "aztecs",
-      "teutonic_order",
       "slave"
     ],
     "EraOne": [
-      "aztecs",
-      "teutonic_order",
       "slave"
     ],
     "EraTwo": [
-      "aztecs",
-      "teutonic_order",
       "slave"
     ],
     "RecruitPriorityOffset": -30.0,
@@ -79758,6 +79748,7 @@
     "ArmourModelThree": "",
     "Ownership": [
       "russia",
+      "spain",
       "slave"
     ],
     "EraZero": [],
@@ -80206,8 +80197,7 @@
     "ArmourModelTwo": "",
     "ArmourModelThree": "",
     "Ownership": [
-      "portugal",
-      "slave"
+      "all"
     ],
     "EraZero": [
       "portugal"
@@ -82791,7 +82781,8 @@
       "sicily",
       "united",
       "slave",
-      "turks"
+      "turks",
+      "denmark"
     ],
     "EraZero": [
       "sicily"
@@ -85762,7 +85753,6 @@
       "extreme_range",
       "very_hardy",
       "can_withdraw",
-      "stakes",
       "cannot_skirmish",
       "command",
       "legionary_name"
