@@ -45,6 +45,12 @@ To add a new faction, simply run
 
 2. Fill in the blank details and submit a PR/send me the files to upload.
 
+**Converting images to webp**
+```
+ find . -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.gif" \) -exec sh 
+-c 'magick "$0" "${0%.*}.webp" && rm "$0"' {} \;
+```
+
 ## Contact
 
  Feel free to get in touch!
@@ -55,3 +61,4 @@ To add a new faction, simply run
 ## Technologies
 
 - Hugo
+
