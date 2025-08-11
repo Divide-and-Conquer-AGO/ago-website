@@ -34,6 +34,10 @@
   }
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .content {
   background-color: rgb(34, 34, 34);
   font-family: 'Flare';
