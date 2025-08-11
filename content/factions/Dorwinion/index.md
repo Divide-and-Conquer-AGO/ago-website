@@ -8,7 +8,7 @@ internalTitle: "byzantium"
 {{< audio "dorwinion_stratmap_01.mp3" >}}
 
 <div class="starting-location">
-    <img src="/images/faction_locations/byzantium.png" alt="{{ .Title }}"/>
+    <img src="/images/faction_locations/byzantium.webp" alt="{{ .Title }}"/>
 </div>
 
 ### Description

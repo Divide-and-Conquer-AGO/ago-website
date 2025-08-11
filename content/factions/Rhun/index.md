@@ -7,7 +7,7 @@ internalTitle: "venice"
 {{< audio ".mp3" >}}
 
 <div class="starting-location">
-    <img src="/images/faction_locations/venice.png" alt="{{ .Title }}"/>
+    <img src="/images/faction_locations/venice.webp" alt="{{ .Title }}"/>
 </div>
 
 ### Description

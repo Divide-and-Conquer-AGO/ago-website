@@ -7,7 +7,7 @@ internalTitle: "aztecs"
 {{< audio ".mp3" >}}
 
 <div class="starting-location">
-    <img src="/images/faction_locations/aztecs.png" alt="{{ .Title }}"/>
+    <img src="/images/faction_locations/aztecs.webp" alt="{{ .Title }}"/>
 </div>
 
 ### Description

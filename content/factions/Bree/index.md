@@ -8,7 +8,7 @@ internalTitle: "normans"
 {{< audio "bree_stratmap_new_3.mp3" >}}
 
 <div class="starting-location">
-    <img src="/images/faction_locations/normans.png" alt="{{ .Title }}"/>
+    <img src="/images/faction_locations/normans.webp" alt="{{ .Title }}"/>
 </div>
 
 ### Description

@@ -68,10 +68,10 @@
   </library_effects>
   <library_images>
     <image id="bandits_attach_new_dds" name="bandits_attach_new_dds">
-      <init_from>bandits_attach_new.png</init_from>
+      <init_from>bandits_attach_new.webp</init_from>
     </image>
     <image id="bandits_new_dds" name="bandits_new_dds">
-      <init_from>bandits_new.png</init_from>
+      <init_from>bandits_new.webp</init_from>
     </image>
   </library_images>
   <library_materials>

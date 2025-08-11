@@ -7,7 +7,7 @@ internalTitle: "sicily"
 {{< audio ".mp3" >}}
 
 <div class="starting-location">
-    <img src="/images/faction_locations/gondor.png" alt="{{ .Title }}"/>
+    <img src="/images/faction_locations/gondor.webp" alt="{{ .Title }}"/>
 </div>
 
 ### Description

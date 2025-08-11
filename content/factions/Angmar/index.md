@@ -7,7 +7,7 @@ internalTitle: "portugal"
 {{< audio ".mp3" >}}
 
 <div class="starting-location">
-    <img src="/images/faction_locations/portugal.png" alt="{{ .Title }}"/>
+    <img src="/images/faction_locations/portugal.webp" alt="{{ .Title }}"/>
 </div>
 
 ### Description

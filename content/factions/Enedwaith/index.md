@@ -7,7 +7,7 @@ internalTitle: "teutonic_order"
 {{< audio ".mp3" >}}
 
 <div class="starting-location">
-    <img src="/images/faction_locations/teutonic_order.png" alt="{{ .Title }}"/>
+    <img src="/images/faction_locations/teutonic_order.webp" alt="{{ .Title }}"/>
 </div>
 
 ### Description

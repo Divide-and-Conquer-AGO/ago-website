@@ -7,7 +7,7 @@ internalTitle: "khand"
 {{< audio ".mp3" >}}
 
 <div class="starting-location">
-    <img src="/images/faction_locations/khand.png" alt="{{ .Title }}"/>
+    <img src="/images/faction_locations/khand.webp" alt="{{ .Title }}"/>
 </div>
 
 ### Description
