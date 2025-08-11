@@ -5,9 +5,26 @@
 }
 
 @font-face {
+  font-family: 'Aniron Bold';
+  src: url('../fonts/Aniron\ Bold.ttf') format('truetype')
+}
+
+
+@font-face {
   font-family: 'Flare';
   src: url('../fonts/flare.ttf') format('truetype')
 }
+
+@font-face {
+  font-family: 'Kereru';
+  src: url('../fonts/Kereru.ttf') format('truetype')
+}
+
+@font-face {
+  font-family: 'Kereru Bold';
+  src: url('../fonts/Kereru\ Bold.ttf') format('truetype')
+}
+
 
 @media (min-width: 48em) {
   .content {
@@ -39,7 +56,7 @@
   font-size: 42px;
   color: #ffb144;
   padding: 5px;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
   padding-top: 5px;
   text-shadow: 5px 5px #000000;
   position: sticky;
@@ -70,13 +87,16 @@
 }
 
 .content-body>h2 {
-  font-family: 'Aniron', sans-serif;
   color: #ffb144;
   padding-left: 0px;
   padding-bottom: 0px;
 }
 
 .content-body>p,li {
+  font-size: 18px;
+}
+
+.content-body strong {
   font-size: 20px;
 }
 
@@ -230,7 +250,7 @@ hr {
 
 /* List Items */
 .list-item {
-  font-size: 35px;
+  font-size: 25px;
   color: #ffb144;
 }
 
@@ -320,17 +340,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-family: 'Aniron', sans-serif;
+  font-family: 'Aniron Bold', sans-serif;
 }
 
 h2 {
   font-size: 35px;
-  font-family: 'Aniron', sans-serif;
+  font-family: 'Aniron Bold', sans-serif;
 }
 
 h3 {
   font-size: 30px;
-  font-family: 'Flare';
+  font-family: 'Aniron Bold';
 }
 
 h4{
@@ -656,12 +676,13 @@ body .testimonials .speechbubble .username:before {
 .list-image {
   border: #633a00;
   border-style: solid;
-  height: 2vh;
+  height: 0.5vh;
 }
 
 .list-image img {
   padding: 5px;
   filter: drop-shadow(10px 10px 10px #000000);
+  height: 10vh;
 }
 
 .content-body-list thead {

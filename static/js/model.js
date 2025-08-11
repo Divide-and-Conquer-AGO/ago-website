@@ -237,7 +237,7 @@ async function init() {
   // Add some basic controls
   controls = new THREE.OrbitControls(camera, renderer.domElement);
   controls.zoomSpeed = 1;
-  controls.autoRotate = true;
+  controls.autoRotate = false;
   controls.minDistance = 1.1;
   controls.maxDistance = 3;
 
