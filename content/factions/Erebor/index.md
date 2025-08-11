@@ -4,7 +4,7 @@ subtitle: ""
 internalTitle: "moors"
 ---
 
-{{< audio ".mp3" >}}
+{{< audio "dwarves_stratmap_new_5.mp3" >}}
 
 <div class="starting-location">
     <img src="/images/faction_locations/moors.webp" alt="{{ .Title }}"/>

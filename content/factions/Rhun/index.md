@@ -4,7 +4,7 @@ subtitle: ""
 internalTitle: "venice"
 ---
 
-{{< audio ".mp3" >}}
+{{< audio "rhun_stratmap_02.mp3" >}}
 
 <div class="starting-location">
     <img src="/images/faction_locations/venice.webp" alt="{{ .Title }}"/>

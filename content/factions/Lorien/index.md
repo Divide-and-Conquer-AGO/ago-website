@@ -4,7 +4,7 @@ subtitle: ""
 internalTitle: "ireland"
 ---
 
-{{< audio ".mp3" >}}
+{{< audio "elves_stratmap_new_5.mp3" >}}
 
 <div class="starting-location">
     <img src="/images/faction_locations/ireland.webp" alt="{{ .Title }}"/>

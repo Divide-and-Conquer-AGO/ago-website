@@ -4,7 +4,7 @@ subtitle: ""
 internalTitle: "poland"
 ---
 
-{{< audio ".mp3" >}}
+{{< audio "guldur_stratmap_18.mp3" >}}
 
 <div class="starting-location">
     <img src="/images/faction_locations/poland.webp" alt="{{ .Title }}"/>

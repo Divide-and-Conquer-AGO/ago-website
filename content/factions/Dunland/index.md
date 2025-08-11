@@ -4,7 +4,7 @@ subtitle: "They are not natives here; they are crebain out of Fangorn and Dunlan
 internalTitle: "aztecs"
 ---
 
-{{< audio ".mp3" >}}
+{{< audio "wildmen_stratmap_20.mp3" >}}
 
 <div class="starting-location">
     <img src="/images/faction_locations/aztecs.webp" alt="{{ .Title }}"/>

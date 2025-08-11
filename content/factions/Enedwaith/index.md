@@ -4,7 +4,7 @@ subtitle: ""
 internalTitle: "teutonic_order"
 ---
 
-{{< audio ".mp3" >}}
+{{< audio "wildmen_stratmap_new_1.mp3" >}}
 
 <div class="starting-location">
     <img src="/images/faction_locations/teutonic_order.webp" alt="{{ .Title }}"/>

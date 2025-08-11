@@ -4,7 +4,7 @@ subtitle: ""
 internalTitle: "sicily"
 ---
 
-{{< audio ".mp3" >}}
+{{< audio "gondor_stratmap_01.mp3" >}}
 
 <div class="starting-location">
     <img src="/images/faction_locations/gondor.webp" alt="{{ .Title }}"/>

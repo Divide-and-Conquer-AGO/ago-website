@@ -4,7 +4,7 @@ subtitle: ""
 internalTitle: "timurids"
 ---
 
-{{< audio ".mp3" >}}
+{{< audio "anduin_stratmap_17.mp3" >}}
 
 <div class="starting-location">
     <img src="/images/faction_locations/timurids.webp" alt="{{ .Title }}"/>

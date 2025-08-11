@@ -4,7 +4,7 @@ subtitle: ""
 internalTitle: "khand"
 ---
 
-{{< audio ".mp3" >}}
+{{< audio "khand_stratmap_new_1.mp3" >}}
 
 <div class="starting-location">
     <img src="/images/faction_locations/khand.webp" alt="{{ .Title }}"/>
