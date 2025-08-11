@@ -20,116 +20,96 @@
   {{ end }}
 {{ end }}
 
-{{ $filteredUnits := dict }}
+{{ $factionData := index $data $faction }}
 
-{{ range $unitKey, $unitData := $data }}
-  {{ if and (isset $unitData "EraZero") (reflect.IsSlice $unitData.EraZero) }}
-    {{ $hasOwnership := false }}
-    {{ range $index, $owner := $unitData.EraZero }}
-      {{ if eq $owner $faction }}
-        {{ $hasOwnership = true }}
+{{ if $factionData }}
+  {{ range $group := slice "generals" "regular" "siege" }}
+    {{ $units := index $factionData $group }}
+    {{ if gt (len $units) 0 }}
+      {{ range $unitKey, $unitData := $units }}
+        <table id="{{ $unitKey }}" class="units-table">
+          <h3 class="unit-title">
+            <a id="#{{ $unitKey }}" href="#{{ $unitKey }}">
+              {{ if isset $unitData "LocalizedName" }}{{ $unitData.LocalizedName }}{{ else }}{{ $unitKey }}{{ end }}
+            </a>
+          </h3>
+          <tbody>
+            <tr>
+              <td class="unit-image">
+                {{ $imagePath := printf "/info_cards/%s_info.webp" $unitData.Dictionary | lower }}
+                <img src="{{ $imagePath | relURL }}" alt="{{ $unitData.Dictionary }} Info">
+              </td>
+              <td class="unit-info">
+                <table class="attribute-table">
+                  <tr>
+                    <th>Soldiers</th>
+                    <td>
+                      {{ if isset $unitData "SoldierCount" }}
+                        {{ printf "%.0f" (mul $unitData.SoldierCount 2.5) }}
+                      {{ else }}
+                        N/A
+                      {{ end }}
+                    </td>
+                  </tr>
+                  <tr>
+                    <th>Attack</th>
+                    <td>{{ if isset $unitData "PriAttack" }}{{ $unitData.PriAttack }}{{ else }}N/A{{ end }}</td>
+                  </tr>
+                  <tr>
+                    <th>Charge Bonus</th>
+                    <td>{{ if isset $unitData "PriCharge" }}{{ $unitData.PriCharge }}{{ else }}N/A{{ end }}</td>
+                  </tr>
+                  <tr>
+                    <th>Weapon Type</th>
+                    <td>{{ if isset $unitData "PriWeaponType" }}{{ $unitData.PriWeaponType | title }}{{ else }}N/A{{ end }}</td>
+                  </tr>
+                  <tr>
+                    <th>Total Defense</th>
+                    <td>{{ if and (isset $unitData "PriDefense") (isset $unitData "PriArmour") (isset $unitData "PriShield") }}
+                      {{ $priDef := int $unitData.PriDefense }}
+                      {{ $secDef := int $unitData.PriArmour }}
+                      {{ $priShield := int $unitData.PriShield }}
+                      {{ add (add $priDef $secDef) $priShield }}
+                    {{ else }}N/A{{ end }}
+                    </td>
+                  </tr>
+                  <tr>
+                    <th>Armour</th>
+                    <td>{{ if isset $unitData "PriArmour" }}{{ $unitData.PriArmour }}{{ else }}N/A{{ end }}</td>
+                  </tr>
+                  <tr>
+                    <th>Defence Skill</th>
+                    <td>{{ if isset $unitData "PriDefense" }}{{ $unitData.PriDefense }}{{ else }}N/A{{ end }}</td>
+                  </tr>
+                  <tr>
+                    <th>Shield</th>
+                    <td>{{ if isset $unitData "PriShield" }}{{ $unitData.PriShield }}{{ else }}N/A{{ end }}</td>
+                  </tr>
+                  <tr>
+                    <th>Hitpoints</th>
+                    <td>{{ if isset $unitData "HitPoints" }}{{ $unitData.HitPoints }}{{ else }}N/A{{ end }}</td>
+                  </tr>
+                  <tr>
+                    <th>Recruitment Cost</th>
+                    <td>{{ if isset $unitData "RecruitCost" }}{{ $unitData.RecruitCost }}{{ else }}N/A{{ end }}</td>
+                  </tr>
+                  <tr>
+                    <th>Upkeep</th>
+                    <td>{{ if isset $unitData "Upkeep" }}{{ $unitData.Upkeep }}{{ else }}N/A{{ end }}</td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="unit-desc">
+          {{ if isset $unitData "Descr" }}{{ $unitData.Descr | replaceRE "\\\\n" "<br>" | safeHTML }}{{ else }}N/A{{ end }}
+        </p>
+        <br>
+        <hr>
+        <br>
       {{ end }}
     {{ end }}
-    {{ if $hasOwnership }}
-      {{ $filteredUnits = merge $filteredUnits (dict $unitKey $unitData) }}
-    {{ end }}
-  {{ end }}
-{{ end }}
-
-<!-- Sort the filtered units -->
-{{ $sortedUnits := sort $filteredUnits "SoldierCount" "desc" }}
-
-{{ if gt (len $sortedUnits) 0 }}
-  <!-- <h3>Units owned by {{ $faction }} ({{ len $filteredUnits }} found)</h3> -->
-  {{ range $unitKey, $unitData := $sortedUnits }}
-
-  <table id="{{ $unitKey }}" class="units-table">
-    <h3 class="unit-title">
-      <a id="#{{ $unitKey }}" href="#{{ $unitKey }}">
-        {{ if isset $unitData "LocalizedName" }}{{ $unitData.LocalizedName }}{{ else }}{{ $unitKey }}
-        {{ end }}
-      </a>
-    </h3>
-    <tbody>
-        <tr>
-          {{/*  Unit Image  */}}
-          <td class="unit-image">
-            {{ $imagePath := printf "/info_cards/%s_info.webp" $unitData.Dictionary | lower }}
-            <img src="{{ $imagePath | relURL }}" alt="{{ $unitData.Dictionary }} Info">
-          </td>
-
-{{/*  Unit information  */}}
-<td class="unit-info">
-  <table class="attribute-table">
-    <tr>
-      <th>Soldiers</th>
-      <td>
-        {{ if isset $unitData "SoldierCount" }}
-          {{ printf "%.0f" (mul $unitData.SoldierCount 2.5) }}
-        {{ else }}
-          N/A
-        {{ end }}
-      </td>
-    </tr>
-    <tr>
-      <th>Attack</th>
-      <td>{{ if isset $unitData "PriAttack" }}{{ $unitData.PriAttack }}{{ else }}N/A{{ end }}</td>
-    </tr>
-    <tr>
-      <th>Charge Bonus</th>
-      <td>{{ if isset $unitData "PriCharge" }}{{ $unitData.PriCharge }}{{ else }}N/A{{ end }}</td>
-    </tr>
-    <tr>
-      <th>Weapon Type</th>
-      <td>{{ if isset $unitData "PriWeaponType" }}{{ $unitData.PriWeaponType | title }}{{ else }}N/A{{ end }}</td>
-    </tr>
-    <tr>
-      <th>Total Defense</th>
-      <td>{{ if and (isset $unitData "PriDefense") (isset $unitData "PriArmour") (isset $unitData "PriShield") }}
-        {{ $priDef := int $unitData.PriDefense }}
-        {{ $secDef := int $unitData.PriArmour }}
-        {{ $priShield := int $unitData.PriShield }}
-        {{ add (add $priDef $secDef) $priShield }}
-          {{ else }}N/A{{ end }}
-      </td>
-    </tr>
-    <tr>
-      <th>Armour</th>
-      <td>{{ if isset $unitData "PriArmour" }}{{ $unitData.PriArmour }}{{ else }}N/A{{ end }}</td>
-    </tr>
-    <tr>
-      <th>Defence Skill</th>
-      <td>{{ if isset $unitData "PriDefense" }}{{ $unitData.PriDefense }}{{ else }}N/A{{ end }}</td>
-    </tr>
-    <tr>
-      <th>Shield</th>
-      <td>{{ if isset $unitData "PriShield" }}{{ $unitData.PriShield }}{{ else }}N/A{{ end }}</td>
-    </tr>
-    <tr>
-      <th>Hitpoints</th>
-      <td>{{ if isset $unitData "HitPoints" }}{{ $unitData.HitPoints }}{{ else }}N/A{{ end }}</td>
-    </tr>
-    <tr>
-      <th>Recruitment Cost</th>
-      <td>{{ if isset $unitData "RecruitCost" }}{{ $unitData.RecruitCost }}{{ else }}N/A{{ end }}</td>
-    </tr>
-    <tr>
-      <th>Upkeep</th>
-      <td>{{ if isset $unitData "Upkeep" }}{{ $unitData.Upkeep }}{{ else }}N/A{{ end }}</td>
-    </tr>
-  </table>
-</td>
-
-        </tr>
-    </tbody>
-  </table>
-  <p class="unit-desc">
-    {{/* Description */}}
-    {{ if isset $unitData "Descr" }}{{ $unitData.Descr | replaceRE "\\\\n" "<br>" | safeHTML }}{{ else }}N/A{{ end }}
-  </p>
-  <br>
-  <hr>
-  <br>
   {{ end }}
 {{ else }}
   <div class="notice">No units found for faction "{{ $faction }}"</div>

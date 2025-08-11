@@ -592,6 +592,8 @@ body .testimonials .speechbubble .username:before {
   font-size: 42px !important;
   color: #ffb144;
   text-align: center;
+  padding: 20px;
+  margin-top: 0px;
 }
 
 .unit-info {
