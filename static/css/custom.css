@@ -720,7 +720,11 @@ body .testimonials .speechbubble .username:before {
   text-align: center;
 }
 
-.content-body h3 {
+.content-body h1 {
+  text-align: center;
+}
+
+.content-body h2 {
   text-align: center;
 }
 

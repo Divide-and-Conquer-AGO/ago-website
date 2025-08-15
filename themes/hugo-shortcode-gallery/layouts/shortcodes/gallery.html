@@ -14,17 +14,17 @@
 
 {{ $sortOrder := .Get "sortOrder" | default (.Site.Params.gallerySortOrder | default "asc") }}
 
-{{ $rowHeight := .Get "rowHeight" | default (.Site.Params.galleryRowHeight | default 150) }}
+{{ $rowHeight := .Get "rowHeight" | default (.Site.Params.galleryRowHeight | default 200) }}
 
 {{ $margins := .Get "margins" | default (.Site.Params.galleryRowMargins | default 5) }}
 
-{{ $thumbnailResizeOptions := .Get "thumbnailResizeOptions" | default (.Site.Params.galleryThumbnailResizeOptions | default "300x150 q85 Lanczos") }}
+{{ $thumbnailResizeOptions := .Get "thumbnailResizeOptions" | default (.Site.Params.galleryThumbnailResizeOptions | default "1920x1080 q90 Lanczos") }}
 
 {{ $imageResizeOptions := .Get "imageResizeOptions" | default .Site.Params.galleryImageResizeOptions }}
 
-{{ $loadJQuery := .Get "loadJQuery" | default (.Site.Params.galleryLoadJQuery | default false) }}
+{{ $loadJQuery := .Get "loadJQuery" | default (.Site.Params.galleryLoadJQuery | default true) }}
 
-{{ $showExif := .Get "showExif" | default (.Site.Params.galleryShowExif | default false) }}
+{{ $showExif := .Get "showExif" | default (.Site.Params.galleryShowExif | default true) }}
 
 {{ $justifiedGalleryParameters := .Get "justifiedGalleryParameters" | default (.Site.Params.galleryJustifiedGalleryParameters | default "") }}
 
