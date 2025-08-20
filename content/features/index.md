@@ -614,6 +614,25 @@ Various other miscelleanous UI changes have been made to make the overall experi
 
 {{< gallery match="images/miscUI/*" >}}
 
+## Animations
+
+### Bowstring Animations
+In vanilla DaC and Third Age, archers and crossbowmen don't knock real arrows and the bowstring doesn't move at all when they aim their bows. In AGO, every archer and crossbow unit (with some exceptions) uses proper bowstring animations and knocks a real arrow when they take aim.
+
+{{< gallery match="images/bowstring/*" >}}
+
+### New Death Animations
+Courtesty of the [Death Throes](https://www.moddb.com/mods/death-throes/videos/death-throes-custom-deaths-for-medieval-2-total-w) animation pack, AGO now has many new custom death animations.
+
+<div style="text-align: center" class="download-embed">
+    <iframe allow="fullscreen;" frameborder="0" width="500" height="500"
+    src="https://www.youtube.com/embed/ezVXCNvzOos?si=0Y5m_fNI4H9AGnNj">
+    </iframe>
+</div>
+
+### Faster Diplomat Animations
+In vanilla Medieval 2, diplomats had long and drawn out animations that slowed down campaign turns. These have been sped up to improve turn times.
+
 ## Sounds
 
 ### Ambient Sound Overhaul
