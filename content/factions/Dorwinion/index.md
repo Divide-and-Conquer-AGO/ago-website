@@ -14,6 +14,15 @@ internalTitle: "byzantium"
 ### Description
 "The heady vintage of the great gardens of Dorwinion... a land of vines in 'the burning South.'" - Little known information on Dorwinion
 
+The land of Dorwinion has always fascinated its many visitors. It has been described as a most beautiful flower, captivating the eye and soul alike. Smooth hills, bountiful earth and rich grapevines that grow in abundance. It is said that if a seed is planted in Dorwinion's soil, it will bloom thrice as plentiful as anywhere else. Truly, this land is Middle-Earth's garden.
+
+At first this realm of plenty was held by the Elves of old, as all lands were, once. After them came the men that one day would be known as the ancestors of the Horse Lords of Rohan, arriving as mere cattle herding nomads. After that, yet still ages ago, the Numenoreans settled on the shores of the lands of wine, and they deeply appreciated the rich earth. They built an outpost there, gathering tribute and drafting skilled Rhovanionite horsemen for wars in far-off lands. Yet even they eventually left, leaving behind buildings of stone and some children with a sliver of Dunedain heritage.
+
+Following them were the savage Wainriders, and they held dominion over the wine-lands for generations, until they too disappeared, either within the bloodlines of the nascent Dorwinrim or across the distant horizon.
+Each tribe, visitor and nation sought to control and shape the land. Yet each of them left in turn, but not ere leaving a mark of their own, adding to the lands unique profile. Akin to foreign branches being grafted onto an ever-growing tree, different fruits nurtured by the same roots. With much time and even more hardship, the men of these bountiful lands developed a shared identity, culminating in the formation of the Vintner Court. They gave themselves laws, and a shared purpose. And so, in this Age, the fruits of these lands are manifold and their tale is yet to be told.
+
+The Darïtaï of Rhûn to our East have been unusually quiet as of late and many of our experienced advisors suspect they prepare for all out war. We would do well to negotiate some kind of guaranteed peace with them or send out messengers to the West in search of allies. There's a mighty storm brewing across the Sea of Rhûn and make no mistake, it's coming for us...
+
 ### Campaign Events
 - **Encircle the Sea of Rhun (V3)**
   - Establish trade outposts or "kantors" in capital cities of foreign nations you have trade rights with to enable them to recruit some of your units and the ability to recruit some of their units
@@ -25,24 +34,6 @@ internalTitle: "byzantium"
   - Decide the fate of the Dragonswrath cult. Allow them to continue their practices and risk unrest at home or put an end to them for good and risk a renewed civil war in the lands of Rhun.
 - **The Avari (V3)**
   - Carefully manage your relationship with the isolationist Avari. Allow them sanctity in their dark forests, declare them outlaws and a threat to the realm or simply find a balance. Dynamically manage your relationship with these foreign people, heavily influenced by your decisions in other scripts as well as smaller decisions you make throughout the campaign.
-
-### Early Game
-There are plenty of independent towns and castles in the wide grasslands of Rhovanion and Logathavuld that Dorwinion can easily claim before they need resort to all out war. The Darïtaï of Rhûn, being Dorwinion's nearest neighbour, start on neutral terms with the lands of wine and may not bring conflict in the early game. Beyond the Easterlings, the men of Dale and the Dwarves of Erebor hold as potential allies to the north.
-
-### Military Overview
-Dorwinion have a unique military that depends upon the choices their ruling council and Vine-Regent take, predominantly though they are a medium-armoured infantry faction, with good ranged units and lots of variety. They have some solid cavalry and if the Elves are brought to bear, they have some formidable elite troops.
-
-#### Leofthiuda
-
-- Numerous Northmen-Balchoth Clans. Live in the plains all around Dorwinion, behind the river. Pastoralists, though many also grow wheat and barley.
-
-#### Kugath
-
-- Wainrider descendant clans, mainly herders, live in small, mobile clans, often driving wagons and wains. Live near Rhun in the area between the mountains and the sea of Rhun. Present also in Rhun.
-
-#### Rouadengi
-
-- Dwellers of the trading towns of Dorwinion, a people related to both old Rhovanion, Dale and even Gondor. Make up the urban elite of the society, are the richest, upper class has extensive and wide ranging vineyards. Capitol houses the Vintner Court.
 
 ### Gallery
 

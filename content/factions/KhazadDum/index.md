@@ -18,7 +18,7 @@ internalTitle: "norway"
   - Lead Balin's famous expedition to reclaim the ancient Dwarven kingdom of Khazad-Dum from the Goblins of Moria and their allies. Reclaim Khazad-Dum, defeat the Balrog and crown Balin as the new king!
 - **Rebuild the Mithril Mines**
   - Tap into the ancient Mithril mines of moria, which previously caused the downfall of the old kingdom and find bountiful riches to restore your fledgling kingdom
-- **Vault of Uruktharbūn**
+- **Vault of Uruktharbūn (V3)**
   - Buried deep within the mountain kingdom, the vault was a wonder of the ancient Dwarven world. Unearth it's secrets and explore it's halls with randomly generated events.
 - **Spreading Word**
   - Send diplomats to the Blue Mountains, the Lonely Mountain, the Iron Hills and even to the distant East to gain custom generals from each Dwarven clan. recruit some of their units from the Hall of the Seven and the chance to slowly increase your population and culture in Khazad-Dum every year from new settlers

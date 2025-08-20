@@ -1,3 +1,9 @@
+---
+title: "Features"
+toc: "false"
+description: "Images and videos showcasing the exciting new features in AGO V3"
+---
+
 ![alt text](images/banner.png)
 
 ## Introduction
@@ -467,8 +473,6 @@ In order to accomodate certain faction overhauls and to make certain parts of th
 
 {{< gallery match="images/mapChanges/*" >}}
 
-TBD - Add Screenshots
-
 ### Landmark Buildings
 While there are plenty of interesting settlements in Middle-earth, there are also many settlements that populate the map that have absolutely no lore, pre-built buildings or even any interesting resources. Previously, special buildings were often only relagated to named settlements. In order to make the lesser known settlements feel more unique, we have implemented over 30 new 'landmark" buildings. These landmark buildings vary from geographical features, sites of famous battles, places of worship, mercenary strongholds, trading houses and so on. 
 
@@ -784,15 +788,15 @@ In this section we will try and cover the major changes that are faction specifi
 -------------------------------------------
 
 ### Dunland
-#### New Features
-- Overhauled music tracks
-- 6 tiered "Raiding" trait that upgrades as your characters use the new raiding system
-- Each turn there is a random chance your generals will perform sacrficial rites with a chance to gain a good or bad trait depending on the omens.
-
 #### New Visuals
 - A complete overhaul of the Dunland roster
 - 10+ new custom strategy models, dependant the new ethnic groups
 - A new custom celtic inspired Wildmen UI
+
+#### New Features
+- Overhauled music tracks
+- 6 tiered "Raiding" trait that upgrades as your characters use the new raiding system
+- Each turn there is a random chance your generals will perform sacrficial rites with a chance to gain a good or bad trait depending on the omens.
 
 #### New Scripts
 - **Subcultures**
@@ -848,14 +852,11 @@ In this section we will try and cover the major changes that are faction specifi
 #### New Scripts
 - **Sauron's Will**
   - Capture historical Numenorean settlements such as Fornost and Annuminas to recieve custom Black Numenorean generals and reinforcements from Mordor
-
 -------------------------------------------
 ### Bree
-#### New Scripts
-- **Forsaken Inn**
-  - Restore order to the Bree-land by repairing and upgrading the Forsaken Inn
-- **Create Your Commander**
-  - The Bree-land needs an experience commander to lead it's armies in the coming wars. Create your own custom general from a variety of cultures and backgrounds to serve as your faction leader.
+#### New Visuals
+- Andy and the starting spy have recieved new custom portraits
+- Bree now have a custom strategy and battle UI (Courtesy of Pythax)
 
 #### New Features
 - The Breeland's mercenary/isolation choice now starts at turn 44 instead of turn 69
@@ -869,20 +870,20 @@ In this section we will try and cover the major changes that are faction specifi
 - Many Bree characters now start with the Pipeweed smoking traits and they get a special boost with the Pipeweed Guild
 - AI Bree get a randomly generated commander from the options presented to the player as their faction leader
 
-#### New Visuals
-- Andy and the starting spy have recieved new custom portraits
-- Bree now have a custom strategy and battle UI (Courtesy of Pythax)
-
+#### New Scripts
+- **Forsaken Inn**
+  - Restore order to the Bree-land by repairing and upgrading the Forsaken Inn
+- **Create Your Commander**
+  - The Bree-land needs an experience commander to lead it's armies in the coming wars. Create your own custom general from a variety of cultures and backgrounds to serve as your faction leader.
 -------------------------------------------
 ### Dale
-#### New Scripts
-- **Master's Treasure**
-  - Oppurtunity to recover the Master's gold he fled with many years ago
-
 #### New Features
 - Some starting bodyguards have been altered
 - The "Dalian" trait has been broken down into "Man of Lake-town" and "Barding" to better represent the two locations
 
+#### New Scripts
+- **Master's Treasure**
+  - Oppurtunity to recover the Master's gold he fled with many years ago
 -------------------------------------------
 ### Dol Guldur
 #### New Visuals
@@ -938,29 +939,30 @@ In this section we will try and cover the major changes that are faction specifi
 - Edhellond is no longer an elven city and now has a custom CSM and battlemap better representing it's status as a ruin
 -------------------------------------------
 ### Harad
-TBD Update this
-#### New Descriptions
-Harad has received a small host of changes sine Third Age Total War, however the base descriptions within the faction have remained untouched and made used of a multitude of recycled Med2 text descriptions. 
-*No more!*
-Our friend Skywalker has taken what little information was available in lore, as well as what was brought to the faction by the Third Age, DaC and AGO teams, to create new descriptions for nearly *everything!*
+#### New Visuals
+- **New Models**
+  - Harad's mainline units such as Serpent Guard, Serpent Archers and Serpent Bladesmen all have brand new models courtesty of Coma and Siu
+  - Black Snake Guard have brand new models courtesy of Lerynian
+  - Mûmakil have brand new models, textures and custom animations courtesy of WK
 
-Harad has received new descriptions for their entire roster, adding details about the ruling Serpent Tribe, its allies the Muhad and Troll-men and how it exerts control over the hapless masses of the Haradwaith. 
-Building descriptions have been completely rebuilt, with new names and flavor text for almost every generic building, once again expanding on the themes of Harad as a nation under the influence of Sauron.
+- **New Descriptions**
+  - Courtesty of Skywalker, Harad has received new descriptions for their entire roster, adding details about the ruling Serpent Tribe, its allies the Muhad and Troll-men and how it exerts control over the hapless masses of the Haradwaith. Building names and descriptions have been completely rebuilt, with new names and flavor text for almost every generic building, once again expanding on the themes of Harad as a nation under the influence of Sauron.
 
-#### New Landmarks
-On top of this: every region in Harad and Harondor has been given a new landmarks to add depth to the settlements and also to shore up the expansion on Harad’s lore. 
+#### New Features
+- **Landmark Buildings**
+  - Every region in Harad and Harondor has been given new landmarks to add depth to the settlements and also to shore up the expansion on Harad’s lore. There are also some interesting additions to these themes in the form of **Buildable landmarks.** 
 
-There are some interesting additions to these themes in the form of **Buildable landmarks.**
+- **New Buildings**
+  - Faen’obel also gets a buildable landmark at the completion of the United the Tribes script, representing its original use as an agricultural settlement and export hub during the Second Age under Numenor. You will be able to make use of the ancient Kingsblood Tributary to increase agricultural income and massively increaese the population of the settlement. Umbar also receives *two* buildable landmarks, representing Harad’s take over of this significant location and solidifying their rule over a city they once ruled and have fought against for centuries. But what’s this? Not enough for you warmongers out there? There are also **three** buildable landmarks for Harad in *Gondor*. That’s right, each one is unique and available upon conquest of the specific settlement. to add to this: there are three custom Black Numenorian generals that join Harad upon conquest of the settlements (Dol Amroth, Minas Tirith, Pelargir), ‘gifts’ from the Dark Lord himself.
 
-Faen’obel gets a buildable landmark at the completion of its existing script, representing its original use as an agricultural settlement and export hub during the second age under Numenor. You will be able to make use of the ancient Kingsblood Tributary to increase agricultural income.
+- **New Ancillaries**
+  - There are new unique ‘governor’ ancillaries for each region of Harad, as well as updated descriptions and UI for the older ancillaries. (Goodbye Mumak Plate Armor). There also new bios’ for Harad’s starting generals and for each rewarded script general, updated event descriptions and art.
 
-Umbar also receives *two* buildable landmarks, representing Harad’s take over of this significant location and solidifying their rule over a city they once ruled and have fought against for centuries.
-
-But what’s this? Not enough for you warmongers out there? There are also **three** buildable landmarks for Harad in *Gondor*. That’s right, each one is unique and available upon conquest of the specific settlement. to add to this: there are three custom Black Numenorian generals that join Harad upon conquest of the settlements, ‘gifts’ from the Dark Lord himself.
-
-#### New Ancillaries
-There are also unique ‘governor’ ancillaries for each region of Harad, as well as updated descriptions and UI for the older ancillaries. (Goodbye Mumak Plate Armor)
-There also new bios’ for Harad’s starting generals and for each rewarded script general and updated event descriptions.
+#### New Scripts
+- **Hasharii Assassins**
+  - After consolidating control of the tribes, send the assassins of the Hasharii to remove your enemies from their seats of power. Assassins are one time use and take a lot of money and time to recruit so use them wisely. They do not need to be trained on lesser agents beforehand.
+- **Empire of the Haradwaith**
+  - Lay claim to more than just Faen'obel and the surrounding regions and declare yourself Serpent-King, supreme ruler of the southern multitude. Forming the Empire of the Haradwaith will change your faction's colours, names and give you a small bonus to your king's purse. Gondor and Dol Amroth must be destroyed and the Ar-Adunaim either destroyed, allied or made a vassal.
 
 -------------------------------------------
 ### High Elves
@@ -987,12 +989,6 @@ There also new bios’ for Harad’s starting generals and for each rewarded scr
 
 -------------------------------------------
 ### Khazad-Dum/Balin's Expedition
-#### New Scripts
-- **Vault of Uruktharbūn**
-  - Buried deep within the mountain kingdom, the vault was a wonder of the ancient Dwarven world. Unearth it's secrets and explore it's halls with randomly generated events.
-- **Spreading Word**
-  - Send diplomats to the Blue Mountains, the Lonely Mountain, the Iron Hills and even to the distant East to gain custom generals from each Dwarven clan. recruit some of their units from the Hall of the Seven and the chance to slowly increase your population and culture in Khazad-Dum every year from new settlers
-
 #### New Features
 - Khazad-Dum is no longer a horde faction
 - Khazad-Dum expedition script has been removed
@@ -1006,6 +1002,11 @@ There also new bios’ for Harad’s starting generals and for each rewarded scr
 - Added new clan traits for the 4 Orocarni Clans
   - This means that there is a small chance that one of your adopted/married generals can be an Ironfist, Blacklock, Stonefoot or Stiffbeard. Each comes with their own trait with it's own unique bonuses.
 
+#### New Scripts
+- **Vault of Uruktharbūn**
+  - Buried deep within the mountain kingdom, the vault was a wonder of the ancient Dwarven world. Unearth it's secrets and explore it's halls with randomly generated events.
+- **Spreading Word**
+  - Send diplomats to the Blue Mountains, the Lonely Mountain, the Iron Hills and even to the distant East to gain custom generals from each Dwarven clan. recruit some of their units from the Hall of the Seven and the chance to slowly increase your population and culture in Khazad-Dum every year from new settlers
 -------------------------------------------
 ### Khand
 #### New Visuals
@@ -1018,6 +1019,8 @@ There also new bios’ for Harad’s starting generals and for each rewarded scr
 - Dol Goldur now changes to Amon Lanc if there is 75% or more elven culture there. It recieves a new name, custom CSM and battlemap.
 -------------------------------------------
 ### Northern Dunedain
+#### New Visuals
+- The Northern Dunedain now have a custom campaign and battle map UI
 
 #### New Features
 - Forming Arnor and the Reunited Kingdom is now seamless, no longer requiring the execution of batch files outside of the game. Arnor and the Reunited Kingdom now also have received their own custom faction names, colours, banners and UI elements to make forming of these once great kingdoms much more impactful.
@@ -1031,9 +1034,6 @@ There also new bios’ for Harad’s starting generals and for each rewarded scr
 - RK generals from Gondor/DA now keep all their associated traits if they are live. They also do now not get automatically respawned if they have died.
 - Updated the Aragorn crowning event video to have stereo sound
 - If Gandalf dies there is now a 20% chance each turn he is he dead that he will respawn as Gandalf the White rather than it being guaranteed (10 turn wait still applies)
-
-#### New Visuals
-- The Northern Dunedain now have a custom campaign and battle map UI
 -------------------------------------------
 ### Rhun
 #### New Features
@@ -1044,8 +1044,8 @@ There also new bios’ for Harad’s starting generals and for each rewarded scr
 -------------------------------------------
 ### Rohan
 #### New Visuals
-- Added new visuals for Eored, Eorling, Rohirrim, Guard of the Cave and Shieldmaiden units courtesty of Lerynian
-- Eowyn has receieved a new battle and strategy model
+- Added new visuals for Eored, Eorling, Rohirrim, Guard of the Cave, Peasants and Shieldmaiden units courtesy of Lerynian
+- Eowyn has receieved a new battle and strategy model courtesy of Louis Lux
 -------------------------------------------
 ### Woodland
 #### New Features
@@ -1053,15 +1053,15 @@ There also new bios’ for Harad’s starting generals and for each rewarded scr
 - Dol Goldur now changes to Amon Lanc if there is 75% or more elven culture there. It recieves a new name, custom CSM and battlemap.
 -------------------------------------------
 ### Isengard
-#### New Scripts
-- Sharku now spawns as a custom general after taking Foldburg and Gineard
-- Fangorn Forest is now actually destroyed on the campaign map and replaced with orc camps as you progress through the script
-
 #### New Visuals
 - Added a new set of portraits exclusive to Isengard
 - Saruman has a new custom portrait, battle and strategy model courtesy of Louis Lux
 - Saruman of Many Colours now has a custom portrait and strat model
 - When the Shire is Scoured by Saruman, the Longbottom strategy model will receieve a custom model with signs of industry and decay
+
+#### New Scripts
+- Sharku now spawns as a custom general after taking Foldburg and Gineard
+- Fangorn Forest is now actually destroyed on the campaign map and replaced with orc camps as you progress through the script
 -------------------------------------------
 ### Gundabad
 Gundabad has not recieved any significant changes in AGO V3.

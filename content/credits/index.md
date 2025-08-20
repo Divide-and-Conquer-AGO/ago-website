@@ -1,6 +1,6 @@
 # Credits
 
-## Disclaimer
+### Disclaimer
 Divide and Conquer: AGO is an overhaul of the Divide and Conquer mod. 
 
 We give our whole hearted thanks to the Divide and Conquer and Third Age teams, past and present, and all they have done for the modding community of Medieval II Total War. 
@@ -29,15 +29,18 @@ Without you, none of this would have been possible.
 - R3AP3R
 - BOTET Team
 - Slave Knight Olexandrius
+- GardenGnome
 
 ### UI Contributions
 - Pythax
 - Naras
 - Reeveli
+- Mathijs and the AotR team
 
-## Scripting
+### Scripting
 - Fynn
 - Medik
+- Voya
 
 ### SFX and Music
 - Medik
@@ -58,6 +61,8 @@ Without you, none of this would have been possible.
 - Gio
 - Redstar96GR
 - Ixtli
+- Winter
+- Cole
 
 ### Battlemaps
 - WK | Kautto Ville
@@ -65,6 +70,7 @@ Without you, none of this would have been possible.
 - Khamul Lord of the Easterlings
 - JustWilliam
 - Leo
+- Eclipse
 
 ### Engine Overhaul Project
 - Youneouy
@@ -97,6 +103,7 @@ Without you, none of this would have been possible.
 - Wicked
 - Izzy
 - Wilddog and Makanyane
+- WK | Kautto Ville
 
 ### Mod Team Credits
 #### Enviroment Textures and Vegetation
@@ -111,4 +118,4 @@ Without you, none of this would have been possible.
 - MagicTrinkets for the "Death Throes" animation pack
 
 ### Final Words
-I would just like to say thank you to everyone in the Third Age/DaC/AGO communities for always being pleasant, providing excellent feedback and advice. Working with the rest of the developers and within the community has been extremely fun and fulfilling and it wouldn't have been so without the community. Keep on being you :) - Medik
+I would just like to say thank you to everyone in the Third Age/DaC/AGO communities for always being pleasant, providing excellent feedback and advice. Working with the rest of the developers and within the community has been extremely fun and fulfilling and it wouldn't have been so without the community. Keep on being you - Medik
