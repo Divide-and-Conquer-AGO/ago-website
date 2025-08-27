@@ -108,7 +108,8 @@ There are 26 playable factions, each with their own unique rosters, scripts and 
     - [Historic Event Sounds](#historic-event-sounds)
     - [Restored Surround Sound](#restored-surround-sound)
     - [Custom Voice Acting](#custom-voice-acting)
-  - [Bugfixes/Optimizations](#bugfixesoptimizations)
+  - [Performance Improvements](#Performance-Improvements)
+  - [Bugfixes](#bugfixes)
   - [Engine Overhaul Project](#engine-overhaul-project)
   - [Submodding Tools](#submodding-tools)
 - [Faction Changes](#faction-changes)
@@ -711,10 +712,17 @@ In order to make Dorwinion feel more distinct from other Northmen factions they 
     </iframe>
 </div>
 
-## Bugfixes/Optimizations
+### Performance Improvements
+- By porting many scripts from campaign_script to Lua, turn times have significantly been reduced to around 8-12 seconds on average. 
+- New sprites have been regenerated for every single model in the game which should help improve performance and clarify for players not using the "Highest" setting of Unit Detail. 
+- Strategy model textures have been optimized which saves the average user around 700mb of RAM 
+- The BMDB has been cleaned of all unused units which significantly improves startup time 
+- [Vulkan/DXVK](https://github.com/doitsujin/dxvk) rendering mode is not automatically available via EOP which can massively increase GPU performance for some users
+- Internal game logic has been re-written by Fynn via EOP to make the game generally more performant
+
+## Bugfixes
 - The effects of "Trade fleets available" now correctly apply for users using the Steam version of the game
 - The AI can now properly detect reinforcing armies when sallying out from settlements. This effectively nullifies the "sally out cheese".
-- Many internal game lookup mechanisms have been optimized and improved which should improve performance
 - Autoresolve calculations for sea battles now more accurately align with what is displayed in the outcome bar
 
 ## Engine Overhaul Project
