@@ -865,6 +865,7 @@ In this section we will try and cover the major changes that are faction specifi
 #### New Visuals
 - Andy and the starting spy have recieved new custom portraits
 - Bree now have a custom strategy and battle UI (Courtesy of Pythax)
+- Added new unit "Trappersmen" by Fynn. Replaces Woodland Hunters.
 
 #### New Features
 - The Breeland's mercenary/isolation choice now starts at turn 44 instead of turn 69
@@ -873,7 +874,7 @@ In this section we will try and cover the major changes that are faction specifi
 - Bilbo and Barliman no longer have traits that give them high Command but traits that are more lore accurate and that make them better governors
 - Bree no longer has to be allied to ND to rebuild the Bridge of Tharbad
 - Bree can no longer recruit Tharbad Royal Guard unless they are allied to ND
-- There is a unique strategy model for Metraith and Tharbad if they are upgraded/rebuilt by Bree
+- There is a unique strategy model for Metraith, Tharbad and Adun-Eth if they are upgraded/rebuilt by Bree
 - Bree can now recruit Thieves of Tharbad from the Mercenary Lodge if they go down the Mercenary Path
 - Many Bree characters now start with the Pipeweed smoking traits and they get a special boost with the Pipeweed Guild
 - AI Bree get a randomly generated commander from the options presented to the player as their faction leader
