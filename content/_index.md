@@ -30,6 +30,13 @@ The latest version of the mod released was version **2.1** on the *27th of Janua
 ### Testimonials
 
 <div class="speechbubble">
+After yet another long hiatus from TATW and my inevitable return to it afterwards, I used the last few days to try and compare DAC AGO, with DAC Vanilla and DAC EUR and and just wanted to say AGO still feels like it's miles ahead of the others in terms of campaign feel. I don't know what exactly it is but overall it just feels so much more fleshed out whereas the others tend to have a somewhat gimmicky feel. Also, after AGO it's really rough to imagine going back to Barracks events etc. Thanks very much for this mod and the countless hours of fun it provides.
+<div class="username">
+avion3885
+</div>
+</div>
+
+<div class="speechbubble">
  I have 1000s of hours on Divide and Conquer and I just discovered AGO last week! I just wanted to take the time to thank everyone working on the mod! It's quiet a master piece and i'm enjoying it a lot! Thank you guys a lot for the hard work!
 <div class="username">
 petitpoucet
