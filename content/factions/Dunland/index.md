@@ -30,6 +30,19 @@ The Brehins rejoice at this. It is what our men would do anyway, so why not take
 - **Kin/Raiding Lands (V3)**
   - Incorporate the lands of the Free People's into your own or designate them as nothing more than a source of gold and loot for your armies
 
+### Testimonials
+*After now playing 4 factions in Eriador and getting to see Dunland with their unique generals, descriptions, buildings and shitty-quality roster, I wanted to say how, although not my favorite, it might be the best (most fun) faction in the mod in my opinion. 
+
+It's just so unique with the raiding/looting barracks-system and Isengard's influence script. The latter adds what all factions - except the reworked Dorwinion and the Reunited Kingdom - need: longevity. I didn't get to interact too much with it when I played them since my campaigns end soon, but seeing Dunland getting unique Isendraich generals and Uruks reminded me of how the Isengard's influence lasts the whole campaign with It's multiple choices and tiers, while the culture change through guilds is a very subtle and fun way of implementing it realistically, adding a very needed increment to the roster at the cost of public order, although that leaves the Dunhird side an inferior choice.
+
+Like Dorwinion's regentsmen reforms, Dunland's unlocking of higher tier settlements (no idea if that's been removed) and usage of Rohan's (which also unlocks Dunforgoil) and other, nearby factions rosters gives a big purpose and sense of progression towards your immediate enemies.
+
+Even the fucking trash, worse-than-goblins roster is fun to use, because, even while smeared in shit, it's diverse, rewarding and varied, all the while feeling unique amongst other wildmen, with bad archers, bad AP, bad melee, bad cav and bad anti-cav, but the replenishment and manpower is just right and you have all the tools to go to war, face adversity, have fun (even while losing) and win.
+
+Dunland is a near-perfect faction and I had fun playing it. I hope more factions get the love it got. I didn't say this before, but great work to everyone involved!
+
+- *From Melanina, one of our brilliant testers*
+
 ### Gallery
 
 {{< gallery match="images/*" sortOrder="asc" loadJQuery=true rowHeight="400" margins="5"thumbnailResizeOptions="960x540 q100 Lanczos"  showExif=true previewType="blur" embedPreview="true" >}}
