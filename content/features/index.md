@@ -137,7 +137,7 @@ There are 26 playable factions, each with their own unique rosters, scripts and 
     - [Ered Luin](#ered-luin)
       - [New Visuals](#new-visuals-4)
       - [New Features](#new-features-4)
-    - [Goblins](#goblins)
+    - [Goblins of Moria](#goblins-of-moria)
       - [New Visuals](#new-visuals-5)
       - [New Features](#new-features-5)
       - [New Scripts](#new-scripts-6)
@@ -908,11 +908,12 @@ In this section we will try and cover the major changes that are faction specifi
 - The main Ring Choice script chain has recieved new event pictures courtesty of Reveeli
 
 #### New Features
-- the main Ring Choice script has been slightly tweaked in various places
-   -  For example, if Ered Luin accept the rings, they can begin raiding like other evil factions and the armies that can potentially attack you have been slightly tweaked
+- The main Ring Choice script has been slightly tweaked in various places
+   - For example, if Ered Luin accept the rings, they can begin raiding like other evil factions and the armies that can potentially attack you have been slightly tweaked
+   - They can also construct a new building in Buzra Dum called the Halls of Skorgrim which gives them access to T3 weapon upgrades
 
 -------------------------------------------
-### Goblins
+### Goblins of Moria
 #### New Visuals
 - The Goblins of Moria have recieved an entire visual overhaul for all of their units
 - A new unit "Drummers of the Deep" (cave troll drummers) was added exclusively for Moria
@@ -926,6 +927,8 @@ In this section we will try and cover the major changes that are faction specifi
 #### New Scripts
 - **Sauron's Will**
   - Under the command of Sauron, Agorolg and his lieutenants have arrived from Mordor. We are to be his instrument of destruction. Imladris, the Bree-land, Fennas Drunnan and Lorien are to be sacked and razed to the ground. Capture and sack these settlements to receieve assistance from Sauron and the ability to recruit units from Mordor.
+- **Rise of the Goblin**
+  - The Goblins of Moria can now become the "Goblins of the Misty Mountains" by capturing all the settlements along the Misty Mountains. This also gives them access to a new building there called the "Great Tunnels" which gives them faster movement and some other benefits.
 -------------------------------------------
 ### Gondor
 #### New Visuals
