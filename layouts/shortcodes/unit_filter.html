@@ -51,10 +51,21 @@
                       {{ end }}
                     </td>
                   </tr>
+                  {{ if and (isset $unitData "PriAttack") (gt (int $unitData.PriAttack) 1) }}
+                    <tr>
+                      <th>
+                        {{ $wtype := lower $unitData.PriWeaponType }}
+                        {{ if or (eq $wtype "missile") (eq $wtype "thrown") }}Ranged Attack{{ else }}Melee Attack{{ end }}
+                      </th>
+                      <td>{{ $unitData.PriAttack }}</td>
+                      </tr>
+                  {{ end }}
+                  {{ if and (isset $unitData "SecAttack") (ne $unitData.SecAttack nil) (gt (int $unitData.SecAttack) 1) }}
                   <tr>
-                    <th>Attack</th>
-                    <td>{{ if isset $unitData "PriAttack" }}{{ $unitData.PriAttack }}{{ else }}N/A{{ end }}</td>
+                    <th>Secondary Attack</th>
+                    <td>{{ $unitData.SecAttack }}</td>
                   </tr>
+                  {{ end }}
                   <tr>
                     <th>Charge Bonus</th>
                     <td>{{ if isset $unitData "PriCharge" }}{{ $unitData.PriCharge }}{{ else }}N/A{{ end }}</td>
