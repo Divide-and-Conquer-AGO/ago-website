@@ -739,3 +739,13 @@ body .testimonials .speechbubble .username:before {
   object-fit: contain;
   box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.5);
 }
+
+.siu-map img {
+  display: block;
+  margin: 0 auto;
+  width: 75%;
+  max-width: 75%;
+  height: 75%;
+  max-height: 75%;
+  box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.5);
+}

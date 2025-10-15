@@ -10,10 +10,19 @@ From the desperate Dúnedain in the cold North to the Haradrim in the blazing So
 
 Examples of this include the inclusion of a wider variety of armour like mail and lamellar, special scripts like the Scouring of the Shire, the overhauled One Ring script and more aligned AI behaviour.
 
+
 <div style="text-align: center" class="download-embed">
     <iframe allow="fullscreen;" frameborder="0" width="500" height="500"
     src="https://www.youtube.com/embed/6Q70-nGT_fw?si=mg9u2uP72md7npnv">
     </iframe>
+</div>
+
+### World Map
+<br>
+<div class="siu-map">
+    <a href="./images/siu_map.webp" target="_blank" rel="noopener">
+        <img class="" src="./images/siu_map.webp">
+    </a>
 </div>
 
 ### Submod Hierarchy
