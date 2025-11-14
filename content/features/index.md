@@ -1016,7 +1016,7 @@ In this section we will try and cover the major changes that are faction specifi
 
 #### New Scripts
 - **Vault of Uruktharbūn**
-  - Buried deep within the mountain kingdom, the vault was a wonder of the ancient Dwarven world. Unearth it's secrets and explore it's halls with randomly generated events.
+  - Buried deep within the mountain kingdom, the vault was a wonder of the ancient Dwarven world. Unearth it's secrets and explore it's halls with 25+ randomly generated events.
 - **Spreading Word**
   - Send diplomats to the Blue Mountains, the Lonely Mountain, the Iron Hills and even to the distant East to gain custom generals from each Dwarven clan. recruit some of their units from the Hall of the Seven and the chance to slowly increase your population and culture in Khazad-Dum every year from new settlers
 -------------------------------------------
