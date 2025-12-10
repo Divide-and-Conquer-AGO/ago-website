@@ -228,7 +228,6 @@ Campaign AI has been completely re-written from scratch in Lua and at the engine
 - The AI will now properly merge its smaller forces into proper armies
 - The AI will now properly assign generals to it's larger armies
 
-
 TBD - Add more screenshots
 
 {{< gallery match="images/campaignAI/*" >}}
@@ -330,6 +329,9 @@ Some factions have multiple standard bodyguards, which are dynamically allocated
   - Kugathi Rátha
 - Isendraich 
   - Isendraich Towersworn
+
+### Cinematic Intros and Faction Movies
+Faction movies from TATW have been restored. Each faction now also has it's own cinematic intro sequence that shows you the various important settlements nearby which is particularly useful for new and returning players to help them get their bearings.
 
 ### Revealed Allied Settlements
 Allied settlements are now visible on the strategy map, helping you keep up with how your allies are doing. It is written from the perspective of a historian chronicling the events of your individual campaign.
@@ -444,11 +446,11 @@ Gundabad and Dunland have received their own in-game culture to reflect their un
 Culture buildings will now also automatically be converted to your culture's equivalent instead of being destroyed.
 
 ### Custom Bodyguards
-Over 25 generals have received new bespoke bodyguard units with their own custom models, descriptions and stats. This includes new Temple bodyguard units for the Nazgul, Harad, Ered Luin, the High Elves and the Woodland Realm to name just a few.
+Over 25 generals have received new bespoke, character specific bodyguard units that cannot be recruited or used elsewhere. Many of these bodyguards have their own custom models, UI, voice acting, descriptions and stats.
+
+Almost all starting generals also now have a custom bodyguard and many factions have culture specific bodyguards. For example, if your Dorwinion general is Rouadengi, Kugathi or Leofthiudan, he will have a different, custom bodyguard specific to that culture. The same system applies to many other factions including the High Elves, Dunland, Gondor, Ered Luin, Rhun, Anduin Vale etc.
 
 {{< gallery match="images/customBodyguards/*" >}}
-
-TBD - Add screenshots
 
 ### New Settlements
 Mengelen, the settlement in the Barrow Downs has been removed and replaced with another settlement, Gorathul, in the Misty Mountains. Having a settlement in the Barrow Downs did not really make much sense and having a settlement on the western side of the Misty Mountains, in the South, allows the Goblins and Khazad-Dum more expansion options and should make their campaigns play out less formulaically.
@@ -483,6 +485,9 @@ In order to accomodate certain faction overhauls and to make certain parts of th
 
 {{< gallery match="images/mapChanges/*" >}}
 
+### New Building Effects
+Various buildings have new effects that includes the ability to upgrade weapons 3 times (previously limited to a single upgrade) as well as the ability to perform various "rites" such as public excutions, ritual sacrifices, races and pit fights.
+
 ### Landmark Buildings
 While there are plenty of interesting settlements in Middle-earth, there are also many settlements that populate the map that have absolutely no lore, pre-built buildings or even any interesting resources. Previously, special buildings were often only relagated to named settlements. In order to make the lesser known settlements feel more unique, we have implemented over 30 new 'landmark" buildings. These landmark buildings vary from geographical features, sites of famous battles, places of worship, mercenary strongholds, trading houses and so on. 
 
@@ -493,14 +498,12 @@ Each landmark building has a rich description and unique art and many of them al
 ### New Gamemodes
 
 **Shattered Alliances**
-Shattered Alliances, the traditional gamemode where all factions start neutral with each other has returned. Due to certain constraints, this version still has scripts enabled.
+Shattered Alliances, the traditional gamemode where all factions start neutral with each other has returned. Due to certain constraints however, this version still has scripts enabled.
 
 **Randomized Start**
 If madness has overcome you, you may try the new randomized start gamemode where every single faction starts with completely randomized starting locations and armies.
 
 {{< gallery match="images/newGamemodes/*" >}}
-
-TBD - Add screenshot
 
 ### Misc. Changes
 - Added shortcut to cycle through idle characters (excluding those in a settlement/fort) on the strategy map
@@ -538,7 +541,9 @@ Harad, Khand and Rhun have received new custom settlement battlemaps, replacing 
 
 Wildmen towns have also received new battlemaps, thank you very much to De Bello Mundi for their contribution here.
 
-Faen'obel and Tharbad have also received brand new custom battlemaps made by the very talented "WK | Kautto Ville". We extend our wholehearted thanks to him also, for his assistance in implementation of these maps and other queries during development. Helcarin (previously Caras Sant) now also has a custom battlemap courtesty of Eclipse.
+Helcarin (previously Caras Sant) now also has a custom battlemap courtesty of Eclipse. Gobel Mirlond also has a new battlemap courtesy of shieldbearer.
+
+Faen'obel and Tharbad have also received brand new custom battlemaps made by the very talented "WK | Kautto Ville". We extend our wholehearted thanks to him also, for his assistance in implementation of these maps and other queries during development. 
 
 {{< gallery match="images/battlemaps/*" >}}
 
@@ -554,8 +559,6 @@ In comparison to Third Age and DaC, AGO has custom made battlemap textures and c
 AGO now uses the latest version of Swagger's weather and skyboxes mod, including new skydome meshes that reduce stretching of the skybox textures as well as new lighting in some instances. Certain locations such as Forodwaith and Mordor have also recieved completely new custom weathers to make them feel more unique and immersive.
 
 {{< gallery match="images/weathers/*" >}}
-
-TBD - Add more screenshots
 
 ### Custom Battlemap Locations
 The list of available battlemaps in custom battle has been expanded to include many more locations, especially for more unique locations such as Forodwaith, An-Karagmir, The Angle and so on.
@@ -573,13 +576,11 @@ Rather than interface textures being shared across multiple factions, they can n
 {{< gallery match="images/factionSpecificUI/*" >}}
 
 ### Map Screen
-The map screen provides a more comprehensive and higher resolution view of the campaign map as well as a variety of filters and layers that display different geographical, financial and demographical information about Middle-earth.
+The map screen allows you to view, manage and upgrade your spy networks, which are essential in your search for the One Ring.
 
-It also allows you to view, manage and upgrade your spy networks, which are essential in your search for the One Ring.
+The map also screen provides a more comprehensive and higher resolution view of the campaign map as well as a variety of filters and layers that display different geographical, financial and demographical information about Middle-earth. This view is only available in developer debug mode.
 
 {{< gallery match="images/mapView/*" >}}
-
-TBD - Add more screenshots
 
 ### Custom UI Elements
 In order to facilitate the usage of new scripts and mechanics, we have developed many custom UI elements. These UI elements allow the player to track the progress of scripts, perform raiding, use the Palantiri, assess their standing with guilds, display events, display events with multiple choices, display menus for custom scripts and manage individual characters. These UI elements also contain custom theming for every faction and stick as close as possible to the vanilla game's interface style in order to make them feel seamless.
@@ -689,6 +690,8 @@ Unique heroes and characters on the battle and strategy map now have special voi
 - Thranduil (10+ lines)
 - Legolas (15+ lines)
 - Glorfindel (10+ lines)
+- Agandaur (5+ lines)
+- Witch-King (5+ lines)
 
 #### Races
 - Nazgul (15+ lines)
@@ -696,6 +699,11 @@ Unique heroes and characters on the battle and strategy map now have special voi
 - Uruk-hai (35+ lines)
 - Rangers (15+ lines)
 - Hobbits (15+ lines)
+- Wights (5+ lines)
+- Angmarin (5+ lines)
+- Hillmen (5+ lines)
+
+{{< video src="videos/angmar_selection_shrunk" width="300px" >}}
 
 ### Music Additions
 To expand upon El Monstero's music mod, most factions have received new music tracks, 42 in total. These tracks are faithfully sourced from independant albums as well as commercial soundtracks centered on the world of the "Lord of the Rings"
@@ -721,7 +729,7 @@ In order to make Dorwinion feel more distinct from other Northmen factions they 
     </iframe>
 </div>
 
-### Performance Improvements
+## Performance Improvements
 - By porting many scripts from campaign_script to Lua, turn times have significantly been reduced to around 8-12 seconds on average. 
 - New sprites have been regenerated for every single model in the game which should help improve performance and clarify for players not using the "Highest" setting of Unit Detail. 
 - Strategy model textures have been optimized which saves the average user around 700mb of RAM 
