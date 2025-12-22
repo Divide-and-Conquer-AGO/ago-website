@@ -207,9 +207,9 @@ If you want to contribute to or modify the launcher for use within your own mod,
 ### Battle AI
 Battle AI has been completely re-written from scratch in Lua and at the engine level, using the Engine Overhaul Project. The most important changes are that
 
-- The AI should now be less prone to getting "stuck" and should generally be a lot more active
+- The AI should now be less prone to getting "stuck" or standing still and generally will be a lot more active
 - The AI will now have custom behaviour when defending certain settlement levels such as villages
-- The AI should now be able to better determine if it should attack or use it's range superiority
+- The AI should now be able to better determine if it should attack directly or use it's range superiority
 - The AI will now attack multiple gates during siege battles making defending siege battles a lot more interesting
 - The AI can now properly use hero abilities in battles
 - The AI can now properly attack gates with elephant artillery units (vanilla bug)
@@ -217,9 +217,10 @@ Battle AI has been completely re-written from scratch in Lua and at the engine l
 ### Campaign AI
 Campaign AI has been completely re-written from scratch in Lua and at the engine level, using the Engine Overhaul Project. Many hardcoded limitations have been removed and AI controlled factions should now play more like a player. 
 
-- Allies will now actively help other allies in sieges and field battles if they are within range
+- Allies will now actively help other allies in sieges and field battles if they are within range as well as moving armies closer to allied factions where it makes sense
 - The AI is now weighted to prioritize stronger and less defended settlements, where it makes sense
-- Every faction is now weighted to target and assists other factions of a given culture. 
+- The AI will now perform naval invasions without manual scripting. For example, Ar-Adunaim will now often automatically invade Western Gondor
+- Every faction is now weighted to target and assists other factions of a given culture.
   - For example, Gondor will priortize helping the Dunedain and Rohan and priortize destroying Orcs and Evil Men, with a unique hatred for the Ar-Adunaim
 - Every faction is now weighted to priortize specific settlements
   - For example, Dunland will priortize capturing Edoras and Helm's Deep while focusing on protecting Isengard and Byrig
