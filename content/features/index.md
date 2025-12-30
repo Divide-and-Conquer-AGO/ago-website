@@ -308,7 +308,7 @@ Some settlements such as Fornost, Osgiliath and Annúminas can be restored to th
 ### Rebel Factions
 Rebel factions have been completely overhauled and with the help of the Engine Overhaul have been given unique banner colors and symbols. They also have appropriate but randomized character strategy models. As rebel AI has been significantly expanded such that they will now actively move around the map, join forces and attack armies and settlements it effectively enables the "Independent Realms" to be a conglomerate of small, non-playable factions that can function very similar to playable factions. 
 
-In total, there are 38 new rebel subfactions. Not all are on the map at game start as some emerge as part of events such as during Dorwinion's new scripts. Some of the more interesting new rebel factions include
+In total, there are 47 new rebel subfactions. Not all are on the map at game start as some emerge as part of events such as during Dorwinion's new scripts. Some of the more interesting new rebel factions include
 
 - Lossoth Tribesmen
 - Avari Elves
@@ -507,7 +507,7 @@ If madness has overcome you, you may try the new randomized start gamemode where
 {{< gallery match="images/newGamemodes/*" >}}
 
 ### Misc. Changes
-- Added shortcut to cycle through idle characters (excluding those in a settlement/fort) on the strategy map
+- Added a rebindable shortcut (default CTRL+I) to cycle through idle characters (excluding those in a settlement/fort) on the strategy map
 - Added the ability to disable land stand armies from spawning
 
 ## Battle Mechanics
