@@ -7,12 +7,12 @@ description: "Images and videos showcasing the exciting new features in AGO V3"
 <!-- ![alt text](images/banner.png) -->
 
 ## Introduction
-Welcome to Divide & Conquer AGO V3, a Lord of the Rings based mod for Medieval II: Total war. It uses the Engine Overhaul (M2TWEOP) to expand the capabilities of the game. This is a standalone mod which used Divide & Conquer V4 as a base, which itself is based on Third Age: Total War. The core philosophy of the mod is providing players with an immersive experience set in the Third Age of Middle-earth, during the War of the Ring. If you want to see the old features page, you can find it at [Features (V2)](../features_v2)
+Welcome to Divide & Conquer AGO V3, a Lord of the Rings based mod for Medieval II: Total war. It uses the Engine Overhaul (M2TWEOP) to expand the capabilities of the game. This is a standalone mod which used Divide & Conquer V4 as a base, which itself is based on Third Age: Total War. The core philosophy of the mod is to provide players with an immersive and authentic experience set in the Third Age of Middle-earth, during the War of the Ring.
 
 ## Campaign Overview
 The campaign starts in 3010 T.A., about 9 years before the main events that happen during the War of the Ring in the Lord of the Rings.
 
-There are 26 playable factions, each with their own unique rosters, scripts and campaign experience. The factions are sorted into various allegiances: The forces of good which try to prevent Sauron from regaining the One Ring or even destroy it altogether, The allies of Sauron which try to regain the One Ring for their master, the allies of Saruman that try to capture the One Ring for the White Wizard, and neutral factions who are interested only in themselves. The alliances are rigid but there are narrative scripts for various factions which can make them switch sides in the conflict.
+There are 26 playable factions, each with their own unique rosters, scripts and campaign experience. The factions are sorted into various allegiances: The forces of good which try to prevent Sauron from regaining the One Ring or even destroy it altogether, the allies of Sauron who try to regain the One Ring for their master, the allies of Saruman that try to capture the One Ring for the White Wizard, and neutral factions who are interested only in themselves. The alliances are rigid but there are narrative scripts for various factions which can make them switch sides in the conflict.
 
 <!-- -------------------------------------------
 
@@ -181,7 +181,7 @@ There are 26 playable factions, each with their own unique rosters, scripts and 
 # AI Disclaimer
 <div class="testimonials">
   <div class="speechbubble">
-In the early days of generative AI, it was exciting and interesting for us as a team. We experimented a lot with AI generated text, art and code. Over time however, it became very obvious that there was something missing, especially when it came to text and art. There was a certain charm that was lost, the author's own interpretation of what Lord of the Rings meant to them or simply an individuals own writing style. There is no shortage of excellent, high quality art for Lord of the Rings nor a shortage of passionate and talented writers in our community. For that reason, we made the decision to try our best to avoid using generative AI wherever possible. However there may still linger small bits and pieces here and there that were added as placeholder and forgotten. AI was also used for other tasks such as assisting in automation or tedious tasks (a massive part in modding which is often overlooked). In these cases, it was extremely useful and we will continue to use them in these scenarios.
+In the early days of generative AI, it was exciting and interesting for us as a team. We experimented a lot with AI generated text, art and code. Over time however, it became very obvious that there was something missing, especially when it came to text and art. There was a certain charm that was lost, the author's own interpretation of what Lord of the Rings meant to them or simply an individuals own writing style. There is no shortage of excellent, high quality art for Lord of the Rings nor a shortage of passionate and talented writers in our community. For that reason, we made the decision to avoid using generative AI wherever possible. However there may still linger small bits and pieces here and there that were added as placeholder in the early days and forgotten. AI was however used for other tasks such as assisting in automation or tedious tasks (a massive part in modding which is often overlooked). In these cases, it was extremely useful and we will continue to use it in these scenarios.
 
 Generally speaking however, you can assume any text or art you see in the mod, was lovingly created by a human.
   </div>
@@ -228,8 +228,6 @@ Campaign AI has been completely re-written from scratch in Lua and at the engine
   - With the expanded rebel faction feature, this effectively enables the "Independant Realms" to be a conglomerate of small, non-playable factions that can function very similar to playable factions 
 - The AI will now properly merge its smaller forces into proper armies
 - The AI will now properly assign generals to it's larger armies
-
-TBD - Add more screenshots
 
 {{< gallery match="images/campaignAI/*" >}}
 
