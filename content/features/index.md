@@ -14,170 +14,6 @@ The campaign starts in 3010 T.A., about 9 years before the main events that happ
 
 There are 26 playable factions, each with their own unique rosters, scripts and campaign experience. The factions are sorted into various allegiances: The forces of good which try to prevent Sauron from regaining the One Ring or even destroy it altogether, the allies of Sauron who try to regain the One Ring for their master, the allies of Saruman that try to capture the One Ring for the White Wizard, and neutral factions who are interested only in themselves. The alliances are rigid but there are narrative scripts for various factions which can make them switch sides in the conflict.
 
-<!-- -------------------------------------------
-
-- [Divide and Conquer: AGO](#divide-and-conquer-ago)
-- [General](#general)
-  - [Introduction](#introduction)
-  - [Campaign Overview](#campaign-overview)
-- [Features](#features)
-  - [Launcher](#launcher)
-  - [AI](#ai)
-    - [Battle AI](#battle-ai)
-    - [Campaign AI](#campaign-ai)
-  - [Campaign Mechanics](#campaign-mechanics)
-    - [The One Ring](#the-one-ring)
-      - [Spy Networks](#spy-networks)
-      - [Taking the One Ring](#taking-the-one-ring)
-      - [Fate of the One Ring](#fate-of-the-one-ring)
-    - [Dynamic Replenishment Pools](#dynamic-replenishment-pools)
-    - [Seasons](#seasons)
-    - [Character Ageing and Immortality](#character-ageing-and-immortality)
-    - [Natural Disasters](#natural-disasters)
-    - [Auto-Expansion](#auto-expansion)
-    - [Last Stand Armies](#last-stand-armies)
-    - [Historic Events](#historic-events)
-    - [Unit Prefixes](#unit-prefixes)
-    - [Settlement Rebuilding](#settlement-rebuilding)
-    - [Rebel Factions](#rebel-factions)
-    - [Dynamic Bodyguards](#dynamic-bodyguards)
-    - [Revealed Allied Settlements](#revealed-allied-settlements)
-    - [Garrison Script](#garrison-script)
-    - [Faction Revival](#faction-revival)
-    - [Campaign Ground Types](#campaign-ground-types)
-    - [Palantiri](#palantiri)
-    - [Guild Overhaul](#guild-overhaul)
-      - [New Guilds](#new-guilds)
-    - [Trade Resources](#trade-resources)
-    - [Generic Map Models](#generic-map-models)
-    - [Character Strategy Models](#character-strategy-models)
-    - [Settlement Strategy Models](#settlement-strategy-models)
-    - [Fixed Fortifaction Levels](#fixed-fortifaction-levels)
-    - [Auto-resolve Modifiers](#auto-resolve-modifiers)
-    - [Unit Value Modifiers](#unit-value-modifiers)
-    - [Hide Army Info](#hide-army-info)
-    - [Automatic Unit/Trait/Ancillary Descriptions](#automatic-unittraitancillary-descriptions)
-    - [New Traits and Ancillaries](#new-traits-and-ancillaries)
-      - [New Traits/Ancillaries](#new-traitsancillaries)
-      - [Changes to existing Traits/Ancillaries](#changes-to-existing-traitsancillaries)
-    - [Stack Sorting](#stack-sorting)
-    - [Improved Faction Unions](#improved-faction-unions)
-    - [New Cultures](#new-cultures)
-    - [Custom Bodyguards](#custom-bodyguards)
-    - [New Settlements](#new-settlements)
-    - [Minor Settlements](#minor-settlements)
-    - [Raiding](#raiding)
-    - [Post Battle Loot](#post-battle-loot)
-    - [Map Changes](#map-changes)
-    - [Landmark Buildings](#landmark-buildings)
-    - [New Gamemodes](#new-gamemodes)
-    - [Misc. Changes](#misc-changes)
-  - [Battle Mechanics](#battle-mechanics)
-    - [Morale Adjustments](#morale-adjustments)
-    - [Hero Abilities](#hero-abilities)
-    - [Ground Type Modifiers](#ground-type-modifiers)
-    - [Unit Highlighting](#unit-highlighting)
-  - [Formations](#formations)
-    - [Default skirmish mode](#default-skirmish-mode)
-    - [Freecam Integration](#freecam-integration)
-  - [Battlemaps](#battlemaps)
-    - [Settlements](#settlements)
-    - [Custom Tiles](#custom-tiles)
-    - [Textures and Vegetation](#textures-and-vegetation)
-    - [New Weathers](#new-weathers)
-    - [Custom Battlemap Locations](#custom-battlemap-locations)
-  - [UI](#ui)
-    - [Main Menu UI](#main-menu-ui)
-    - [Faction Specific UI](#faction-specific-ui)
-    - [Map Screen](#map-screen)
-    - [Custom UI Elements](#custom-ui-elements)
-    - [Welcome Screen \& Difficulty Settings](#welcome-screen--difficulty-settings)
-    - [Custom Colours](#custom-colours)
-    - [Unique Buildings \& Chains](#unique-buildings--chains)
-    - [Unit Cards](#unit-cards)
-    - [Portraits](#portraits)
-    - [Loading Screens](#loading-screens)
-    - [Misc. Changes](#misc-changes-1)
-  - [Sounds](#sounds)
-    - [Ambient Sound Overhaul](#ambient-sound-overhaul)
-    - [Battle Horns](#battle-horns)
-    - [Character Selection Sounds](#character-selection-sounds)
-      - [Heroes](#heroes)
-      - [Races](#races)
-    - [Music Additions](#music-additions)
-    - [Historic Event Sounds](#historic-event-sounds)
-    - [Restored Surround Sound](#restored-surround-sound)
-    - [Custom Voice Acting](#custom-voice-acting)
-  - [Performance Improvements](#Performance-Improvements)
-  - [Bugfixes](#bugfixes)
-  - [Engine Overhaul Project](#engine-overhaul-project)
-  - [Submodding Tools](#submodding-tools)
-- [Faction Changes](#faction-changes)
-    - [Dunland](#dunland)
-      - [New Features](#new-features)
-      - [New Visuals](#new-visuals)
-      - [New Scripts](#new-scripts)
-    - [Dorwinion](#dorwinion)
-      - [New Visuals](#new-visuals-1)
-      - [New Features](#new-features-1)
-      - [New Scripts](#new-scripts-1)
-    - [AA](#aa)
-      - [New Scripts](#new-scripts-2)
-    - [Angmar](#angmar)
-      - [New Scripts](#new-scripts-3)
-    - [Bree](#bree)
-      - [New Scripts](#new-scripts-4)
-      - [New Features](#new-features-2)
-      - [New Visuals](#new-visuals-2)
-    - [Dale](#dale)
-      - [New Scripts](#new-scripts-5)
-      - [New Features](#new-features-3)
-    - [Dol Guldur](#dol-guldur)
-      - [New Visuals](#new-visuals-3)
-    - [Ered Luin](#ered-luin)
-      - [New Visuals](#new-visuals-4)
-      - [New Features](#new-features-4)
-    - [Goblins of Moria](#goblins-of-moria)
-      - [New Visuals](#new-visuals-5)
-      - [New Features](#new-features-5)
-      - [New Scripts](#new-scripts-6)
-    - [Gondor](#gondor)
-      - [New Visuals](#new-visuals-6)
-      - [New Features](#new-features-6)
-      - [New Scripts](#new-scripts-7)
-    - [Dol Amroth](#dol-amroth)
-      - [New Features](#new-features-7)
-    - [Harad](#harad)
-      - [New Descriptions](#new-descriptions)
-      - [New Landmarks](#new-landmarks)
-      - [New Ancillaries](#new-ancillaries)
-    - [High Elves](#high-elves)
-      - [New Visuals](#new-visuals-7)
-      - [New Features](#new-features-8)
-      - [New Scripts](#new-scripts-8)
-    - [Khazad-Dum/Balin's Expedition](#khazad-dumbalins-expedition)
-      - [New Scripts](#new-scripts-9)
-      - [New Features](#new-features-9)
-    - [Khand](#khand)
-      - [New Visuals](#new-visuals-8)
-    - [Lothlorien](#lothlorien)
-      - [New Features](#new-features-10)
-    - [Northern Dunedain](#northern-dunedain)
-      - [New Features](#new-features-11)
-      - [New Visuals](#new-visuals-9)
-    - [Rhun](#rhun)
-      - [New Features](#new-features-12)
-    - [Rohan](#rohan)
-      - [New Visuals](#new-visuals-10)
-    - [Woodland](#woodland)
-      - [New Features](#new-features-13)
-    - [Isengard](#isengard)
-      - [New Scripts](#new-scripts-10)
-      - [New Visuals](#new-visuals-11)
-    - [Gundabad](#gundabad)
-    - [Enedwaith](#enedwaith)
-    - [Erebor](#erebor) -->
-
 # AI Disclaimer
 <div class="testimonials">
   <div class="speechbubble">
@@ -329,8 +165,16 @@ Some factions have multiple standard bodyguards, which are dynamically allocated
 - Isendraich 
   - Isendraich Towersworn
 
+TBD - Add Screenshots
+
 ### Cinematic Intros and Faction Movies
 Faction movies from TATW have been restored. Each faction now also has it's own cinematic intro sequence that shows you the various important settlements nearby which is particularly useful for new and returning players to help them get their bearings.
+
+<div style="text-align: center" class="download-embed">
+    <iframe allow="fullscreen;" frameborder="0" width="500" height="500"
+    src="https://www.youtube.com/embed/zvKhV9awRoY?si=l1KxrB9s6oRJMQ-Q">
+    </iframe>
+</div>
 
 ### Revealed Allied Settlements
 Allied settlements are now visible on the strategy map, helping you keep up with how your allies are doing. It is written from the perspective of a historian chronicling the events of your individual campaign.
@@ -463,13 +307,15 @@ Over 10 new "minor" settlements have been distributed across the map, often in l
 In order to provide more gameplay options than just attacking settlements or characters, factions that are evil or neutral aligned can "Raid". Raiding comes in two forms
 
 **Active Raiding**
-Active raiding involves moving a character onto a resource belonging to a faction you are currently at war with. You will now have the option to perform a raid on this resource, capturing loot (gold) and slaves (population) from the targeted faction. These resources are then added to your character's inventory and must be brought back to a settlement to be "cashed in". The loot will be added to your total gold and the slaves to the population of the given settlement.
+
+Active raiding involves moving a character onto a resource belonging to a faction you are currently at war with. You will now have the option to perform a raid on this resource, capturing loot (gold) and slaves (population) from the targeted faction. These resources are then added to your character's inventory and must be brought back to a settlement to be "cashed in". The loot will be added to your total gold and the slaves to the population and culture of the given settlement.
 
 The amount of loot and slaves you acquire from a raid is dependant on many factors including the size of your army, the type of resource itself, the traits of the character leading the raid, how much money the faction being raided has and so on. After 12 turns have passed since the original raid, the resource will become raidable again.
 
 The AI, including rebel factions, can and will perform active raids on your resources. When this happens, you will recieve a notification so that you have an oppurtunity to defeat them and reclaim the loot that was stolen from you.
 
 **Passive Raiding**
+
 Passive raiding works in the same way as active raiding except a specific resource is not raided but rather the general lands. Simply move a character onto a tile inside enemy territory and you will begin passively raiding them. Passive raiding income is influenced by the season, tile ground type, tile climate, regional harvest and army size. You do not get slaves from passively raiding.
 
 Similar to active raiding, the AI will also passively raid you and you will also recieve a notification if the amount of loot they currently hold exceeds a large proportion of your current income or the income of the region they are raiding.
@@ -497,9 +343,11 @@ Each landmark building has a rich description and unique art and many of them al
 ### New Gamemodes
 
 **Shattered Alliances**
+
 Shattered Alliances, the traditional gamemode where all factions start neutral with each other has returned. Due to certain constraints however, this version still has scripts enabled.
 
 **Randomized Start**
+
 If madness has overcome you, you may try the new randomized start gamemode where every single faction starts with completely randomized starting locations and armies.
 
 {{< gallery match="images/newGamemodes/*" >}}
@@ -811,7 +659,7 @@ In this section we will try and cover the major changes that are faction specifi
 
 -------------------------------------------
 
-### Dunland
+### [Dunland](../factions/Dunland)
 #### New Visuals
 - A complete overhaul of the Dunland roster
 - 10+ new custom strategy models, dependant the new ethnic groups
@@ -835,7 +683,7 @@ In this section we will try and cover the major changes that are faction specifi
   - Incorporate the lands of the Free People's into your own or designate them as nothing more than a source of gold and loot for your armies 
 
 -------------------------------------------
-### Dorwinion
+### [Dorwinion](../factions/Dorwinion)
 #### New Visuals
 - A complete overhaul of the entire Dorwinion roster
   - The roster is now made up for four distinct groups, the Rouadengi, Leofthiuda, Kugathi and Avari
@@ -864,7 +712,7 @@ In this section we will try and cover the major changes that are faction specifi
   - Carefully manage your relationship with the isolationist Avari. Allow them sanctity in their dark forests, declare them outlaws and a threat to the realm or simply find a balance. Dynamically manage your relationship with these foreign people, heavily influenced by your decisions in other scripts as well as smaller decisions you make throughout the campaign.
 
 -------------------------------------------
-### AA
+### [Ar-Adunaim](../factions/Adunaim)
 #### New Scripts
 - **Rebuild the Pillar of Umbar**
   - Rebuild the Pillar of Umbar in defiance of Sauron, signalling to your kinsmen you have established a foothold in Umbar. Provides a custom general and reinforcements from the South
@@ -872,12 +720,12 @@ In this section we will try and cover the major changes that are faction specifi
   - In addition to their preset auto-expansion settlements, the AA also recieve a random coastal settlement (Toggleable, AI only)
 
 -------------------------------------------
-### Angmar
+### [Angmar](../factions/Angmar)
 #### New Scripts
 - **Sauron's Will**
   - Capture historical Numenorean settlements such as Fornost and Annuminas to recieve custom Black Numenorean generals and reinforcements from Mordor
 -------------------------------------------
-### Bree
+### [Bree](../factions/Bree)
 #### New Visuals
 - Andy and the starting spy have recieved new custom portraits
 - Bree now have a custom strategy and battle UI (Courtesy of Pythax)
@@ -901,7 +749,7 @@ In this section we will try and cover the major changes that are faction specifi
 - **Create Your Commander**
   - The Bree-land needs an experience commander to lead it's armies in the coming wars. Create your own custom general from a variety of cultures and backgrounds to serve as your faction leader.
 -------------------------------------------
-### Dale
+### [Dale](../factions/Dale)
 #### New Features
 - Some starting bodyguards have been altered
 - The "Dalian" trait has been broken down into "Man of Lake-town" and "Barding" to better represent the two locations
@@ -910,13 +758,13 @@ In this section we will try and cover the major changes that are faction specifi
 - **Master's Treasure**
   - Oppurtunity to recover the Master's gold he fled with many years ago
 -------------------------------------------
-### Dol Guldur
+### [Dol Guldur](../factions/DolGuldur)
 #### New Visuals
 - Dol Goldur now have a unique captain/general cas model that is not shared with Mordor
 - Dol Goldur Host, Scouts and Archers have recieved new models
 
 -------------------------------------------
-### Ered Luin
+### [Ered Luin](../factions/EredLuin)
 #### New Visuals
 - Ered Luin have recieved a new visual overhaul of all of their units
 - All starting generals and Grindfarn now all have new custom portraits and strategy models
@@ -929,7 +777,7 @@ In this section we will try and cover the major changes that are faction specifi
    - They can also construct a new building in Buzra Dum called the Halls of Skorgrim which gives them access to T3 weapon upgrades
 
 -------------------------------------------
-### Goblins of Moria
+### [Goblins of Moria](../factions/Moria)
 #### New Visuals
 - The Goblins of Moria have recieved an entire visual overhaul for all of their units
 - A new unit "Drummers of the Deep" (cave troll drummers) was added exclusively for Moria
@@ -946,7 +794,7 @@ In this section we will try and cover the major changes that are faction specifi
 - **Rise of the Goblin**
   - The Goblins of Moria can now become the "Goblins of the Misty Mountains" by capturing all the settlements along the Misty Mountains. This also gives them access to a new building there called the "Great Tunnels" which gives them faster movement and some other benefits.
 -------------------------------------------
-### Gondor
+### [Gondor](../factions/Gondor)
 #### New Visuals
 - Gondor has recieved a brand new strategy and battle map UI (Courtesy of Pythax)
 - Gondor's mainline units such as Gondor Infantry, Archers, Cavalry, Citadel Guard, Captain's Bodyguard etc. have all brand new visuals
@@ -966,7 +814,7 @@ In this section we will try and cover the major changes that are faction specifi
 #### New Features
 - Edhellond is no longer an elven city and now has a custom CSM and battlemap better representing it's status as a ruin
 -------------------------------------------
-### Harad
+### [Harad](../factions/Harad)
 #### New Visuals
 - **New Models**
   - Harad's mainline units such as Serpent Guard, Serpent Archers and Serpent Bladesmen all have brand new models courtesty of Coma and Siu
@@ -993,7 +841,7 @@ In this section we will try and cover the major changes that are faction specifi
   - Lay claim to more than just Faen'obel and the surrounding regions and declare yourself Serpent-King, supreme ruler of the southern multitude. Forming the Empire of the Haradwaith will change your faction's colours, names and give you a small bonus to your king's purse. Gondor and Dol Amroth must be destroyed and the Ar-Adunaim either destroyed, allied or made a vassal.
 
 -------------------------------------------
-### High Elves
+### [High Elves](../factions/HighElves)
 #### New Visuals
 - 15+ new strategy and battle models
 - New model for Amanyar units based on DaC v5
@@ -1016,7 +864,7 @@ In this section we will try and cover the major changes that are faction specifi
   - Send Círdan's trusted advisor on a perilous quest to unveil a dark mystery
 
 -------------------------------------------
-### Khazad-Dum/Balin's Expedition
+### [Khazad-Dum/Balin's Expedition](../factions/KhazadDum)
 #### New Features
 - Khazad-Dum is no longer a horde faction
 - Khazad-Dum expedition script has been removed
@@ -1036,17 +884,17 @@ In this section we will try and cover the major changes that are faction specifi
 - **Spreading Word**
   - Send diplomats to the Blue Mountains, the Lonely Mountain, the Iron Hills and even to the distant East to gain custom generals from each Dwarven clan. recruit some of their units from the Hall of the Seven and the chance to slowly increase your population and culture in Khazad-Dum every year from new settlers
 -------------------------------------------
-### Khand
+### [Khand](../factions/Khand)
 #### New Visuals
 - Khand has recieved new models for it's bodyguard units, new portraits and and a varied selection of custom bodyguard units at game start
 
 -------------------------------------------
-### Lothlorien
+### [Lothlorien](../factions/Lorien)
 #### New Features
 - The Elven Union has been improved. If you accept the union as either the Woodland Realm or Lothlorien, your faction name will now change to "Eryn Lasgalen" and the colour of your faction and it's borders will also change. The Woodland Realm or Lothlorien can now form the union when being controlled by the AI and they will also change.
 - Dol Goldur now changes to Amon Lanc if there is 75% or more elven culture there. It recieves a new name, custom CSM and battlemap.
 -------------------------------------------
-### Northern Dunedain
+### [Northern Dunedain](../factions/Dunedain)
 #### New Visuals
 - The Northern Dunedain now have a custom campaign and battle map UI
 
@@ -1063,24 +911,24 @@ In this section we will try and cover the major changes that are faction specifi
 - Updated the Aragorn crowning event video to have stereo sound
 - If Gandalf dies there is now a 20% chance each turn he is he dead that he will respawn as Gandalf the White rather than it being guaranteed (10 turn wait still applies)
 -------------------------------------------
-### Rhun
+### [Rhun](../factions/Rhun)
 #### New Features
 - Rhun now get a custom Dragonswrath general for completing the Dragon Relic quest
 - Adjust Rhun starting conditions to not be at war with Dorwinion
 - Added 3 new Urulóke (Dragonswrath) units (Swiftblades/Guardians/Arcubalists)
 - Added a new Urulóke (Dragonswrath) building line for recruiting said Dragonswrath units
 -------------------------------------------
-### Rohan
+### [Rohan](../factions/Rohan)
 #### New Visuals
 - Added new visuals for Eored, Eorling, Rohirrim, Guard of the Cave, Peasants and Shieldmaiden units courtesy of Lerynian
 - Eowyn has receieved a new battle and strategy model courtesy of Louis Lux
 -------------------------------------------
-### Woodland
+### [Woodland](../factions/woodlandrealm)
 #### New Features
 - The Elven Union has been improved. If you accept the union as either the Woodland Realm or Lothlorien, your faction name will now change to "Eryn Lasgalen" and the colour of your faction and it's borders will also change. The Woodland Realm or Lothlorien can now form the union when being controlled by the AI and they will also change.
 - Dol Goldur now changes to Amon Lanc if there is 75% or more elven culture there. It recieves a new name, custom CSM and battlemap.
 -------------------------------------------
-### Isengard
+### [Isengard](../factions/Isengard)
 #### New Visuals
 - Added a new set of portraits exclusive to Isengard
 - Saruman has a new custom portrait, battle and strategy model courtesy of Louis Lux
@@ -1091,13 +939,13 @@ In this section we will try and cover the major changes that are faction specifi
 - Sharku now spawns as a custom general after taking Foldburg and Gineard
 - Fangorn Forest is now actually destroyed on the campaign map and replaced with orc camps as you progress through the script
 -------------------------------------------
-### Gundabad
+### [Gundabad](../factions/Gundabad)
 Gundabad has not recieved any significant changes in AGO V3.
 
 -------------------------------------------
-### Enedwaith
+### [Enedwaith](../factions/Enedwaith)
 Enedwaith has not recieved any significant changes in AGO V3.
 
 -------------------------------------------
-### Erebor
+### [Erebor](../factions/Erebor)
 Erebor has not recieved any significant changes in AGO V3.
