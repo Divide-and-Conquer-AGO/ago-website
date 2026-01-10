@@ -8,7 +8,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: macos-13  # Back to standard runner
+    runs-on: windows-2025  # Back to standard runner
     timeout-minutes: 20  # Increase timeout
     steps:
       - uses: actions/checkout@v4  # Updated to latest version
