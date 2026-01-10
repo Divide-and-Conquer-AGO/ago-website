@@ -68,10 +68,10 @@
   </library_effects>
   <library_images>
     <image id="huntmasters_attach_dds" name="huntmasters_attach_dds">
-      <init_from>huntmasters_attach.png</init_from>
+      <init_from>huntmasters_attach.webp</init_from>
     </image>
     <image id="huntmasters_dds" name="huntmasters_dds">
-      <init_from>huntmasters.png</init_from>
+      <init_from>huntmasters.webp</init_from>
     </image>
   </library_images>
   <library_materials>

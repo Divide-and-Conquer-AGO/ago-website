@@ -28,68 +28,74 @@ function setModelPaths(model) {
   switch (model) {
     case "Ruffians":
       dae_path = "/models/rebels/bandits.dae";
-      mainTexPath = "/models/rebels/bandits_attach_new.png";
-      attachTexPath = "/models/rebels/bandits_new.png";
+      mainTexPath = "/models/rebels/bandits_attach_new.webp";
+      attachTexPath = "/models/rebels/bandits_new.webp";
       break;
 
     case "Ruffians_2":
       dae_path = "/models/rebels/bandits_2.dae";
-      mainTexPath = "/models/rebels/bandits_attach_new.png";
-      attachTexPath = "/models/rebels/bandits_new.png";
+      mainTexPath = "/models/rebels/bandits_attach_new.webp";
+      attachTexPath = "/models/rebels/bandits_new.webp";
       break;
 
     case "Ruffians_3":
       dae_path = "/models/rebels/bandits_3.dae";
-      mainTexPath = "/models/rebels/bandits_attach_new.png";
-      attachTexPath = "/models/rebels/bandits_new.png";
+      mainTexPath = "/models/rebels/bandits_attach_new.webp";
+      attachTexPath = "/models/rebels/bandits_new.webp";
       break;
 
     case "Oathband":
       dae_path = "/models/dunland/oathband.dae";
-      mainTexPath = "/models/dunland/dunland_BG_alt.png";
-      attachTexPath = "/models/dunland/dunland_bg.png";
+      mainTexPath = "/models/dunland/dunland_BG_alt.webp";
+      attachTexPath = "/models/dunland/dunland_bg.webp";
       break;
 
     case "Oathband_2":
       dae_path = "/models/dunland/oathband_2.dae";
-      mainTexPath = "/models/dunland/dunland_BG_alt.png";
-      attachTexPath = "/models/dunland/dunland_bg.png";
+      mainTexPath = "/models/dunland/dunland_BG_alt.webp";
+      attachTexPath = "/models/dunland/dunland_bg.webp";
       break;
 
     case "Oathband_3":
       dae_path = "/models/dunland/oathband_3.dae";
-      mainTexPath = "/models/dunland/dunland_BG_alt.png";
-      attachTexPath = "/models/dunland/dunland_bg.png";
+      mainTexPath = "/models/dunland/dunland_BG_alt.webp";
+      attachTexPath = "/models/dunland/dunland_bg.webp";
       break;
 
     case "Huntmasters":
       dae_path = "/models/dunland/huntmasters.dae";
-      mainTexPath = "/models/dunland/huntmasters.png";
-      attachTexPath = "/models/dunland/huntmasters_attach.png";
+      mainTexPath = "/models/dunland/huntmasters.webp";
+      attachTexPath = "/models/dunland/huntmasters_attach.webp";
       break;
 
     case "Huntmasters_2":
         dae_path = "/models/dunland/huntmasters_2.dae";
-        mainTexPath = "/models/dunland/huntmasters.png";
-        attachTexPath = "/models/dunland/huntmasters_attach.png";
+        mainTexPath = "/models/dunland/huntmasters.webp";
+        attachTexPath = "/models/dunland/huntmasters_attach.webp";
     break;
 
     case "Grey_Company_1":
         dae_path = "/models/dunedain/grey_company.dae";
-        mainTexPath = "/models/dunedain/ranger_elite.png";
-        attachTexPath = "/models/dunedain/grey_company_diff.png";
+        mainTexPath = "/models/dunedain/ranger_elite.webp";
+        attachTexPath = "/models/dunedain/grey_company_diff.webp";
     break;
 
     case "Grey_Company_2":
       dae_path = "/models/dunedain/grey_company_2.dae";
-      mainTexPath = "/models/dunedain/ranger_elite.png";
-      attachTexPath = "/models/dunedain/grey_company_diff.png";
+      mainTexPath = "/models/dunedain/ranger_elite.webp";
+      attachTexPath = "/models/dunedain/grey_company_diff.webp";
     break;
 
     case "RK_Spearmen":
       dae_path = "/models/rk/rk_spearmen.dae";
-      mainTexPath = "/models/dunedain/rk_da_banner.png";
-      attachTexPath = "/models/dunedain/soldiers_attachments_diff.png";
+      mainTexPath = "/models/dunedain/rk_da_banner.webp";
+      attachTexPath = "/models/dunedain/soldiers_attachments_diff.webp";
+    break;
+
+    case "Grindfarn":
+      dae_path = "/models/dwarves/grimborn_pose1.dae";
+      mainTexPath = "/models/dwarves/grimborn.png";
+      attachTexPath = "/models/dwarves/grimborn_attach.png";
     break;
 
     default:
@@ -109,7 +115,7 @@ function setBackgroundImage(image) {
 
   switch (image) {
     case "Black":
-      backgroundUrl = "https://i.imgur.com/0TVRt1M.png"
+      backgroundUrl = "https://i.imgur.com/0TVRt1M.webp"
       break;
     case "Mordor":
       backgroundUrl = "https://i.imgur.com/SIFCW0f.jpg"
@@ -121,19 +127,19 @@ function setBackgroundImage(image) {
       backgroundUrl = "https://i.imgur.com/P4QsUbx.jpg"
       break;
     case "Minas Tirith":
-      backgroundUrl = "https://i.imgur.com/R3HJpyb.png"
+      backgroundUrl = "https://i.imgur.com/R3HJpyb.webp"
       break;
     case "Ered Luin":
-      backgroundUrl = "https://i.imgur.com/B7ZRY4o.png"
+      backgroundUrl = "https://i.imgur.com/B7ZRY4o.webp"
       break;
     case "Umbar":
-      backgroundUrl = "https://i.imgur.com/K7RqYge.png"
+      backgroundUrl = "https://i.imgur.com/K7RqYge.webp"
       break;
     case "Bree":
-      backgroundUrl = "https://i.imgur.com/wFtaJE9.png"
+      backgroundUrl = "https://i.imgur.com/wFtaJE9.webp"
       break;
     case "Fangorn":
-      backgroundUrl = "https://i.imgur.com/O3Kir4f.png"
+      backgroundUrl = "https://i.imgur.com/O3Kir4f.webp"
       break;
     default:
       backgroundUrl = "https://i.imgur.com/SIFCW0f.jpg"
@@ -231,7 +237,7 @@ async function init() {
   // Add some basic controls
   controls = new THREE.OrbitControls(camera, renderer.domElement);
   controls.zoomSpeed = 1;
-  controls.autoRotate = true;
+  controls.autoRotate = false;
   controls.minDistance = 1.1;
   controls.maxDistance = 3;
 

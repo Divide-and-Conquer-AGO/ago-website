@@ -68,10 +68,10 @@
   </library_effects>
   <library_images>
     <image id="dunland_BG_alt_dds" name="dunland_BG_alt_dds">
-      <init_from>dunland_BG_alt.png</init_from>
+      <init_from>dunland_BG_alt.webp</init_from>
     </image>
     <image id="dunland_bg_dds" name="dunland_bg_dds">
-      <init_from>dunland_bg.png</init_from>
+      <init_from>dunland_bg.webp</init_from>
     </image>
   </library_images>
   <library_materials>
