@@ -23,7 +23,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify --timeout 100000
+        run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
