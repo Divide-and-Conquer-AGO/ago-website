@@ -16,6 +16,8 @@ internalTitle: "poland"
 ### Campaign Features
 - **Great Spiders**
   - Tame and control Ungoliant's children to serve Sauron's will
+- **The Forest and the Hills**
+  - Find the One Ring and deliver it to Sauron and merge your faction with Mordor
 
 ### Gallery
 

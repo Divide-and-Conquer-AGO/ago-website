@@ -15,7 +15,7 @@ internalTitle: "scotland"
 
 ### Campaign Features
 - **Master's Treasure (V3)**
-  - Oppurtunity to recover the Master's gold he fled with many years ago
+  - Recover the lost treasures of Laketown the Master fled with many years ago
 
 ### Gallery
 

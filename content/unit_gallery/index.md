@@ -1,6 +1,5 @@
 ---
-title: "Unit Gallery"
+title: "AGO's Middle-earth"
 toc: "true"
-description: "View and examine the amazing 3D models from Divide and Conquer: AGO in realtime"
+description: "A custom made map of the world of Divide and Conquer AGO"
 ---
-{{< unit_gallery/unit_gallery >}}

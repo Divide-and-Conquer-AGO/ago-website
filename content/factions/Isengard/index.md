@@ -16,7 +16,7 @@ internalTitle: "france"
 ### Campaign Features
 - **Forest of Fangorn**
   - Begin the destruction of the Fangorn Forest to obtain enough resources to begin the breeding of a true Uruk-hai army. Cleanse the Ents and watch the forest be destroyed in multiple stages
-- **Conquest of Rohan**
+- **Conquest of Rohan (V3)**
   - Carve out a passage for your armies to be unleashed on the Westfold and unlock Sharku, an infamous warg rider to lead your raids
 - **Scouring of the Shire**
   - Take control of the Shire by force or coercion and see the Bree-land and the Shire change forever

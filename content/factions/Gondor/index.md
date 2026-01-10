@@ -7,7 +7,7 @@ internalTitle: "sicily"
 {{< audio "gondor_stratmap_01.mp3" >}}
 
 <div class="starting-location">
-    <img src="/images/faction_locations/gondor.webp" alt="{{ .Title }}"/>
+    <img src="/images/faction_locations/sicily.webp" alt="{{ .Title }}"/>
 </div>
 
 ### Description
@@ -18,13 +18,13 @@ internalTitle: "sicily"
   - Light the Beacons of Gondor and recieve aid from Rohan 
 - **Denethor's Madness**
   - Keep Denethor's encroaching madness at bay by maintaining stability and ensuring his sons survive
-- **Control Dol Amroth**
-  - Play as both Gondor and Dol Amroth or entrust the control of your fief to Lord Imrahil and his men
-- **Reclaim Osgiliath**
-  - Reclaim Osgiliath and pardon the exiled Berethor
 - **Reunited Kingdom**
   - Follow the lures of Faramir's dream and send him on an epic journey to Rivendell and find Aragorn to return lordship of Gondor to the true king
-
+- **Control Dol Amroth (V3)**
+  - Play as both Gondor and Dol Amroth or entrust the control of your fief to Lord Imrahil and his men. Alternatively, annex Dol Amroth completely.
+- **Reclaim Osgiliath (V3)**
+  - Reclaim Osgiliath and pardon the exiled Berethor
+  
 ### Gallery
 
 {{< gallery

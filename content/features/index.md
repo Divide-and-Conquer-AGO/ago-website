@@ -839,6 +839,10 @@ In this section we will try and cover the major changes that are faction specifi
   - After consolidating control of the tribes, send the assassins of the Hasharii to remove your enemies from their seats of power. Assassins are one time use and take a lot of money and time to recruit so use them wisely. They do not need to be trained on lesser agents beforehand.
 - **Empire of the Haradwaith**
   - Lay claim to more than just Faen'obel and the surrounding regions and declare yourself Serpent-King, supreme ruler of the southern multitude. Forming the Empire of the Haradwaith will change your faction's colours, names and give you a small bonus to your king's purse. Gondor and Dol Amroth must be destroyed and the Ar-Adunaim either destroyed, allied or made a vassal.
+- **Sauron's Will**
+  - Sauron will not rest until the West is undone and you are an instrument of this reckoning. Capture key Gondorian and Amrothian cities such as Pelargir, Dol Amroth and Minas Tirith to unlock unique buildings and recieve Black Numenorean generals from Sauron.
+- **The Black Pearl**
+  - The Serpent-Lord has long looked across the Haradwaith in envy of independant lords that have held Umbar. It is a disgrace to the God-king Sauron for it not to be held by his people so we must take it for him. By conquering Umbar, you can build two unique buildings there as well as gain benefits from a multitude of unique landmark buildings across the Haradwaith.
 
 -------------------------------------------
 ### [High Elves](../factions/HighElves)

@@ -20,7 +20,7 @@ internalTitle: "turks"
   - Command the powerful Maia Gandalf the Grey with the potential for the reincarnation of Gandalf the White should he fall in battle
 - **Restore Arnor**
   - Restore the ancient Kingdom of Arnor and bring hope back to the hearts of the people of Eriador. Completely seamless and also fully functional for the AI in V3
-- **Return of the King**
+- **Return of the King (V3)**
   - Restore Arnor, complete Aragorn's epic journey and reunite the ancient kingdoms of Gondor and Arnor into the new Reunited Kingdom. Completely seamless with a wealth of new features and additions in V3. 
 - **Beacon of Hope**
   - Bring hope to the lands where Aragorn journeys. Recruit volunteers from all walks of life, across Middle-earth, from wildmen of Enedwaith to the peasants of Dorwinion, Aragorn inspires all.

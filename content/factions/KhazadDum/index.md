@@ -20,7 +20,9 @@ internalTitle: "norway"
   - Tap into the ancient Mithril mines of moria, which previously caused the downfall of the old kingdom and find bountiful riches to restore your fledgling kingdom
 - **Vault of Uruktharbūn (V3)**
   - Buried deep within the mountain kingdom, the vault was a wonder of the ancient Dwarven world. Unearth it's secrets and explore it's halls with randomly generated events.
-- **Spreading Word**
+- **The Imperishable Hall (V3)**
+  - Develop an alliance with High Elves and gain access to mithril to rebuild the Imperishable Hall in Khazad-Dum West to it's former glory
+- **Spreading Word (V3)**
   - Send diplomats to the Blue Mountains, the Lonely Mountain, the Iron Hills and even to the distant East to gain custom generals from each Dwarven clan. recruit some of their units from the Hall of the Seven and the chance to slowly increase your population and culture in Khazad-Dum every year from new settlers
 - **Dwarven Grudges**
   - Avenge your Dwarven ancestors and reclaim their ancient halls for a variety of rewards

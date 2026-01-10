@@ -17,14 +17,6 @@ Examples of this include the inclusion of a wider variety of armour like mail an
     </iframe>
 </div>
 
-### World Map
-<br>
-<div class="siu-map">
-    <a href="./images/siu_map.webp" target="_blank" rel="noopener">
-        <img class="" src="./images/siu_map.webp">
-    </a>
-</div>
-
 ### Submod Hierarchy
 ```
 Medieval II: Total War

@@ -16,12 +16,12 @@ internalTitle: "saxons"
 ### Campaign Features
 - **Reclaim Ost-in-edhil**
   - Reclaim Ost-in-Edhil and rebuild the forges of the Gwaith-i-Mírdain. Rebuild the Jewel Guild in Ost-In-Edhil to unlock units, upgrades, and bonuses.
-- **Glorfindel Return**
+- **Glorfindel Returns (V3)**
   - Command the great Elven hero of the First Age with the potential for him to be sent back again should he fall in battle
-- **The Twins**
+- **The Twins (V3)**
   - Send the famous brothers Elladan and Elrohir on a pressing mission beyond the Misty Mountains.
-- **Galdor of the Havens**
-  - Send Círdan's trusted advisor on a perilous quest to unveil a dark mystery
+- **Galdor of the Havens (V3)**
+  - Send Círdan's trusted advisor on a perilous quest to a far off isle to unveil a dark mystery
 
 ### Gallery
 
