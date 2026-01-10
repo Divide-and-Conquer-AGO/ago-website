@@ -96,3 +96,6 @@ Run FullCleaner.bat in the mod folder.
 
 #### Mod used to work but suddenly starts crashing at startup or loading any saves/battles
 Check you still have M2TWEOP_GUI.exe and AGO_Launcher.exe in your mod folder (your anti-virus may have deleted them). Make sure to restart your PC also.
+
+#### Launcher doens't open
+Make sure to run the launcher as an adminstrator (Right Click -> Run as admin) or (Right click -> Properties -> Run this program as adminstrator)

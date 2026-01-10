@@ -1,7 +1,7 @@
 ---
-title: "Unit Gallery"
+title: "AGO's Middle-earth"
 toc: "true"
-description: "View and examine the amazing 3D models from Divide and Conquer: AGO in realtime"
+description: "A custom made map of the world of Divide and Conquer AGO"
 ---
 <div class="siu-map">
     <a href="./images/siu_map.webp" target="_blank" rel="noopener">

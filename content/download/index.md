@@ -2,22 +2,28 @@
 title: "Download"
 description: "Download and install instructions for AGO"
 ---
+## Requirements
+- A copy of Medieval II Total War
+    - Steam (Definitive Edition)
+    - CD (Patched to version 1.5) (Please note that CD keys from boxed editions may be [activated on Steam](https://help.steampowered.com/en/faqs/view/2A12-9D79-C3D7-F870))
 
 ## Download Links
 
-* ### [Google Drive](https://drive.google.com/file/d/1NONh9gxmbEF1qEFLACrCUCk26ttdXlVd/view?usp=sharing)
-* ### [Mediafire](https://www.mediafire.com/file/89r450o7swl9vo0/DaC_AGO_V2.1_-_War_of_the_Ring.7z/file)
+<!-- * ### [Google Drive](https://drive.google.com/file/d/1iBgfgEdvf4dBnhXVeh3niOfdvTWRGzjS/view?usp=sharing)
+* ### [AWS S3](https://divide-and-conquer-ago.s3.eu-west-1.amazonaws.com/AGO_V3_Installer.zip)
+* ### [Torrent](https://github.com/Divide-and-Conquer-AGO/ago-website/blob/v3-changes/content/download/AGO_V3_Installer.torrent) -->
 
 ## Installation
 
 ### Quickstart
 
-1. Install a clean copy of [Divide and Conquer 4.6](https://www.youtube.com/watch?v=jFcVSROpnXI)
-2. Make a copy of your `Divide_and_Conquer` folder located in `Medieval II Total War/mods`
-3. Rename it `Divide_and_Conquer_ago`
-4. Drag the **contents** of the `DaC AGO V2 - War of the Ring Beta` folder in the downloaded zip archive into your own `Divide_and_Conquer_ago` folder, replacing if prompted
-5. Navigate to **Medieval II Total War/mods/Divide_and_Conquer_ago** and double click the file `Full Cleaner.bat`
-6. Launch the game by double clicking `DaC.bat`
+1. Download `AGO_V3_Installer.zip` from above
+2. Extract all the files from the zip into another folder called `AGO_V3_Installer` (name doesn't matter)
+3. Run the installer and make sure you point it to the correct path (e.g. `E:\SteamLibrary\steamapps\common\Medieval II Total War\mods\AGO_V3`)
+4. Navigate to the path you just installed the mod to
+3. Run `Full_Cleaner.bat` and press any key
+5. Run `AGO_Launcher.exe` with adminstrator rights (Right Click -> Run as Admin) and check for any updates/configure settings
+6. Launch the mod from the launcher
 
 ### Video Tutorial
 <div class="download-embed">
