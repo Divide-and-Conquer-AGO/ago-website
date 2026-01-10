@@ -17,7 +17,9 @@ There are 26 playable factions, each with their own unique rosters, scripts and 
 # AI Disclaimer
 <div class="testimonials">
   <div class="speechbubble">
-In the early days of generative AI, it was exciting and interesting for us as a team. We experimented a lot with AI generated text, art and code. Over time however, it became very obvious that there was something missing, especially when it came to text and art. There was a certain charm that was lost, the author's own interpretation of what Lord of the Rings meant to them or simply an individuals own writing style. There is no shortage of excellent, high quality art for Lord of the Rings nor a shortage of passionate and talented writers in our community. For that reason, we made the decision to avoid using generative AI wherever possible. However there may still linger small bits and pieces here and there that were added as placeholder in the early days and forgotten. AI was however used for other tasks such as assisting in automation or tedious tasks (a massive part in modding which is often overlooked). In these cases, it was extremely useful and we will continue to use it in these scenarios.
+In the early days of generative AI, it was exciting and interesting for us as a team. We experimented a lot with AI generated text, art and code. Over time however, it became very obvious that there was something missing, especially when it came to text and art. There was a certain charm that was lost, the author's own interpretation of what Lord of the Rings meant to them or simply an individuals own writing style. There is no shortage of excellent, high quality art for Lord of the Rings nor a shortage of passionate and talented writers in our community. 
+
+For that reason, we made the decision to avoid using generative AI wherever possible. However, there may still linger small bits and pieces here and there that were added as placeholder in the early days and forgotten. AI was however used for other tasks such as assisting in automation or tedious tasks (a massive part in modding which is often overlooked). In these cases, it was extremely useful and we will continue to use it in these scenarios.
 
 Generally speaking however, you can assume any text or art you see in the mod, was lovingly created by a human.
   </div>
@@ -164,8 +166,6 @@ Some factions have multiple standard bodyguards, which are dynamically allocated
   - Kugathi Rátha
 - Isendraich 
   - Isendraich Towersworn
-
-TBD - Add Screenshots
 
 ### Cinematic Intros and Faction Movies
 Faction movies from TATW have been restored. Each faction now also has it's own cinematic intro sequence that shows you the various important settlements nearby which is particularly useful for new and returning players to help them get their bearings.
@@ -927,7 +927,7 @@ In this section we will try and cover the major changes that are faction specifi
 - Added new visuals for Eored, Eorling, Rohirrim, Guard of the Cave, Peasants and Shieldmaiden units courtesy of Lerynian
 - Eowyn has receieved a new battle and strategy model courtesy of Louis Lux
 -------------------------------------------
-### [Woodland](../factions/woodlandrealm)
+### [Woodland Realm](../factions/woodlandrealm)
 #### New Features
 - The Elven Union has been improved. If you accept the union as either the Woodland Realm or Lothlorien, your faction name will now change to "Eryn Lasgalen" and the colour of your faction and it's borders will also change. The Woodland Realm or Lothlorien can now form the union when being controlled by the AI and they will also change.
 - Dol Goldur now changes to Amon Lanc if there is 75% or more elven culture there. It recieves a new name, custom CSM and battlemap.

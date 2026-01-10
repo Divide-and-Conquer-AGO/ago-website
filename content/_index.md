@@ -24,11 +24,51 @@ Medieval II: Total War
     └───Divide and Conquer (4.6)
         └───AI and Gameplay Overhaul
 ```
-The latest version of the mod released was version **2.1** on the *27th of January 2022*. Version **3** is in the works and is already full of exciting new features such as an entire faction overhaul for Dorwinion, Dunland, Enedwaith, Moria as well as never before seen mechanics and scripts and AI changes created with EOP V2 as well as much, much more!
+The latest version of the mod released was version **3** on the *10th January 2025*.
 
 <div class="testimonials">
 
 ### Testimonials
+
+<div class="speechbubble">
+I've played for several hours, with different factions. like North Dunedain, Mordor, Erebor and Kazhadum, All Elvish factions, Ar Adunaim (Personal favorite) , Dorwinion, Rhun, Dale, Gondor, and Anduin (most dificult and a pain in the ass)
+
+All i can say is that AGO is a awsome addition to DAC, which was having almost no new content regarding and upgrade in gameplay.
+
+Beside the campaign being way longer then the original DAC, it's not boring, every turn something is happening in the borders of your kingdom, some ocasional raids from enemies factions. bandits, or some diplomats or allies coming to your aid.
+
+You can sense the difference between the settlements now, Castles are way important from a military perspective, since they can recruit way faster then cities, and cities are just the bulk of the economy.
+
+Many times i was desperate to hold off some place with a castle so i can focus on developing the cities to get an economic boost. but the AI knows what is doing in this game, they play dirty, some times i was with an army close to an city and ready to do a siege, when i attacked, they also attacked at the same time one of my settlements that was ungarded.
+I immediatly set off the siege and turned back to face this attack, i lost the city, but i recuperated with my army.
+
+This happened a lot, when i tought i've had the upperhand against the AI, i got blasted right back, in some unnexpected manner.
+
+Every faction is unique in its playing style.
+Elves are fierce, comparing to some other units Elves are almost heroes, but they are low on numbers and can't muster a big army without a big economy hit.
+Dwarvs are Strong, almost as Elves, they have numbers, they are not so pricy, but they are slow... and don't have acces to cavalry.
+
+Overall, excellent mod!!!
+<div class="username">
+TeacherH
+</div>
+</div>
+
+<div class="speechbubble">
+I've played the majority of possible mods and submods since Third Age came out. Ago is the one I like the most. Looking forward to an autonomous V3 and to seeing that, thank you for the work. 
+<div class="username">
+Zoka
+</div>
+</div>
+
+<div class="speechbubble">
+I played DAC since v3, played v5 too with every faction and I recently started playing AGO and I must say that it’s a way better experience. You feel like more inside middle earth thanks to the amazing job on the soundtracks and scripts. Factions are doing a more lore accurate expansion, you can’t cheese the AI with diplomacy anymore. So for someone who’s searching something more realistic and lore accurate this is the mod. For me it’ll be only AGO for now on. Exited to play v3.
+
+Thank you guys
+<div class="username">
+Blasux
+</div>
+</div>
 
 <div class="speechbubble">
 After yet another long hiatus from TATW and my inevitable return to it afterwards, I used the last few days to try and compare DAC AGO, with DAC Vanilla and DAC EUR and and just wanted to say AGO still feels like it's miles ahead of the others in terms of campaign feel. I don't know what exactly it is but overall it just feels so much more fleshed out whereas the others tend to have a somewhat gimmicky feel. Also, after AGO it's really rough to imagine going back to Barracks events etc. Thanks very much for this mod and the countless hours of fun it provides.
