@@ -61,4 +61,4 @@ To add a new faction, simply run
 ## Technologies
 
 - Hugo
-
+- Chad stuff
