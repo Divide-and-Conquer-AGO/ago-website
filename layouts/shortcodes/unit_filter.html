@@ -11,12 +11,10 @@
 
 {{ $dataPath := split $file "/" }}
 {{ $data := .Site.Data }}
-
 {{ range $dataPath }}
   {{ if isset $data . }}
     {{ $data = index $data . }}
   {{ else }}
-    {{ errorf "Could not find %s in data path %s. See %s" . $file $.Position }}
   {{ end }}
 {{ end }}
 
@@ -108,6 +106,14 @@
                     <th>Upkeep</th>
                     <td>{{ if isset $unitData "Upkeep" }}{{ $unitData.Upkeep }}{{ else }}N/A{{ end }}</td>
                   </tr>
+                    {{ if and (isset $unitData "Attributes") (ne $unitData.Attributes nil) }}
+                    {{ if or (in $unitData.Attributes "general_unit") (in $unitData.Attributes "bodyguard_unit") }}
+                    <tr>
+                      <th>Bodyguard Unit</th>
+                      <td>Yes</td>
+                    </tr>
+                    {{ end }}
+                    {{ end }}
                 </table>
               </td>
             </tr>
