@@ -5,15 +5,11 @@ description: "Images and videos showcasing the exciting new features coming to A
 
 The following content is set to release in AGO V3. There is no set release date for this version but we are getting closer and closer every day. For more details and to stay up to date, please check out our Discord!
 
-#### Units
+## Units
 
 {{< gallery match="images/units/*" sortOrder="asc" loadJQuery=true rowHeight="200" margins="5" thumbnailResizeOptions="1920x1090 q90 Lanczos" showExif=true previewType="blur" embedPreview="true" >}}
 
-#### Strategy Map
-
-{{< gallery match="images/stratmap/*" sortOrder="asc" loadJQuery=true rowHeight="200" margins="5" thumbnailResizeOptions="1920x1090 q90 Lanczos" showExif=true previewType="blur" embedPreview="true" >}}
-
-#### Scripts
+## Scripts
 
 <div class="previews-embed-homepage">
     <iframe allow="fullscreen;" frameborder="0" width="1200" height="500"
@@ -23,15 +19,15 @@ The following content is set to release in AGO V3. There is no set release date 
 
 {{< gallery match="images/scripts/*" sortOrder="asc" loadJQuery=true rowHeight="200" margins="5" thumbnailResizeOptions="1920x1090 q90 Lanczos" showExif=true previewType="blur" embedPreview="true" >}}
 
-#### Faction Overviews
+## Faction Overviews
 
 {{< gallery match="images/factions/*" sortOrder="asc" loadJQuery=true rowHeight="200" margins="5" thumbnailResizeOptions="1920x1090 q90 Lanczos" showExif=true previewType="blur" embedPreview="true" >}}
 
-#### Battlemaps
+## Battlemaps
 
 {{< gallery match="images/battlemaps/*" sortOrder="asc" loadJQuery=true rowHeight="200" margins="5" thumbnailResizeOptions="1920x1090 q90 Lanczos" showExif=true previewType="blur" embedPreview="true" >}}
 
-#### Sounds
+## Sounds
 
 <div class="previews-embed-homepage">
     <iframe allow="fullscreen;" frameborder="0" width="1200" height="500"
@@ -45,7 +41,7 @@ The following content is set to release in AGO V3. There is no set release date 
     </iframe>
 </div>
 
-#### Developer Diaries
+## Developer Diaries
 <div class="previews-embed-homepage">
     <iframe allow="fullscreen;" frameborder="0" width="1200" height="500"
         src="https://www.youtube.com/embed/RnQjjc7dEsg?si=Y8DVayFR957fNsR7">

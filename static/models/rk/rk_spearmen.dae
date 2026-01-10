@@ -68,10 +68,10 @@
   </library_effects>
   <library_images>
     <image id="rk_da_guardsmen_att_dds" name="rk_da_guardsmen_att_dds">
-      <init_from>rk_da_guardsmen_att.png</init_from>
+      <init_from>rk_da_guardsmen_att.webp</init_from>
     </image>
     <image id="rk_da_guardsmen_upg2_dds" name="rk_da_guardsmen_upg2_dds">
-      <init_from>rk_da_guardsmen_upg2.png</init_from>
+      <init_from>rk_da_guardsmen_upg2.webp</init_from>
     </image>
   </library_images>
   <library_materials>

@@ -68,10 +68,10 @@
   </library_effects>
   <library_images>
     <image id="grey_company_diff_dds" name="grey_company_diff_dds">
-      <init_from>grey_company_diff.png</init_from>
+      <init_from>grey_company_diff.webp</init_from>
     </image>
     <image id="ranger_elite_dds" name="ranger_elite_dds">
-      <init_from>ranger_elite.png</init_from>
+      <init_from>ranger_elite.webp</init_from>
     </image>
   </library_images>
   <library_materials>

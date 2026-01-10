@@ -10,16 +10,26 @@
   </h1>
 
   <div class="content-body">
-    <ul class="content-body-list">
-      {{ range .Data.Pages -}}
-        <li>
-          <strong>Note: </strong>The following page is a work in progress. This page will be updated more in detail when AGO V3 releases.
-          You can see an example of what a faction page will look like below.
-          <br>
-          <span><a class="list-item" href="{{ .Permalink }}">{{ .Title }}</a></span>
-        </li>
-      {{- end }}
-      </ul>
+    <table class="content-body-list">
+      <thead>
+        <!-- <th>Faction</th> -->
+        <!-- <th>Icon</th> -->
+      </thead>
+      <tbody>
+        {{ range .Data.Pages -}}
+        <tr>
+          <td class="list-item">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </td>
+          <td class="list-image">
+            <a href="{{ .Permalink }}">
+              <img src="/images/faction_icons/symbol48_{{ .Params.internalTitle }}.webp" alt="{{ .Title }}" />
+            </a>
+          </td>
+        </tr>
+        {{- end }}
+      </tbody>
+    </table>
   </div>
 </div>
 {{- end }}
