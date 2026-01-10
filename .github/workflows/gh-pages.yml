@@ -8,7 +8,8 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest  # Use latest instead of specific version
+    runs-on: ubuntu-latest
+    timeout-minutes: 10  # Add timeout to prevent hanging
     steps:
       - uses: actions/checkout@v4  # Updated to latest version
         with:

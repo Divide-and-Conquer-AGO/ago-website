@@ -26,8 +26,9 @@ description: "Download and install instructions for AGO"
 6. Launch the mod from the launcher
 
 ### Video Tutorial
-<div class="download-embed">
+Coming soon!
+<!-- <div class="download-embed">
     <iframe allow="fullscreen;" frameborder="0" width="900" height="500"
     src="https://www.youtube.com/embed/P1Ht3Yr12Q8">
     </iframe>
-</div>
+</div> -->
