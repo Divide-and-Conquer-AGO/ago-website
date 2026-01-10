@@ -8,7 +8,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: windows-2025  # Back to standard runner
+    runs-on: ubuntu-latest  # Back to standard runner
     timeout-minutes: 20  # Increase timeout
     steps:
       - uses: actions/checkout@v4  # Updated to latest version
@@ -19,11 +19,11 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.101.0'
+          hugo-version: latest
           extended: true
 
       - name: Build
-        run: hugo --minify --timeout 10m
+        run: hugo --minify --timeout 100000
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
