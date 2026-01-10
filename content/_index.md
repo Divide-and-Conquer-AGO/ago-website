@@ -6,11 +6,11 @@ description: "Main website and documentation for the Lord of the Rings mod 'Divi
 ### What is Divide and Conquer: AGO?
 Divide and Conquer: AGO (AI and Gameplay Overhaul) is a Lord of the Rings strategy game which uses the Medieval II Total War engine.
 
-From the desperate Dúnedain in the cold North to the Haradrim in the blazing South, AGO offers players a chance to control one of 25 unique factions vying for control in Tolkien's Middle-earth during the period of the "War of the Ring". The focus of the mod is providing players with an immersive and authentic experience while also allowing for complex strategies and roleplay.
+From the desperate Dúnedain in the cold North to the Haradrim in the blazing South, AGO offers players a chance to control one of 25 unique factions vying for control in Tolkien's Middle-earth during the period of the "War of the Ring". The mod focuses on providing players with an immersive and authentic experience while also allowing for complex strategies and deep roleplay.
 
 <div style="text-align: center" class="download-embed">
     <iframe allow="fullscreen;" frameborder="0" width="500" height="500"
-    src="https://www.youtube.com/embed/6Q70-nGT_fw?si=mg9u2uP72md7npnv">
+    src="https://www.youtube.com/embed/3IyAmjMXOkA?si=scCOw4bnhPWyIQ44">
     </iframe>
 </div>
 
