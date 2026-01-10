@@ -48,7 +48,7 @@ Battle AI has been completely re-written from scratch in Lua and at the engine l
 - The AI should now be able to better determine if it should attack directly or use it's range superiority
 - The AI will now attack multiple gates during siege battles making defending siege battles a lot more interesting
 - The AI can now properly use hero abilities in battles
-- The AI can now properly attack gates with elephant artillery units (vanilla bug)
+- The AI can now properly attack gates with elephant units (vanilla bug)
 
 ### Campaign AI
 Campaign AI has been completely re-written from scratch in Lua and at the engine level, using the Engine Overhaul Project. Many hardcoded limitations have been removed and AI controlled factions should now play more like a player. 
