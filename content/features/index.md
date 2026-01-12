@@ -23,6 +23,7 @@ Generally speaking however, you can assume any text or art you see in the mod, w
   </div>
 </div>
 
+- [AI Disclaimer](#ai-disclaimer)
 - [Features](#features)
   - [Launcher](#launcher)
   - [AI](#ai)
@@ -1038,7 +1039,7 @@ In this section we will try and cover the major changes that are faction specifi
 - Player and AI "Balin's Expedition" starts with Khazad-Dum East
   - For player Goblins they start with just Erui
 - The scripted Balrog attacks and getting Gandalf to come and help kill the Balrog have been removed
-- The Balrog remains in KD East and spawns in as a garrison unit if KD East is assaulted
+- The Balrog remains in KD West and spawns in as a garrison unit if KD West is assaulted
 - Added a new building, "The Imperishable Hall", seat of the Lords of Western Khazad-Dum
   - Requires access to mithril and an alliance with the high elves, this hall will help restore some of the splendour that was lost over the years in KD
 - Added new clan traits for the 4 Orocarni Clans
