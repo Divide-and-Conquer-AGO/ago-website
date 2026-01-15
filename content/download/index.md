@@ -22,8 +22,9 @@ description: "Download and install instructions for AGO"
 3. Run the installer and make sure you point it to the correct path (e.g. `E:\SteamLibrary\steamapps\common\Medieval II Total War\mods\AGO_V3`)
 4. Navigate to the path you just installed the mod to
 3. Run `Full_Cleaner.bat` and press any key
-5. Run `AGO_Launcher.exe` with adminstrator rights (Right Click -> Run as Admin) and check for any updates/configure settings
-6. Launch the mod from the launcher
+5. Run `AGO_Launcher.exe` with adminstrator rights (Right Click -> Run as Admin)
+6. Click the Updates tab and update the mod to the latest version
+7. Launch the mod from the launcher
 
 ### Video Tutorial
 Coming soon!
