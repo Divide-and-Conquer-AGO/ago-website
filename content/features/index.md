@@ -532,6 +532,8 @@ A lesser known feature of Medieval 2 are battle map ground type modifiers. Certa
 
 These effects have been reworked from scratch and the ability to check the ground type at any moment has been added. This should allow for more tactical decision making in battles such as positioning your line infront of a patch of mud to slow down the enemy charge or preparing your flank along a road.
 
+{{< gallery match="images/groundTypes/*" >}}
+
 ### Unit Highlighting
 The ability to toggle the highlighting of units has been bound to a hotkey, allowing you to toggle unit highlighting without having to press a button and without having to use the default "large" UI. The unit highlight colours have also been reworked to be more in line with the theme of the game.
 
