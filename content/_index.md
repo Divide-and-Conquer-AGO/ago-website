@@ -55,13 +55,6 @@ Absolute Maniac
 </div>
 
 <div class="speechbubble">
-Congrats on the new release guys! I gave it just a Quick Look on the campaign and unit cards in custom battle. Fortunately tomorrow I’ll have more time to give it a proper try, but it looks amazing! I was never into EOP but what you did with it is absolutely stunning!
-<div class="username">
-Soluna
-</div>
-</div>
-
-<div class="speechbubble">
 It’s absolutely amazing that you all have done this through sheer force of passion. You still deserve to be paid for it
 <div class="username">
 martingale14
