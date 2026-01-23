@@ -26,6 +26,97 @@ The latest version of the mod released was version **3** on the *10th January 20
 <div class="testimonials">
 
 ### Testimonials
+<div class="speechbubble">
+I just finished reading the entire V3 changelog... I've been waiting for this for years, convinced that it would be the definitive mod for Third Age... And now I'm absolutely convinced. An incredible and excellent job. Well done! Bravi 
+<div class="username">
+VonGters
+</div>
+</div>
+
+<div class="speechbubble">
+Found out about this mod over the weekend. What you guys have done is incredible, really deserves much more attention!
+<div class="username">
+Grotsky
+</div>
+</div>
+
+<div class="speechbubble">
+this mod seems incredibly well made. AI doesn't feel like it's cheating. Tons of interesting stuff happening in the world
+<div class="username">
+dpf.
+</div>
+</div>
+
+<div class="speechbubble">
+INCREDIBLE MOD I MUST SAY, REALLY ONE OF THE GREATEST I HAVE EVER PLAYED! ❤️
+<div class="username">
+Absolute Maniac
+</div>
+</div>
+
+<div class="speechbubble">
+Congrats on the new release guys! I gave it just a Quick Look on the campaign and unit cards in custom battle. Fortunately tomorrow I’ll have more time to give it a proper try, but it looks amazing! I was never into EOP but what you did with it is absolutely stunning!
+<div class="username">
+Soluna
+</div>
+</div>
+
+<div class="speechbubble">
+It’s absolutely amazing that you all have done this through sheer force of passion. You still deserve to be paid for it
+<div class="username">
+martingale14
+</div>
+</div>
+
+<div class="speechbubble">
+A launcher with a one-click update button for a mod is pretty dang amazing. Good job to whoever implemented that
+<div class="username">
+Enitect
+</div>
+</div>
+
+<div class="speechbubble">
+This is an amazing update btw ! Really reignited my love for the mod! Even though I've got my ass kicked twice on two separate campaigns so far lmao
+<div class="username">
+TheGuy
+</div>
+</div>
+
+<div class="speechbubble">
+i am amazed what you guys did with this mod the scripts the level of polish is really incredible
+<div class="username">
+Lomi
+</div>
+</div>
+
+
+<div class="speechbubble">
+also wanted to say how an amazing job you guys have done, cant put to words how much fun i'm having 🙂 exceeded all expectations 🙂
+<div class="username">
+ZOOMez
+</div>
+</div>
+
+<div class="speechbubble">
+Just finished the Galdor's Dream mission. Bravo, Dev team.  Really beautiful addition to the HE. Loving this mod. Truly amazing work and a great tribute to Tolkien.
+<div class="username">
+canonar
+</div>
+</div>
+
+<div class="speechbubble">
+Whole mod is amazing, really shows Quality>Quantity when it comes to enjoyment. I though i would not play med2 anymore due to insane AI army spam and annoying AI diplomacy but here i am playing non stop since last week.
+<div class="username">
+Karasis
+</div>
+</div>
+
+<div class="speechbubble">
+I have played for 80 turns, going for a Dorwinion campaign for the first time in years. What you people did is quite revolutionary and deserves high praises. I thank you all, many times, for the attention, the care and the work you put in this mod. It is a thing of joy, and a thing of beauty.
+<div class="username">
+Kaliayev
+</div>
+</div>
 
 <div class="speechbubble">
 I've played for several hours, with different factions. like North Dunedain, Mordor, Erebor and Kazhadum, All Elvish factions, Ar Adunaim (Personal favorite) , Dorwinion, Rhun, Dale, Gondor, and Anduin (most dificult and a pain in the ass)

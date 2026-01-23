@@ -1,5 +1,12 @@
 # Credits
 
+<div class="previews-embed-homepage">
+    <iframe allow="fullscreen;" frameborder="0" width="75%" height="100%"
+        src="https://www.youtube.com/embed/FB3sQhGaSng?si=LvNKvWVl_G3Dw7jM">
+    </iframe>
+</div>
+
+
 ### Disclaimer
 
 Divide and Conquer: AGO is an overhaul of the Divide and Conquer mod.
