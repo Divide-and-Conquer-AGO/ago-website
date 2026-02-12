@@ -28,7 +28,7 @@ Of course, if you ask a Bree-lander most of the above is just pointless chatter.
 - **Forsaken Inn (V3)**
   - Restore order to the Bree-land by repairing and upgrading the Forsaken Inn
 - **Create Your Commander (V3)**
-  - The Bree-land needs an experience commander to lead it's armies in the coming wars. Create your own custom general from a variety of cultures and backgrounds to serve as your faction leader.
+  - The Bree-land needs an experienced commander to lead it's armies in the coming wars. Create your own custom general from a variety of cultures and backgrounds to serve as your faction leader.
 
 <div class="previews-embed-homepage">
     <iframe allow="fullscreen;" frameborder="0" width="100%" height="100%"
