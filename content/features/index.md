@@ -235,7 +235,7 @@ Campaign AI has been completely re-written from scratch in Lua and at the engine
 ## Campaign Mechanics
 
 ### The One Ring
-In comparison to Third Age and DaC, AGO has it's own custom ring script. This has been completely re-written in Lua for V3 and heavily expanded upon. The general flow of the the One Ring script works as such
+In comparison to Third Age and DaC, AGO has it's own custom ring script. This has been completely re-written in Lua for V3 and heavily expanded upon. The general flow of the One Ring script works as such
 
 #### Spy Networks
 - The One Ring will randomly spawn on a character around the map, with a bias towards characters that are near Goblin Town, where it was lost by Gollum many years ago
@@ -276,7 +276,7 @@ In order to automatically balance unit replenishment pools across the world and 
 The campaign uses a 6-turn per year system with dynamic seasons. There are seasonal traits with bonuses or maluses which can apply to your characters depending on the climate they are in and their preferred climates. For example, Angmar characters will perform better when fighting in the cold North and will perform worse the further south they travel.
 
 ### Character Ageing and Immortality
-Since V3, mortal races can die of natural causes during the campaign. How old they get before they can die depends on various factors such as their race and traits that affect their health. For example, characters that are Nazgul or characters that hold the One Ring cannot die of natural causes. Because the maximum age the game can store is 127, immortal characters will stay 125 years old indefinitely once they reach that age.
+Since V3, mortal races can die of natural causes during the campaign. How old they get before they can die depends on various factors such as their race and traits that effect their health. For example, characters that are Nazgul or characters that hold the One Ring cannot die of natural causes. Because the maximum age the game can store is 127, immortal characters will stay 125 years old indefinitely once they reach that age.
 
 ### Natural Disasters
 Earthquakes, storms, floods, forest fires, dust storms, snowstorms, tidal waves, locust invasions and famines can trigger randomly during your campaign, with various effects depending on the disaster. Some of these have visual effects as well, and the forest fires are scripted to permanently deforest areas. These occur very rarely and can be disabled. They effect the player and the AI.
@@ -475,7 +475,7 @@ Active raiding involves moving a character onto a resource belonging to a factio
 
 The amount of loot and slaves you acquire from a raid is dependant on many factors including the size of your army, the type of resource itself, the traits of the character leading the raid, how much money the faction being raided has and so on. After 12 turns have passed since the original raid, the resource will become raidable again.
 
-The AI, including rebel factions, can and will perform active raids on your resources. When this happens, you will recieve a notification so that you have an oppurtunity to defeat them and reclaim the loot that was stolen from you.
+The AI, including rebel factions, can and will perform active raids on your resources. When this happens, you will recieve a notification so that you have an opportunity to defeat them and reclaim the loot that was stolen from you.
 
 **Passive Raiding**
 
@@ -535,10 +535,10 @@ These effects have been reworked from scratch and the ability to check the groun
 {{< gallery match="images/groundTypes/*" >}}
 
 ### Unit Highlighting
-The ability to toggle the highlighting of units has been bound to a hotkey, allowing you to toggle unit highlighting without having to press a button and without having to use the default "large" UI. The unit highlight colours have also been reworked to be more in line with the theme of the game.
+The ability to toggle the highlighting of units has been bound to a hotkey, allowing you to toggle unit highlighting without having to press a button and without having to use the default "large" UI. The unit highlight colours have also been reworked to be more in line with theme of the game.
 
 ### Formations
-The horde formation was given to many low tier, militia units that probably wouldn't have the proper training to maintain a solid formation. Similarly, the wedge formation was given to a number of heavy cavalry units and the ability to hide anywhere/hide in forests was removed from many units where it didn't make sense. These changes should make add a bit more variety and make units feel more distinct from each other.
+The horde formation was given to many low tier, militia units that probably wouldn't have the proper training to maintain a solid formation. Similarly, the wedge formation was given to a number of heavy cavalry units and the ability to hide anywhere/hide in forests was removed from many units where it didn't make sense. These changes should add a bit more variety and make units feel more distinct from each other.
 
 ### Default skirmish mode
 The ability to disable skirmish mode automatically for all player units at the start of a battle has been added
@@ -590,7 +590,7 @@ Rather than interface textures being shared across multiple factions, they can n
 ### Map Screen
 The map screen allows you to view, manage and upgrade your spy networks, which are essential in your search for the One Ring.
 
-The map also screen provides a more comprehensive and higher resolution view of the campaign map as well as a variety of filters and layers that display different geographical, financial and demographical information about Middle-earth. This view is only available in developer debug mode.
+The map screen also provides a more comprehensive and higher resolution view of the campaign map as well as a variety of filters and layers that display different geographical, financial and demographical information about Middle-earth. This view is only available in developer debug mode.
 
 {{< gallery match="images/mapView/*" >}}
 
@@ -618,7 +618,7 @@ Many building chains now have new, custom made UI and the UI for all unique buil
 ### Unit Cards
 Every single unit in the game has received new unit and unit info cards. These new unit info cards allow players to tell, at a glance
     - What type of weapon(s) the unit uses
-    - What faction the the unit comes from
+    - What faction the unit comes from
     - Whether the unit is a custom bodyguard unit or not
     - The various armour upgrade models the unit might recieve
 
@@ -893,7 +893,7 @@ In this section we will try and cover the major changes that are faction specifi
 ### [Bree](../factions/Bree)
 #### New Visuals
 - Andy and the starting spy have recieved new custom portraits
-- Bree now have a custom strategy and battle UI (Courtesy of Pythax)
+- Bree now has a custom strategy and battle UI (Courtesy of Pythax)
 - Added new unit "Trappersmen" by Fynn. Replaces Woodland Hunters.
 
 #### New Features
@@ -912,7 +912,7 @@ In this section we will try and cover the major changes that are faction specifi
 - **Forsaken Inn**
   - Restore order to the Bree-land by repairing and upgrading the Forsaken Inn
 - **Create Your Commander**
-  - The Bree-land needs an experience commander to lead it's armies in the coming wars. Create your own custom general from a variety of cultures and backgrounds to serve as your faction leader.
+  - The Bree-land needs an experienced commander to lead it's armies in the coming wars. Create your own custom general from a variety of cultures and backgrounds to serve as your faction leader.
 -------------------------------------------
 ### [Dale](../factions/Dale)
 #### New Features
@@ -921,7 +921,7 @@ In this section we will try and cover the major changes that are faction specifi
 
 #### New Scripts
 - **Master's Treasure**
-  - Oppurtunity to recover the Master's gold he fled with many years ago
+  - Opportunity to recover the Master's gold he fled with many years ago
 -------------------------------------------
 ### [Dol Guldur](../factions/DolGuldur)
 #### New Visuals
@@ -987,7 +987,7 @@ In this section we will try and cover the major changes that are faction specifi
   - Mûmakil have brand new models, textures and custom animations courtesy of WK
 
 - **New Descriptions**
-  - Courtesty of Skywalker, Harad has received new descriptions for their entire roster, adding details about the ruling Serpent Tribe, its allies the Muhad and Troll-men and how it exerts control over the hapless masses of the Haradwaith. Building names and descriptions have been completely rebuilt, with new names and flavor text for almost every generic building, once again expanding on the themes of Harad as a nation under the influence of Sauron.
+  - Courtesty of Skywalker, Harad has received new descriptions for their entire roster, adding details about the ruling Serpent Tribe, its allies the Muhad and Troll-men and how it exerts control over the hapless masses of the Haradwaith. Building names and descriptions have been completely rebuilt, with new names and flavor text for almost every generic building, once again expanding on themes of Harad as a nation under the influence of Sauron.
 
 #### New Features
 - **Landmark Buildings**

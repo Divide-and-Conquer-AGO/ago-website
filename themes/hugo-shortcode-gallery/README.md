@@ -99,7 +99,7 @@ When `filterOptions` is used, the switch `storeSelectedFilterInUrl` can be set t
 
 As many websites/themes already include *jQuery*, this theme component will use the available *jQuery* lib.
 If the page does not already use *jQuery* the parameter `loadJQuery=true` must be used to
-instruct the theme component to load the provided *jQuery* lib.
+instruct theme component to load the provided *jQuery* lib.
 
 All settings can be done globally in the site's *config.toml*, for that the prefix `gallery` has to be used. E.g. `galleryLoadJQuery` instead of `loadJQuery`.
 
