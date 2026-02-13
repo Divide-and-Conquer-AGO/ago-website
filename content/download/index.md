@@ -9,9 +9,10 @@ description: "Download and install instructions for AGO"
 
 ## Download Links
 
-* ### [Google Drive](https://drive.google.com/file/d/1iBgfgEdvf4dBnhXVeh3niOfdvTWRGzjS/view?usp=sharing)
-* ### [AWS S3](https://divide-and-conquer-ago.s3.eu-west-1.amazonaws.com/AGO_V3_Installer.zip)
-* ### [Torrent](https://github.com/Divide-and-Conquer-AGO/ago-website/blob/v3-changes/content/download/AGO_V3_Installer.torrent)
+* ### [Link (Mega)](https://mega.nz/file/hE0n0BpA#xzR-kU_RroPEIhMRtiMrBKgfsA2DVyfRJQGGdBN96rE)
+* ### [Mirror (Google Drive)](https://drive.google.com/file/d/1iBgfgEdvf4dBnhXVeh3niOfdvTWRGzjS/view)
+* ### [Mirror (Torrent)](https://github.com/Divide-and-Conquer-AGO/ago-website/raw/refs/heads/v3-changes/content/download/AGO_V3_Installer.torrent)
+* ### [Mirror (ModDB)](https://www.moddb.com/downloads/start/304036)
 
 ## Installation
 
