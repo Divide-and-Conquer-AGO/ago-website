@@ -22,10 +22,11 @@ description: "Download and install instructions for AGO"
 2. Extract all the files from the zip into another folder called `AGO_V3_Installer` (name doesn't matter)
 3. Run the installer and make sure you point it to the correct path (e.g. `E:\SteamLibrary\steamapps\common\Medieval II Total War\mods\AGO_V3`)
 4. Navigate to the path you just installed the mod to
-3. Run `Full_Cleaner.bat` and press any key
-5. Run `AGO_Launcher.exe` with adminstrator rights (Right Click -> Run as Admin)
-6. **IMPORTANT: Click the Updates tab and update the mod to the latest version**
-7. Launch the mod from the launcher 
+5. Download the [latest version of the AGO_Launcher.exe](https://nightly.link/Divide-and-Conquer-AGO/ago-launcher/workflows/build/main?preview) and copy it into the mod folder (Replacing when prompted)
+7. Run `AGO_Launcher.exe` with adminstrator rights (Right Click -> Run as Admin)
+8. **IMPORTANT: Click the Updates tab and update the mod to the latest version**
+9. Run `Full_Cleaner.bat` and press any key
+10. Launch the mod from the launcher 
 
 ### Video Tutorial
 Coming soon!
