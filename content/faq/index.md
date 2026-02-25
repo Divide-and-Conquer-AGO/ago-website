@@ -19,9 +19,6 @@ It's a new mechanic to encourage more use of spies and scouting. If you want to 
 #### How can I automatically sort my armies?
 Select an army and press CTRL+Z. You can change this in the shortcuts menu.
 
-#### How can I enable surround sound?
-Go to the Sound settings in-game and select EAX4 as your sound provider
-
 #### How can I enable DXVK rendering mode?
 Enable it in the launcher, make sure to read the tooltip.
 
