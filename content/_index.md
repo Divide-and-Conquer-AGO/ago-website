@@ -25,6 +25,23 @@ The latest version of the mod released was version **3** on the *10th January 20
 
 <div class="testimonials">
 
+<div class="speechbubble">
+I successfully completed my first campaign along with helping Elrond destroy the Ring. What a ride that was.
+
+I wanted to take a moment to say how much I appreciate this labor of love. I'm blown away by the new features and additions to the game. This is the best Medieval II Total War experience I've ever had, and this mod is remarkably stable as well. I've played countless mods across many different titles, and AGO 3 is easily in my top three favorite mods of all time.
+
+What impressed me is how you managed to create an even more immersive and faithful adaptation to Tolkien's world on top of what DaC did. The mechanics, additional faction design, and overall presentation capture the feeling of Middle-earth better than any game I've played.
+
+The changes to the A.I overall, along with the inability to see an army's unit strength without a spy or getting close enough to scout them, are brilliant additions that made the campaign far more immersive for me.
+
+Combined with what EOP has accomplished, you've crafted something special. This is the best Lord of the Rings video game experiences I've had personally.
+
+Thank you for creating such a beautiful work of art that we all get to enjoy. I absolutely love this mod.
+<div class="username">
+Rogars
+</div>
+</div>
+
 ### Testimonials
 <div class="speechbubble">
 I just finished reading the entire V3 changelog... I've been waiting for this for years, convinced that it would be the definitive mod for Third Age... And now I'm absolutely convinced. An incredible and excellent job. Well done! Bravi 
