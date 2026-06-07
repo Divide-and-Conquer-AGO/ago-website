@@ -27,7 +27,7 @@ Generally speaking however, you can assume any text or art you see in the mod, w
 - [AI Disclaimer](#ai-disclaimer)
 - [Features](#features)
 - [3.2 Update](#32-update)
-    - [Allegiance of Old](#allegiance-of-old)
+  - [Allegiance of Old](#allegiance-of-old)
   - [Elven/Dwarven Stat Overhaul](#elvendwarven-stat-overhaul)
   - [Dwarves](#dwarves)
   - [Elves](#elves)
