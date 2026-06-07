@@ -1,9 +1,9 @@
 # 3.2 Changelog
 
-### Battle Mechanics
+<!-- ### Battle Mechanics
 - Fixed pike units instantly drawing their secondary weapons when a single soldier is engaged upon. They now switch to secondaries on a per soldier basis once the balance of threat of enemies to friendlies in their rear gets over 0
 - Soldiers at the rear of pike units will now push forward and clump up less when given attack orders
-- Fixed units with the 'prec' attribute such as Corsair Raiders from freezing up and behaving strangely whena attacked in certain circumstances
+- Fixed units with the 'prec' attribute such as Corsair Raiders from freezing up and behaving strangely whena attacked in certain circumstances -->
 
 ### Allegiance of Old
 - Added a new alliance support system for Elven factions.
