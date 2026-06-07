@@ -15,9 +15,15 @@ internalTitle: "portugal"
 
 ### Campaign Features
 - **Witch King**
-  - Conquer Eriador and herald the return of the Witch-king to his rightful domain in Angmar
+  - Conquer Eriador and herald the return of the Witch-king to his rightful domain in Angmar. Capture Fornost, Imladris, and hold Carn Dûm. Like other Nazgûl, he will respawn after 15 turns if killed.
 - **Sauron's Will (V3)**
   - Capture historical Numenorean settlements such as Fornost and Annuminas to recieve custom Black Numenorean generals and reinforcements from Mordor
+- **Great Plague (V3.2)**
+  - Once the Witch-king of Angmar has returned and the Dark Lord Sauron has the One Ring, you can summon plagues across Middle-earth to cripple other factions and destroy their populations
+- **Northern Alliance (V3.2)**
+  - Ally with Gundabad to gain the ability to recruit Snow-Orcs from your orc barracks or conquer Mt. Gundabad to recieve much more.
+- **Recruitable Bodyguards (V3.2)**
+  - You can recruit Witch-Knights from the Meeting Hall and Gram War-chiefs from the Fighter's Pit.
 
 ### Gallery
 
