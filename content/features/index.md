@@ -27,7 +27,6 @@ Generally speaking however, you can assume any text or art you see in the mod, w
 - [AI Disclaimer](#ai-disclaimer)
 - [Features](#features)
 - [3.2 Update](#32-update)
-    - [Battle Mechanics](#battle-mechanics)
     - [Allegiance of Old](#allegiance-of-old)
   - [Elven/Dwarven Stat Overhaul](#elvendwarven-stat-overhaul)
   - [Dwarves](#dwarves)
@@ -115,7 +114,7 @@ Generally speaking however, you can assume any text or art you see in the mod, w
     - [Landmark Buildings](#landmark-buildings)
     - [New Gamemodes](#new-gamemodes)
     - [Misc. Changes](#misc-changes)
-  - [Battle Mechanics](#battle-mechanics-1)
+  - [Battle Mechanics](#battle-mechanics)
     - [Morale Adjustments](#morale-adjustments)
     - [Hero Abilities](#hero-abilities-1)
     - [Ground Type Modifiers](#ground-type-modifiers)
@@ -230,10 +229,10 @@ The following is a comprehensive list of features that are present in this submo
 
 # 3.2 Update
 
-### Battle Mechanics
+<!-- ### Battle Mechanics
 - Fixed pike units instantly drawing their secondary weapons when a single soldier is engaged upon. They now switch to secondaries on a per soldier basis once the balance of threat of enemies to friendlies in their rear gets over 0
 - Soldiers at the rear of pike units will now push forward and clump up less when given attack orders
-- Fixed units with the 'prec' attribute such as Corsair Raiders from freezing up and behaving strangely whena attacked in certain circumstances
+- Fixed units with the 'prec' attribute such as Corsair Raiders from freezing up and behaving strangely whena attacked in certain circumstances -->
 
 ### Allegiance of Old
 - Added a new alliance support system for Elven factions.
