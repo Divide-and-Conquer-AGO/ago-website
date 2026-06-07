@@ -21,7 +21,14 @@ Medieval II: Total War
     └───Divide and Conquer (4.6)
         └───AI and Gameplay Overhaul
 ```
-The latest version of the mod released was version **3** on the *10th January 2026*.
+The latest version of the mod released was version **3.2.0** on the *7th June 2026*.
+
+### 3.2 Overview
+<div style="text-align: center" class="download-embed">
+    <iframe allow="fullscreen;" frameborder="0" width="500" height="500"
+    src="https://www.youtube.com/embed/RaZ_RJVIbRE?si=scCOw4bnhPWyIQ44">
+    </iframe>
+</div>
 
 <div class="testimonials">
 
