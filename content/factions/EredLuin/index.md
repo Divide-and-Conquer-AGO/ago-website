@@ -18,6 +18,10 @@ internalTitle: "hungary"
   - Reclaim ancient Dwarven relics that rightfully belong to you using diplomacy, espionage or force
 - **Dwarven Rings of Power**
   - Decide the fate of the remaining Dwarves in Ered Luin. Accept Sauron's gifts and grant control of Ered Luin to the Grimborn clan or refute him and work with the Free Peoples to rid Eriador of his filth.
+- **Dwarven Grudges**
+  - Avenge your Dwarven ancestors and reclaim their ancient halls for a variety of rewards
+- **Recruitable Bodyguards**
+  - Longbeard Shieldbearers can be recruited from Thorin's Halls. Firebeard Warborn and Broadbeam Nobles from Fahamgathol and Guhuhzanur respectively. Depending on whether the rings are accepted or rejected, you can recruit Tumunzahar Nobles or Grimborn Nobles.
 
 ### Gallery
 

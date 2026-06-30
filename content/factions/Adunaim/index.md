@@ -22,6 +22,10 @@ internalTitle: "russia"
   - Rebuild the Pillar of Umbar in defiance of Sauron, signalling to your kinsmen you have established a foothold in Umbar. Provides a custom general and reinforcements from the South
 - **Randomized AI colony start (V3)**
   - In addition to their preset auto-expansion settlements, the AA also recieve a random coastal settlement (Toggleable, AI only)
+- **Traitorous Generals**
+  - By capturing key settlements in Middle-earth and constructing a conscription camp you can convince various characters to join your cause
+- **Ring Script**
+  - You cannot destroy the ring or bring it to Sauron
   
 ### Gallery
 

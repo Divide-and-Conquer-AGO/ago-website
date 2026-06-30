@@ -16,6 +16,8 @@ internalTitle: "teutonic_order"
 ### Campaign Features
 - **The Great Clanmoot**
   - Early into the campaign, the Clans of Enedwaith will call a Great Clanmoot and decide the fate of their people. Shall they side with the Free Peoples and the Dunedain or heed the words of the White Wizard and rally to his side?
+- **Unite Enedwaith**
+  - Unite the disparate clans of Enedwaith and lead your people to glory. Unlocks the Guardians of Enedwaith and the ability to recruit some of Dunland's units.
 
 ### Gallery
 

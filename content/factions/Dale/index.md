@@ -16,6 +16,8 @@ internalTitle: "scotland"
 ### Campaign Features
 - **Master's Treasure (V3)**
   - Recover the lost treasures of Laketown the Master fled with many years ago
+- **Recruitable Bodyguards**
+  - Dalian Byrdest can be recruited from Girion's Palace in Dale. Lake-town Wardens can be recruited from Lake-town. Any general not from Dale or Lake-town will have a unit of Royal Guardsmen assigned to him.
 
 ### Gallery
 

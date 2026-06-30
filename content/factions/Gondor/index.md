@@ -24,6 +24,10 @@ internalTitle: "sicily"
   - Play as both Gondor and Dol Amroth or entrust the control of your fief to Lord Imrahil and his men. Alternatively, annex Dol Amroth completely.
 - **Reclaim Osgiliath (V3)**
   - Reclaim Osgiliath and pardon the exiled Berethor
+- **Rohan Mercenaries**
+  - You can recruit mercenaries in Rohan, just move one of your generals to Rohan's heartlands
+- **Fief Recruitment**
+  - Gondor can recruit units from its many fiefs. Fief units take priority over traditional Gondor mainline units to reduce bloat and streamline recruitment.
   
 ### Gallery
 

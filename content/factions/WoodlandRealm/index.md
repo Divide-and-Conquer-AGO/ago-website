@@ -16,6 +16,20 @@ internalTitle: "mongols"
 ### Campaign Features
 - **Eryn Lasgalen, The Wood of Greenleaves**
   - Dispel Sauron's taint from Mirkwood and join with Galadriel and her people to restore the ancient forest to it's rightful form
+- **Watcher of Mirkwood**
+  - Legolas must gain 100 kills in order to be promoted. Thranduil will inspect if he has fulfilled the quest, starting at turn 40.
+- **Allegiance of Old**
+  - Restore your ancient bonds with Men and Dwarves and see them prosper to receive both military and financial aid in return
+- **Reinforcement of Men**
+  - Although the Woodsmen and Northmen are generally prohibited from entering our realms, alliances allow a select few to establish themselves in our lands under the Woodland Realm's banner
+- **The Avari**
+  - Seek out our brothers and sisters in Dorwinion and see if they cannot offer us their aid. Wait until turn 15 to begin this script.
+- **Amon Lanc**
+  - Dol Guldur can be cleansed and restored to its former glory if you form Eryn Lasgalen and have at least 75% Elven culture in Dol Guldur
+- **The Ents**
+  - The Woodland Realm and Lórien can recruit Ents from Isengard
+- **Blessings of Yavanna**
+  - Obtain healing ancillaries: Healer (Public Fountains in any settlement) and Healing Vial of Mirkwood (Public Baths in Thranduil's Halls)
 
 ### Gallery
 

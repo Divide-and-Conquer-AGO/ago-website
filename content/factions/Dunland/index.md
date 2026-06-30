@@ -29,6 +29,8 @@ The Brehins rejoice at this. It is what our men would do anyway, so why not take
   - Advance beyond your tribal ways and set a course for the Dunland of the future and beyond
 - **Kin/Raiding Lands (V3)**
   - Incorporate the lands of the Free People's into your own or designate them as nothing more than a source of gold and loot for your armies
+- **Recruitable Bodyguards**
+  - Brehin's Oathband can be recruited from Wulf's Hall and Dunlending Skiehlting. Frekkalingir Lords from Frekkalingir Clan-Lands, Dunforgoil Warlords from Dunlending Raiding Lands, Isendraich Lords from Outposts of the White Wizard and Councilmasters from the Dunhird Huntmaster Grand Council.
 
 ### Testimonials
 *After now playing 4 factions in Eriador and getting to see Dunland with their unique generals, descriptions, buildings and shitty-quality roster, I wanted to say how, although not my favorite, it might be the best (most fun) faction in the mod in my opinion. 

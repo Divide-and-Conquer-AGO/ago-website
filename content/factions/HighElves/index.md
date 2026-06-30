@@ -22,6 +22,12 @@ internalTitle: "saxons"
   - Send the famous brothers Elladan and Elrohir on a pressing mission beyond the Misty Mountains.
 - **Galdor of the Havens (V3)**
   - Send Círdan's trusted advisor on a perilous quest to a far off isle to unveil a dark mystery
+- **Allegiance of Old**
+  - Restore your ancient bonds with Men and Dwarves and see them prosper to receive both military and financial aid in return
+- **Recruitable Bodyguards**
+  - Sindar Tirihathol can be recruited from The Havens in Mithlond. Ñoldor Edledhron can be recruited from the Last Homely House in Imladris.
+- **Blessings of Yavanna**
+  - Obtain healing ancillaries: Healer (Public Fountains in any settlement), Athelas of Imladris (Public Baths in Imladris) and Henbane of Lindon (Public Baths in Mithlond).
 
 ### Gallery
 
