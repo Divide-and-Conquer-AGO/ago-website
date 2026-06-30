@@ -27,7 +27,7 @@ Generally speaking however, you can assume any text or art you see in the mod, w
 - [AI Disclaimer](#ai-disclaimer)
 - [Features](#features)
 - [3.2 Update](#32-update)
-  - [Allegiance of Old](#allegiance-of-old)
+    - [Allegiance of Old](#allegiance-of-old)
   - [Elven/Dwarven Stat Overhaul](#elvendwarven-stat-overhaul)
   - [Dwarves](#dwarves)
   - [Elves](#elves)
@@ -61,6 +61,7 @@ Generally speaking however, you can assume any text or art you see in the mod, w
   - [Performance](#performance)
   - [Misc.](#misc)
   - [Bugfixes](#bugfixes)
+- [3.0 Update](#30-update)
   - [Launcher](#launcher)
   - [AI](#ai)
     - [Battle AI](#battle-ai)
@@ -228,6 +229,12 @@ Generally speaking however, you can assume any text or art you see in the mod, w
 The following is a comprehensive list of features that are present in this submod, many of which are exclusive to AGO and offers features never before seen in any Medieval 2 modification.
 
 # 3.2 Update
+
+<div style="text-align: center" class="download-embed">
+    <iframe allow="fullscreen;" frameborder="0" width="500" height="500"
+    src="https://www.youtube.com/embed/RaZ_RJVIbRE?si=scCOw4bnhPWyIQ44">
+    </iframe>
+</div>
 
 <!-- ### Battle Mechanics
 - Fixed pike units instantly drawing their secondary weapons when a single soldier is engaged upon. They now switch to secondaries on a per soldier basis once the balance of threat of enemies to friendlies in their rear gets over 0
@@ -685,6 +692,8 @@ The Following Units gets ap arrows
 - Fix missing floating banners for Arnor and routing banners
 - Fix Aragorn's quest tab bugging out
 - Prevent ring respawning after going to Grey Havens
+
+# 3.0 Update
 
 ## Launcher
 To help users configure their game and install updates to the mod more easily, we have developed a custom launcher. Using the launcher you can
