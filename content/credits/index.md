@@ -43,6 +43,8 @@ Without you, none of this would have been possible.
 
 - Medik
 - El Monstero
+- Fynn
+- Izzy
 
 ### Battlemaps
 
@@ -60,11 +62,13 @@ Without you, none of this would have been possible.
 - Fynn
 - Medik
 - Jojo
+- DinarMayor
 
 ### Voice Acting
 
 - Miloš Puhák
 - FirstLaw
+- Wii-san
 
 ### Concept Art
 
@@ -87,6 +91,10 @@ Without you, none of this would have been possible.
 - GardenGnome
 - Armolitskiy
 - Dracxsus
+- Fynn
+- Trevorbid
+- jayzinski96
+- Perry
 
 ### UI Contributions
 
@@ -94,6 +102,8 @@ Without you, none of this would have been possible.
 - Naras
 - Reeveli
 - Mathijs and the AotR team
+- Harn
+- SuperAnt/Bregathel
 
 ### Writing Contributions
 
@@ -107,6 +117,11 @@ Without you, none of this would have been possible.
 - Ixtli
 - Winter
 - Cole
+- Silke
+- Lyrongolem
+- Richord
+- SuperAnt/Bregathel
+- AsYouWish
 
 ### Testers
 

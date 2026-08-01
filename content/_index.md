@@ -8,12 +8,6 @@ Divide and Conquer: AGO (AI and Gameplay Overhaul) is a Lord of the Rings strate
 
 From the desperate Dúnedain in the cold North to the Haradrim in the blazing South, AGO offers players a chance to control one of 25 unique factions vying for control in Tolkien's Middle-earth during the period of the "War of the Ring". The mod focuses on providing players with an immersive and authentic experience while also allowing for complex strategies and deep roleplay.
 
-<div style="text-align: center" class="download-embed">
-    <iframe allow="fullscreen;" frameborder="0" width="500" height="500"
-    src="https://www.youtube.com/embed/3IyAmjMXOkA?si=scCOw4bnhPWyIQ44">
-    </iframe>
-</div>
-
 ### Submod Hierarchy
 ```
 Medieval II: Total War
@@ -21,15 +15,22 @@ Medieval II: Total War
     └───Divide and Conquer (4.6)
         └───AI and Gameplay Overhaul
 ```
-The latest version of the mod released was version **3.2.0** on the *7th June 2026*.
+The latest version of the mod released was version **3.2.4** on the *16th June 2026*.
 
-### 3.2 Overview
+<div style="text-align: center" class="download-embed">
+    <iframe allow="fullscreen;" frameborder="0" width="500" height="500"
+    src="https://www.youtube.com/embed/3IyAmjMXOkA?si=scCOw4bnhPWyIQ44">
+    </iframe>
+</div>
+
 <div style="text-align: center" class="download-embed">
     <iframe allow="fullscreen;" frameborder="0" width="500" height="500"
     src="https://www.youtube.com/embed/RaZ_RJVIbRE?si=scCOw4bnhPWyIQ44">
     </iframe>
 </div>
 
+### Testimonials
+<br>
 <div class="testimonials">
 
 <div class="speechbubble">
@@ -49,7 +50,6 @@ Rogars
 </div>
 </div>
 
-### Testimonials
 <div class="speechbubble">
 I just finished reading the entire V3 changelog... I've been waiting for this for years, convinced that it would be the definitive mod for Third Age... And now I'm absolutely convinced. An incredible and excellent job. Well done! Bravi 
 <div class="username">

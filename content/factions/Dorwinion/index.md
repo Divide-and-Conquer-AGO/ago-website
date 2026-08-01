@@ -34,6 +34,8 @@ The Darïtaï of Rhûn to our East have been unusually quiet as of late and many
   - Decide the fate of the Dragonswrath cult. Allow them to continue their practices and risk unrest at home or put an end to them for good and risk a renewed civil war in the lands of Rhun.
 - **The Avari (V3)**
   - Carefully manage your relationship with the isolationist Avari. Allow them sanctity in their dark forests, declare them outlaws and a threat to the realm or simply find a balance. Dynamically manage your relationship with these foreign people, heavily influenced by your decisions in other scripts as well as smaller decisions you make throughout the campaign.
+- **Recruitable Bodyguards**
+  - Council Wardens can be recruited from the Vintner Court in Helcarin. Léofthiuda Scions and Kugath Chieftains can be recruited from the Military Academy.
 
 ### Gallery
 

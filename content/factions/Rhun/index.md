@@ -18,6 +18,8 @@ internalTitle: "venice"
   - Reclaim ancient dragon relics, from the Scales of Smaug in Laketown to Scatha's Hoard in the Withered Heath and recieve support from the Dragonswrath Cult
 - **Unite the Clans**
   - Bring the marines of Udege, the tribesmen of Balchoth, the dragonriders of Arulad, the raiders of Near Khand and the chariot riders of Süri'ut under your banner and lead the armies of Rhun from East to West, destroying everything in your path.
+- **Recruitable Bodyguards**
+  - Lôke-Rim Bodyguard can be recruited from the Tent of the Khan in Mistrand. Arulad Dragon Lords, Balchoth Bladesmen and Windriders of Khand can all be recruited from the Tent of the Khan once the respective clan has been brought under your control.
 
 ### Gallery
 

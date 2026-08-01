@@ -18,6 +18,18 @@ internalTitle: "ireland"
   - Dispel Sauron's taint from Mirkwood and join with Thranduil and his people to restore the ancient forest to it's rightful form
 - **Rumil and Orophin**
   - Command the powerful marchwardens, Rumil and Orophir, brothers of Haldir and cleanse Sauron from Dol Goldur
+- **Chosen of the Galadhrim**
+  - Haldir, Rumil and Orophin must reach 100 kills individually in order to be promoted. Galadriel will inspect if they have passed the test, starting at turn 40.
+- **Allegiance of Old**
+  - Restore your ancient bonds with Men and Dwarves and see them prosper to receive both military and financial aid in return
+- **Reinforcement of Men**
+  - Although the Woodsmen and the Beornings are generally prohibited from entering our realms, alliances allow a select few to establish themselves in our lands under the Lady Galadriel's banner
+- **Amon Lanc**
+  - Dol Guldur can be cleansed and restored to its former glory if you form Eryn Lasgalen and have at least 75% Elven culture in Dol Guldur
+- **The Ents**
+  - The Woodland Realm and Lórien can recruit Ents from Isengard
+- **Blessings of Yavanna**
+  - Obtain healing ancillaries: Healer (Public Fountains in any settlement) and Antidote of Lothlórien (Public Baths in Caras Galadhon)
 
 ### Gallery
 

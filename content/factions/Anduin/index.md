@@ -18,6 +18,8 @@ internalTitle: "timurids"
   - Keep the roads of Anduin and the passes through the Misty Mountains safe and supplement your war effort with the tolls from passing travellers and allies
 - **Cleanse Mirkwood**
   - Assist Galadriel and Thranduil in cleansing Mirkwood of it's filth, bring peace to your lands recieving military aid from your elven allies
+- **Recruitable Bodyguards**
+  - Skin-changers can be recruited from the Apiary building line, Sons of Marwhini from the Barracks line if allied with Rohan, Myrkivor from the Barracks line in Mirkwood and Stoor Council in Fenholm.
 
 ### Gallery
 

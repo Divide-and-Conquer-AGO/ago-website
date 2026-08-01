@@ -24,6 +24,8 @@ internalTitle: "turks"
   - Restore Arnor, complete Aragorn's epic journey and reunite the ancient kingdoms of Gondor and Arnor into the new Reunited Kingdom. Completely seamless with a wealth of new features and additions in V3. 
 - **Beacon of Hope**
   - Bring hope to the lands where Aragorn journeys. Recruit volunteers from all walks of life, across Middle-earth, from wildmen of Enedwaith to the peasants of Dorwinion, Aragorn inspires all.
+- **Eredan and Elegost**
+  - The legendary rangers Eradan and Elegost are operating in secret across Eriador. Find them during your journey and call them back to Aragorn's side.
 
 ### Gallery
 

@@ -18,6 +18,8 @@ internalTitle: "poland"
   - Tame and control Ungoliant's children to serve Sauron's will
 - **The Forest and the Hills**
   - Find the One Ring and deliver it to Sauron and merge your faction with Mordor
+- **Nazgûl**
+  - You don't have access to all the Nazgûl at the start of the game. They will slowly return to Dol Guldur during the campaign. If they die, they will continously respawn every 15 turns after they were killed.
 
 ### Gallery
 

@@ -22,6 +22,8 @@ internalTitle: "france"
   - Take control of the Shire by force or coercion and see the Bree-land and the Shire change forever
 - **The One Ring**
   - Send out your spies and servants to find The One Ring and bring the Nazgul to your side, unlock powerful units and become Saruman of Many Colours
+- **Clans of Enedwaith**
+  - Unlike the Dunlendings, the Clans of Enedwaith's loyalty is yet to be seen. Ally them to gain access to some of their more formidable troops.
 
 ### Gallery
 

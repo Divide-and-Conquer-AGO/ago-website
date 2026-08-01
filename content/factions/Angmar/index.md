@@ -22,6 +22,8 @@ internalTitle: "portugal"
   - Once the Witch-king of Angmar has returned and the Dark Lord Sauron has the One Ring, you can summon plagues across Middle-earth to cripple other factions and destroy their populations
 - **Northern Alliance (V3.2)**
   - Ally with Gundabad to gain the ability to recruit Snow-Orcs from your orc barracks or conquer Mt. Gundabad to recieve much more.
+- **Barrow Wights (V3.2)**
+  - In order to recruit Barrow Wights you must first herald the return of the Witch-king, then corrupt a barrow via the Corrupted Barrow building in a settlement that contains barrows where the lords of old are buried.
 - **Recruitable Bodyguards (V3.2)**
   - You can recruit Witch-Knights from the Meeting Hall and Gram War-chiefs from the Fighter's Pit.
 
