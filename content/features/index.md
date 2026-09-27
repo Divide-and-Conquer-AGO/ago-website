@@ -26,29 +26,63 @@ Generally speaking however, you can assume any text or art you see in the mod, w
 
 - [AI Disclaimer](#ai-disclaimer)
 - [Features](#features)
+- [3.3 Update](#33-update)
+  - [Faction-Specific Changes](#faction-specific-changes)
+    - [Dol Amroth](#dol-amroth)
+      - [Mission System](#mission-system)
+      - [Missions Issued](#missions-issued)
+      - [Mission Rewards](#mission-rewards)
+    - [Independant Realms](#independant-realms)
+    - [Northern Dúnedain](#northern-dúnedain)
+    - [Kingdom of Gondor](#kingdom-of-gondor)
+    - [Reunited Kingdom (RK)](#reunited-kingdom-rk)
+    - [Kingdom of Rohan](#kingdom-of-rohan)
+    - [Dorwinion](#dorwinion)
+    - [Breeland](#breeland)
+    - [Vale of Anduin](#vale-of-anduin)
+    - [Elves of Lothlorien](#elves-of-lothlorien)
+    - [High Elves](#high-elves)
+    - [Woodland Realm](#woodland-realm)
+    - [Dwarves of Ered Luin](#dwarves-of-ered-luin)
+    - [Dwarves of Khazad-Dûm](#dwarves-of-khazad-dûm)
+    - [Erebor](#erebor)
+    - [Dunlendings](#dunlendings)
+    - [Mordor](#mordor)
+    - [Isengard](#isengard)
+    - [Goblins of Moria](#goblins-of-moria)
+    - [Angmar](#angmar)
+    - [Orcs of Gundabad](#orcs-of-gundabad)
+    - [Dol Guldur](#dol-guldur)
+    - [Haradrim Tribes](#haradrim-tribes)
+    - [Easterlings of Rhûn](#easterlings-of-rhûn)
+    - [Ar-Adûnaim](#ar-adûnaim)
+  - [Battles](#battles)
+  - [UI](#ui)
+  - [Misc](#misc)
+  - [Bugfixes](#bugfixes)
 - [3.2 Update](#32-update)
     - [Allegiance of Old](#allegiance-of-old)
   - [Elven/Dwarven Stat Overhaul](#elvendwarven-stat-overhaul)
   - [Dwarves](#dwarves)
   - [Elves](#elves)
-  - [Angmar](#angmar)
+  - [Angmar](#angmar-1)
   - [Rohan](#rohan)
-  - [Erebor](#erebor)
+  - [Erebor](#erebor-1)
   - [Anduin](#anduin)
   - [Khazad-Dum](#khazad-dum)
   - [Lorien](#lorien)
-  - [Woodland Realm](#woodland-realm)
-  - [High Elves](#high-elves)
+  - [Woodland Realm](#woodland-realm-1)
+  - [High Elves](#high-elves-1)
   - [Northern Dunedain](#northern-dunedain)
   - [Dale](#dale)
   - [Ar-Adunaim](#ar-adunaim)
   - [Dunland](#dunland)
   - [Bree](#bree)
   - [Gondor/DA](#gondorda)
-  - [Mordor](#mordor)
+  - [Mordor](#mordor-1)
   - [Harad](#harad)
-  - [Dorwinion](#dorwinion)
-  - [Dol Guldur](#dol-guldur)
+  - [Dorwinion](#dorwinion-1)
+  - [Dol Guldur](#dol-guldur-1)
   - [Battlemaps](#battlemaps)
   - [Scripts/Mechanics](#scriptsmechanics)
   - [Recruitable Bodyguards](#recruitable-bodyguards)
@@ -59,8 +93,8 @@ Generally speaking however, you can assume any text or art you see in the mod, w
   - [Traits/Ancillaries](#traitsancillaries)
   - [Hero Abilities](#hero-abilities)
   - [Performance](#performance)
-  - [Misc.](#misc)
-  - [Bugfixes](#bugfixes)
+  - [Misc.](#misc-1)
+  - [Bugfixes](#bugfixes-1)
 - [3.0 Update](#30-update)
   - [Launcher](#launcher)
   - [AI](#ai)
@@ -129,7 +163,7 @@ Generally speaking however, you can assume any text or art you see in the mod, w
     - [Textures and Vegetation](#textures-and-vegetation)
     - [New Weathers](#new-weathers)
     - [Custom Battlemap Locations](#custom-battlemap-locations)
-  - [UI](#ui)
+  - [UI](#ui-1)
     - [Main Menu UI](#main-menu-ui)
     - [Faction Specific UI](#faction-specific-ui)
     - [Map Screen](#map-screen)
@@ -156,7 +190,7 @@ Generally speaking however, you can assume any text or art you see in the mod, w
     - [Restored Surround Sound](#restored-surround-sound)
     - [Custom Voice Acting](#custom-voice-acting)
   - [Performance Improvements](#performance-improvements)
-  - [Bugfixes](#bugfixes-1)
+  - [Bugfixes](#bugfixes-2)
   - [Engine Overhaul Project](#engine-overhaul-project)
   - [Submodding Tools](#submodding-tools)
 - [Faction Changes](#faction-changes)
@@ -164,13 +198,13 @@ Generally speaking however, you can assume any text or art you see in the mod, w
       - [New Visuals](#new-visuals)
       - [New Features](#new-features)
       - [New Scripts](#new-scripts)
-    - [Dorwinion](#dorwinion-1)
+    - [Dorwinion](#dorwinion-2)
       - [New Visuals](#new-visuals-1)
       - [New Features](#new-features-1)
       - [New Scripts](#new-scripts-1)
     - [Ar-Adunaim](#ar-adunaim-1)
       - [New Scripts](#new-scripts-2)
-    - [Angmar](#angmar-1)
+    - [Angmar](#angmar-2)
       - [New Scripts](#new-scripts-3)
     - [Bree](#bree-1)
       - [New Visuals](#new-visuals-2)
@@ -179,12 +213,12 @@ Generally speaking however, you can assume any text or art you see in the mod, w
     - [Dale](#dale-1)
       - [New Features](#new-features-3)
       - [New Scripts](#new-scripts-5)
-    - [Dol Guldur](#dol-guldur-1)
+    - [Dol Guldur](#dol-guldur-2)
       - [New Visuals](#new-visuals-3)
     - [Ered Luin](#ered-luin)
       - [New Visuals](#new-visuals-4)
       - [New Features](#new-features-4)
-    - [Goblins of Moria](#goblins-of-moria)
+    - [Goblins of Moria](#goblins-of-moria-1)
       - [New Visuals](#new-visuals-5)
       - [New Features](#new-features-5)
       - [New Scripts](#new-scripts-6)
@@ -192,13 +226,13 @@ Generally speaking however, you can assume any text or art you see in the mod, w
       - [New Visuals](#new-visuals-6)
       - [New Features](#new-features-6)
       - [New Scripts](#new-scripts-7)
-    - [Dol Amroth](#dol-amroth)
+    - [Dol Amroth](#dol-amroth-1)
       - [New Features](#new-features-7)
     - [Harad](#harad-1)
       - [New Visuals](#new-visuals-7)
       - [New Features](#new-features-8)
       - [New Scripts](#new-scripts-8)
-    - [High Elves](#high-elves-1)
+    - [High Elves](#high-elves-2)
       - [New Visuals](#new-visuals-8)
       - [New Features](#new-features-9)
       - [New Scripts](#new-scripts-9)
@@ -216,18 +250,323 @@ Generally speaking however, you can assume any text or art you see in the mod, w
       - [New Features](#new-features-13)
     - [Rohan](#rohan-1)
       - [New Visuals](#new-visuals-11)
-    - [Woodland Realm](#woodland-realm-1)
+    - [Woodland Realm](#woodland-realm-2)
       - [New Features](#new-features-14)
-    - [Isengard](#isengard)
+    - [Isengard](#isengard-1)
       - [New Visuals](#new-visuals-12)
       - [New Scripts](#new-scripts-11)
     - [Gundabad](#gundabad)
     - [Enedwaith](#enedwaith)
-    - [Erebor](#erebor-1)
+    - [Erebor](#erebor-2)
 
 # Features
 The following is a comprehensive list of features that are present in this submod, many of which are exclusive to AGO and offers features never before seen in any Medieval 2 modification.
 
+# 3.3 Update
+
+## Faction-Specific Changes
+
+### Dol Amroth
+- Add a new mission system for Dol Amroth 
+    
+ #### Mission System
+  - All missions now come from the Steward of Gondor instead of the "Council of Nobles"
+  - Completing a mission gives you significant random rewards from the list below
+  - Completing a mission increases your standing with the Steward
+  - As you improve your standing, Gondor will sponsor the creation of new units (e.g Sea-ward units, Nimrodel Mariners, Knights of Edhellond, Haven Guard etc.)
+  - This means you will have a smalller roster at the beginning but as you assist Gondor, they invest into you more and help develop your military, expanding the roster and making you feel more like a fief
+  - Your standing can't go down, only up
+  - In addition to the missions below, you can also manually gift gold, armies and settlements for extra standing
+
+ #### Missions Issued
+  - Kill enemy leader/heir/general
+  - Blockade port
+  - Capture rebel settlement
+  - Capture enemy settlement
+  - Capture enemy settlement (fast)
+  - Capture settlement and give to Gondor
+  - Assist with fighting Mordor (defeat armies, lay siege, execute enemies)
+  - Assist with fighting Enedwaith (defeat armies, lay siege, execute enemies)
+  - Reinforce region
+  - Random gift
+
+ #### Mission Rewards
+  - Minor/Moderate/Major Gold
+  - Low/Medium/High tier unit gifts (from Gondor roster)
+  - Low/High random building built automatically (picked from buildable options)
+  - Randomly generated Gondor general/army (random bodyguard and 1-2 extra units)
+  - Gifted control of a settlement to adminster for Gondor (governor is kicked out but you keep the army)
+  - Random selection of 3-6 ancillaries (picked from a huge list)
+  - Merchant with good stats
+
+- Update description of the Knights of Edhellhond
+- Change Sea-ward Spearmen into Halberdiers and give them new models alongside Sea-ward Footmen and Sea-ward Lancers (Thank you Maverick/GaW/Coma for the models)
+- Update some of the more garish Dol Amroth unit textures
+- Add new models (2 visual upg each) for Amrothian Pikemen, Guardsmen, Squires, Archers and new models for Bannermen/Officers
+- Enable "Randomized AA AI start" setting when Dol Amroth is player controlled
+- Update Dol Amroth's starting conditions and unit stats
+- Sync Gondor and Dol Amroth's diplomatic statuses and remove Dol Amroth's ability to recruit diplomats while they are allied to Gondor
+- Make it so that Sea-ward Footmen/Spearmen/Lancers, Haven Guard, Nimrodel Mariners and Knights of Edhellond are unlocked at random when influence with the Steward is increased
+- Remove Dol Amroth's access to the Archery Range and move Amrothian Archers to the Barracks
+- Add a new Dol Amroth/Gondor relations UI and allow DA to gift Gold/Armies/Settlements from it
+- Add an upgradeable version of the Tirith Aear in Dol Amroth where you will now recruit the Tirith Aear units from
+- Dol Amroth starts at war with Rhun just like Gondor
+
+### Independant Realms
+- Add new unit merc "Highwaymen". Small pony riding ruffians available anywhere Ruffians are recruitable
+
+### Northern Dúnedain
+- Remove ND's recruitment of AA units
+- Add a ruined version of the Tharbad battlemap with no walls for the ruined version of Tharbad (Thank you WK)
+- Automatically upgrade Tharbad's roads so it gets a stone bridge on the strategy map when the bridge is rebuilt
+- Remove mentions of the Dunedain and Numenor from the rebuilt Bridge of Tharbad
+
+### Kingdom of Gondor
+- Change all 7 Beacon-hills to unique csm with their own names and descriptions
+- Add new models for Osgiliath Veterans (Thank you Maverick/GaW)
+- Put Blackroot Vale Archers in T1 Archery Range
+- Move around some defence values on some Gondor units
+- Adjust some anc chances and make it so that Gondor's education traits are more emphasized but have a higher chance to gain
+- Fix Fountain Guard/Varyando Evendim missing from T2 waystation
+- Fix Gondor Cavalry coming from the Pony Stables
+
+### Reunited Kingdom (RK)
+- Increase the chance for AI RK to trigger
+- Fix Aragorn showing as dead when he's perfectly alive (hopefully)
+- Add new descriptions for the Court of Isildur buildings (Thank you Hortanium!)
+- Stop the AI from taking control of Gondor for a turn before you perform the RK as Gondor
+
+### Kingdom of Rohan
+- Allow the Rohan player to see the Glittering Caves building line and it's effects
+- Give Rohan the a custom diplomat model instead of vanilla's Italian one
+- Restore Hama's unused biography
+
+### Dorwinion
+- Make it possible for Avari rebels to spawn even on Medium relations and make the chance for friendly generals to spawn scale based on current relations (and now on Medium relations)
+- Make Vinefleet Mariners a bit more elite
+- Reduce Kugath Ford-guards upkeep
+- Update Dorwinion win conditons to not require killing any factions and update the number of settlements required
+- Fix Dorwnion getting a global 20% building cost reduction from the Vintner Court when itshould have been 5% (lol)
+- Fix Dorwinion generals not recruitable from Military Academy
+- Buidling ports no longer pisses off the avari
+
+### Breeland
+- Update Bree's win conditons to not require killing any factions and update the number of settlements required
+- Bree now gets Rhovanion, Far-rhun, Harondor and Orocarni mercs from the Mercenary's Lodge
+- Reginard is now the "Disgraced" and has an updated backstory and Vinter-Court Nobles  ashis bodyguard rather than being a deranged maniac
+- Make it clear that if you accept the Scouring as Bree you can't then do the Merc/Dunedain choice
+- Fix some issues with Bree's merc choice/scouring/armour levels (Thank you Ohno!)
+- Watch Shirriffs defense decreased by 1, shield increased by 1
+- Give Metraith the same hilly battlemap as Bregnas and other wildmen settlements
+
+### Vale of Anduin
+- Reduce size of Stoor units, give Shirriffs the thrown attribute, reduce Shirrifs ammo, give all Hobbit units "Inspires nearby allies"
+
+### Elves of Lothlorien
+- Nerf Galadhrim Glavies melee attack 17 -> 13
+- Nerf Yavanna's Chosen melee attack 10 -> 8
+- Change Yavanna's Chosen to Pike_Relentless animation
+- Change Galadhrim Glavies to Pike_Relentless animation
+- Galadhrim Chosen and Silvan Edtauryn have the same unit size (48)
+- Reduced Lorien ranged unit ammo by a factor of .9 (not including Gurdhinen)
+
+### High Elves
+- Adjust the terrain in Eregion and Lindon
+- Add a new mini script for the High Elves related to Whûn-damu-Whûn and the Druedain in Forlindon
+- Add unique building to Whûn-damu-Whûn where you can recruit Druedain Hunters as the High Elves
+- Add a new unique building in Forlond and Harlond
+- Remove some watchtowers in Forlond
+- Nerf Ahtarva Taminnarda melee attack 40 -> 20
+- Nerf Eregion Smiths melee attack 30 -> 16
+- Reduced MA of Mahtalliva Ciryarato and Mithlond Nobles to 24 and 30 respectively (from 45 and 50)
+- Allow Eregion Smiths to be recruited straight away after building the Mirdain
+- HE bodyguards aren't recruitable straightaway anymore
+
+### Woodland Realm
+- Nerf Arainior Caleryn melee attack 28 -> 18
+- Add spawn army for AI Gundabad when Player control WR
+- Greenwood Rangers and Pilin i-Thewair have the same unit size (53)
+- No Emyn-nu-Fuin for WR in autoExpansion
+- Fix issues with Legolas, Haldir, Rumil and Orophin's bodyguard not growing in size
+- Add events for Lorien/Woodland Realm when they get their bodyguards upgraded
+
+### Dwarves of Ered Luin
+- Increased recruitment cost of Broadbeam Nobles to 1500
+- Nerf EL a bit in auto-resolve
+- Update how Ered Luin recruit's its bodyguard units
+  - Longbeard Shieldbearers can be recruited from Thorin's Halls. Firebeard Warborn and Broadbeam Nobles can be recruited from Fahamgathol and Guhuhzanur respectively. If the rings have been rejected, you can recruit Tumunzahar Nobles from Thorin's Halls and Buzra Dum. If the rings have been accepted, you can recruit Grimborn Nobles instead. Grimborn Nobles can also be recruited from the Halls of Skorgrím in Buzra-Dum.
+
+### Dwarves of Khazad-Dûm
+- Add new models for Dwarven Labourers, Khazad Sentries & Khazad Volunteers
+- Reduced recruitment cost of Longbeard Shieldbearers to 1200
+- Fix (hopefully) Balin crowning message not displaying correctly
+- Make Balin's Guard Relentless
+
+### Erebor
+- Make Trollbane Ballista quicker to recruit, less upkeep and a bit faster projectile
+- Increased ammunition of all Erebor throwing-axe units to 4
+- Fix mixed up unit cards for Dain/Gimli
+
+### Dunlendings
+- Nerf Dunnish Derfelmen melee attack 7->3
+- Fix some inconsistencies with some Dunland buildings
+
+### Mordor
+- Mordor's randomly generated generals with Temple bodyguard units now have appropriate portraits, names, strat models and battle models
+- Update the army Sauron spawns with to be more elite
+- Rewrite Mordor's anti-rush scripted stack script in Lua and make it more dynamic (Spawns 4-8 turns after one of Mordor's core settlements is captured, disabled after turn 30)
+- Rewrite Mordor's Minas Morgul/Morannon revenge stacks in Lua and update the armies and conditions
+- Add the Nargil Pass in southern Mordor near Chelkar and add a new minor settlement "Nim" near Nurn
+- Nazgul can properly gain more dread now
+- Minor nerfs to Orc Archers and Black Uruk Archers so they aren't simultaneously better and cheaper than their Gondorian counterparts
+- Adjust Mordor/Gondor garrisons a bit
+- Remove armour piercing from Orc Scouts javelins
+
+### Isengard
+- Isengard gets Hillsteed Riders instead of Huntmasters
+- Make sure Uruk-hai get the right trait when coming of age
+- Move a gold mine in Isengard so it's actually reachable for raiding purposes
+- Give Isengard more of a law bonus in Longbottom to prevent instant rebellions
+- Increase size of Uruk Bodyguard
+- Enedwaith and Dunland get T3 Weapon Ugrades from in Isengard
+- Make Berserkers relentless
+
+### Goblins of Moria
+- Nerf spawn army for AI Imladris when Player control Moria
+- Reduce spawn army for AI Dunedain when Player control Moria
+
+### Angmar
+
+- Give AI Angmar a lot more settlements in auto-expansion
+- Rework the terrain in Rhudaur
+- Lock Witch-Knights bodyguard recruitment to Carn Dum, Gram Bodyguards recruitment to Mount Gram and Rhudaur Huskarls bodyguard recruitment to Cameth Brin
+- Lock Angmarim Barracks line behind retaking Carn Dum and have each level require an equivalent tier of blacksmith
+- Add a historic event when Carn Dum is captured by Angmar and another explaining you should probably go and capture Angmar (Thank you Sookie for the text)
+- Allow Angmar to get Orc and Hillmen generals via man of the hour/adoption/coming of age events
+- Iron Crown Longbowmen reduced missile attack from 7 to 6
+- Add "Ice Arrows" (lingering (60s) morale damage (-2)) with custom VFX to Darkblades
+- Witch-Realm Inquisitors increased MA 6 to 8, increased models 17 to 20, slightly increased cost & upkeep
+- Make Gundabad a bit stronger when playing as Angmar
+- Reduce Angmar plague CD and remove Sauron ring requirement
+- Angmar get's a wight general if they build a corrupted barrrow in Fornost or Ammuninas (Thank you pik_as!)
+- Adjust Angmarin bodyguard unit stats
+- Give Thralls 1 armour
+
+### Orcs of Gundabad
+
+- Update a few Gundabad unit descriptions
+
+### Dol Guldur
+
+- Add new battlemap for Dol Guldur (Thank you WK/Reforged!)
+- Allow Dol Guldur to not merge with Mordor after giving Sauron the Ring
+- Add spawn army for AI Moria when Player control Dol Guldur
+- Add spawn army for AI Gundabad when Player control Dol Guldur
+- Reduce spawn armies for AI WR and AI Lorien when Player control Dol Guldur
+- Reduce spawn army for AI Anduin when Player control Dol Guldur
+- Give 2 Nazgul slightly stronger orc units at the start of campaign
+- Give Dol Guldur forest hidden_resource
+- Add back fixed poison cloud visual for headhunters
+
+### Haradrim Tribes
+
+- Buff Hasharri defense skill
+- Give Harad Esthala in auto expansion
+- Reduce culture requirement forSerpent units and make them a bit less shit 
+- Buff Harad a bit in auto-resolve
+
+### Easterlings of Rhûn
+
+- Enable Rhun to get Uruloke Forged (5) armour for completing the Relic script and Forbidden Craft (6) for keeping the Ring (and setup the armour upgrades for this)
+- Increased maximum pool of Loke Rim units to 2 at max barracks/range level, not including Scion Rim or Innas Rim
+- Mention in unit description of Loke units that they replenish faster in regions with gold
+- Write biographies and add events for Loke-Khan Rhukuar and Margoz
+- Update Margoz's starting army to be a variety of mercenaries from Far-Rhun
+- Add the gold resource and a mine to the Mistrand region
+- Update Rhun's Unite the Clans ending message to make more sense
+- Give Far Rhun mercs back their some anti-cav
+- Remove prec from Suriut Chariots
+
+### Ar-Adûnaim
+
+- Give the randomized AA coastal settlement a port, a conscription camp, a shrine, a population boost and some King's Men culture
+- Minor buffs/nerfs to various Ar-Adunaim unit stats. Standardized model counts, adjusted costs
+- Update Adunaim's Pillar General portrait
+- Give one unit a comically high charge bonus because Silke thinks it's funny
+- Rewrite a bunch of Ar-Adunaim unit names and descriptions
+- Remove hide_anywhere fronm Azrazair Archers
+- Remove AA's ability to recruit Orc mercenaries
+- Replace AA's Hasharri recruitment with Muhad recruitment instead
+- House of Kings gives small global bonuses for AA
+- Naru n'Aru Royal Knights charge decreased 13 to 12
+- Alcarondas Sunderers MA increased 5 to 6
+- Abrazanim Legion charge increased 3 to 6
+- Abrazanim Legion MA increased to 8, given precursor attribute
+- Add 2 new custom AA subjugation generals for Annuminas and Dol Amroth (Thank you Pik_As)
+- Switched Rozadan upgrade models to make the final tier more visually distinct from the lower ones (mid tier wears partial chain, final tier wears full chain)
+
+## Battles
+- AI no longer mess around moving back and forth between loose formation
+- You can now see the stats/kills of enemy armies in the post battle screen 
+- Add new keybinds that increase (CTRL+C) and decrease (CTRL+X) the battle speed by 1
+- Make sure AI infantry don't endlessly chase after player cavalry
+- Make AI cav cycle charge faster
+- Fix Orc Announcer not working correctly
+- Disable new EOP pike behaviour until we add proper secondaries for pike units
+
+## UI
+- Add a Glossary to the Welcome/Help screen explaining some unexplained mechanics in the mod/game
+- Explain unit's morale effects in unit description and in glossary
+- Make tooltip backgrounds a bit darker (Thank you DinarMayor!)
+- Make the traits/ancillaries view a lot longer for better visibility of long trait lists
+- Show characters total army upkeep, parents, spouse and children in the character details tab, even if they're not in the factions main family tree
+- Show real stats in unit card after they get various upgrades (armour/weapon/xp)
+- Update some scroll formatting (Thank you BOTET)
+- Add new custom portrait pools for Angmar, Isengard, Anduin, Gundabad, Hobbits and Avari and overhaul some of the existing portraits for Orcs, Enedwaith, Dunland, Bree and the Maiar
+
+**Barrow-wights**
+- Allow characters to go to Imladris to remove the Cursed Blade of Westernesse and Hauntedby Barrow-wights ancillaries
+- Add a guaranteed reward for killing all Barrow-wights
+- Add a random chance for the Barrow Wights in the Barrows to move their starting location(or not have a general at all making them unlocked and able to move around)
+- Add faction specfic terms for "King's Purse" (e.g Serpent-Lord's Tithe, Council's Levy, Steward's Purse and s on)
+
+## Misc
+- Add the ability to explore the Westernesse Ruins in Eriador with a random chance to get attacked by trolls, orcs, bandits, mercs, wights etc. in the process with a reward of loot and ancillaries
+- Add 130+ new ancillaries with a focus on the Reunited Kingdom, Elves and Dwarves. Includes new books, artifacts, guardians, followers, mercenaries, lords and more! Thank you very much Bregathal/SuperAnt!
+- Rewrite the Handsome trait line to be gender agnostic
+- Make Auxillary General debuff slightly more strong
+- Rename Council of Nobles -> War Council to be more generic
+- Some minor adjustments to starting culture percentages of various settlements
+- Update Orocarni Warriors description and make them available as mercenaries with the same conditions as Far-Rhun Mercenaries
+- Lorien and Anduin now start allied
+- Orcs no longer 'long-lived'
+- Prevent Hill/Cave/Drummer trolls from getting weapon upgrades
+- Implement some small changes to growth bonuses for Eastern/Orc factions (Thank you ohno)
+- Enable anyone to recruit Lossoth Bodyguards
+- Massively increase the chance of acquiring hero abilities via buildings
+- Dwarves get T3 Weapon Upgrade for keeping the ring
+- Add a new three tiered guild for Dwarves, the Jeweller's Guild that enables the acquisition of various ancillaries and increases culture and trade
+- Make sure that AI sallies out from settlements in scenarios where they probably should
+
+## Bugfixes
+- Fix Dragon Cult trait points coming from the wrong building
+- Fix a bunch of random issues/bugs (Thank you Treebend)
+- Fix a massive amount of incorrecty unit classifications (Thank you very much ohno!)
+- Stop certain races from getting senile (Thank you ohno)
+- Fix issues with custom difficulty settings not applying correctly
+- Clean up a bunch of incorrect mount_effects
+- Update some dodgy pathfinding/unit placement in a Motte and Bailey battlemap
+- Fix a small issue with how the Treasurer ancillary was gained
+- Add the missing thrown attribute on a few jav units
+- Fix pit fight generals not spawning at all
+- Fix a bunch of sound related issues (Thank you ohno for the detailed bug report)
+- Fix issues when switching factions (eternal winter, no quicksave)
+- Fix Ring Keeping counters for player not being set correctly
+- Fix rare ring script crash
+- Fix Siege of Cair Andros crashing when selecting Isengard's army
+- Fix a bunch of typos
+- Rename "Arthedain" province to "Fornost" to prevent modder rage
+  
 # 3.2 Update
 
 <div style="text-align: center" class="download-embed">

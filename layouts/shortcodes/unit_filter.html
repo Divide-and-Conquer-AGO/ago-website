@@ -34,8 +34,18 @@
           <tbody>
             <tr>
               <td class="unit-image">
-                {{ $imagePath := printf "/info_cards/%s_info.webp" $unitData.Dictionary | lower }}
+                {{ $target := printf "%s_info.webp" $unitData.Dictionary | lower }}
+                {{ $imagePath := "" }}
+                
+                {{ range readDir "static/info_cards" }}
+                {{ if eq (.Name | lower) $target }}
+                {{ $imagePath = printf "/info_cards/%s" .Name }}
+                {{ end }}
+                {{ end }}
+                
+                {{ if $imagePath }}
                 <img src="{{ $imagePath | relURL }}" alt="{{ $unitData.Dictionary }} Info">
+                {{ end }}
               </td>
               <td class="unit-info">
                 <table class="attribute-table">
