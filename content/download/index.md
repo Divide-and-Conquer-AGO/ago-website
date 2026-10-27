@@ -9,8 +9,9 @@ description: "Download and install instructions for AGO"
 
 ## Download Links
 
-* ### [Link (Mega)](https://mega.nz/file/hE0n0BpA#xzR-kU_RroPEIhMRtiMrBKgfsA2DVyfRJQGGdBN96rE)
-* ### [Mirror (Google Drive)](https://drive.google.com/file/d/1iBgfgEdvf4dBnhXVeh3niOfdvTWRGzjS/view)
+### Recommended
+* ### [Link (Mega)](https://mega.nz/file/GPZDVS5b#B7nm-m6r0uZfXAhC18btuYfpDhpLGEbVkHuFrU0j_hw)
+* ### [Mirror (Google Drive)](https://drive.google.com/file/d/1o-nmI3yA56BlDsav4VdHHHeHIKtVKD6d/view?usp=sharing)
 * ### [Mirror (Torrent)](https://github.com/Divide-and-Conquer-AGO/ago-website/raw/refs/heads/v3-changes/content/download/AGO_V3_Installer.torrent)
 * ### [Mirror (ModDB)](https://www.moddb.com/downloads/start/304036)
 
